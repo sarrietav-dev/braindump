@@ -3,11 +3,11 @@ function Noise() {
     <svg
       style={{
         pointerEvents: "none",
-        position: "absolute",
-        isolation: "isolate",
-        height: "100%",
-
-        width: "100%",
+        position: "fixed", // Use "fixed" to make it cover the entire viewport.
+        top: 0,
+        left: 0,
+        height: "100vh", // Ensure it always covers the visible viewport height.
+        width: "100vw", // Ensure it always covers the visible viewport width.
         mixBlendMode: "soft-light",
         zIndex: 50,
         opacity: 0.7,
