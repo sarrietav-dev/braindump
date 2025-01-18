@@ -1,3 +1,33 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.intro {
+  display: flex;
+  flex-direction: column;
+
+  &__img {
+    display: none;
+    margin: auto 0;
+  }
+}
+
+@media (min-width: 768px) {
+  .intro {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+    &__words {
+      grid-column: 1 / span 2;
+    }
+
+    &__img {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      img {
+        width: 100%;
+        height: auto;
+      }
+    }
+  }
+}
