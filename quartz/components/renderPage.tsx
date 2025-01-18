@@ -24,12 +24,13 @@ interface RenderComponents {
 const headerRegex = new RegExp(/h[1-6]/)
 export function pageResources(
   baseDir: FullSlug | RelativeURL,
+  fileData: QuartzPluginData,
   staticResources: StaticResources,
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
   const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
 
-  return {
+  const resources: StaticResources = {
     css: [
       {
         content: joinSegments(baseDir, "index.css"),
@@ -49,14 +50,28 @@ export function pageResources(
         script: contentIndexScript,
       },
       ...staticResources.js,
-      {
-        src: joinSegments(baseDir, "postscript.js"),
-        loadTime: "afterDOMReady",
-        moduleType: "module",
-        contentType: "external",
-      },
     ],
   }
+
+  if (fileData.hasMermaidDiagram) {
+    resources.js.push({
+      script: mermaidScript,
+      loadTime: "afterDOMReady",
+      moduleType: "module",
+      contentType: "inline",
+    })
+    resources.css.push({ content: mermaidStyle, inline: true })
+  }
+
+  // NOTE: we have to put this last to make sure spa.inline.ts is the last item.
+  resources.js.push({
+    src: joinSegments(baseDir, "postscript.js"),
+    loadTime: "afterDOMReady",
+    moduleType: "module",
+    contentType: "external",
+  })
+
+  return resources
 }
 
 export function renderPage(
