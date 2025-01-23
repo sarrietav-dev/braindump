@@ -23,7 +23,7 @@ function Noise() {
           stitchTiles="stitch"
         ></feTurbulence>
       </filter>
-      <rect width="100%" height="100%" filter="url(#noise)"></rect>
+      <rect width="200vh" height="100vh" filter="url(#noise)"></rect>
     </svg>
   )
 }
