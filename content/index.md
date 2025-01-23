@@ -2,7 +2,7 @@
 title: Welcome!
 ---
 
-<div style="font-family: 'Georgia', serif; font-style: italic; font-size: 1.5rem; text-align: center; color: #7b97aa; padding: 20px; margin-bottom: 20px;">
+<div style="font-family: 'Georgia', serif; font-style: italic; font-size: 1.5rem; text-align: center; color: var(--secondary); padding: 20px; margin-bottom: 20px;">
 "Exploring technology, faith, and meaningful impact."
 </div>
 
