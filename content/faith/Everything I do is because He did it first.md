@@ -1,0 +1,1 @@
+Everything I do is because He did it first to me. He acts, we respond. I'm owned by him, He is my boss, my master, my Lord. We receive Him because He came to us. We thank Him because He first does much for us. We walk in Him because He fills us.

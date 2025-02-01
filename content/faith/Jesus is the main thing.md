@@ -1,0 +1,1 @@
+Jesus is the main thing. Nothing is greater than Him. He's the image of God. Everything was made through Him. Nothing is made without Him. Nothing lacks in Him. Bow to the Maker!
