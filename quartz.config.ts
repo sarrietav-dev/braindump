@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🌲 Sebastian",
+    pageTitle: "🌲 Sebas",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -30,15 +30,15 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f4f8f3",
-          lightgray: "#dfe5e1",
-          gray: "#a3b3ad",
-          darkgray: "#5e736c",
+          light: "#e8f0e8",
+          lightgray: "#cfd8d3",
+          gray: "#8a9b95",
+          darkgray: "#4e5e58",
           dark: "#2c3e3b",
           secondary: "#4b6d63" /* Primary accent: Deep Forest Green */,
-          tertiary: "#84a59d" /* Secondary accent: Muted Sage */,
-          highlight: "rgba(75, 107, 95, 0.15)" /* Soft green highlight */,
-          textHighlight: "#c6d9cf" /* Hover Effect: Brightened Sage */,
+          tertiary: "#748c85" /* Secondary accent: Muted Sage */,
+          highlight: "rgba(75, 107, 95, 0.1)" /* Softer green highlight */,
+          textHighlight: "#b0c4b8" /* Softer hover effect */,
         },
         darkMode: {
           light: "#1a2420",
@@ -47,9 +47,9 @@ const config: QuartzConfig = {
           darkgray: "#ccd4ce",
           dark: "#e4ece8",
           secondary: "#5a7b6f" /* Primary accent: Deep Forest Green */,
-          tertiary: "#84a59d" /* Secondary accent: Muted Sage */,
-          highlight: "rgba(75, 107, 95, 0.2)" /* Soft green highlight for dark mode */,
-          textHighlight: "#a1c2b2" /* Misty Teal for hover text highlight */,
+          tertiary: "#748c85" /* Secondary accent: Muted Sage */,
+          highlight: "rgba(75, 107, 95, 0.15)" /* Softer green highlight for dark mode */,
+          textHighlight: "#8fb3a3" /* Softer hover text highlight */,
         },
       },
     },

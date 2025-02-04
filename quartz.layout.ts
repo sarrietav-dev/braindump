@@ -30,23 +30,24 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(
-      Component.Links(),
-    ),
+    Component.DesktopOnly(Component.Links()),
     Component.DesktopOnly(
       Component.RecentNotes({
-        title: "What I've been reading",
+        title: "Recent Notes",
         limit: 4,
-        filter: (f) => f.slug!.startsWith("source-material/"),
-        linkToMore: "source-material/" as SimpleSlug,
+        filter: (f) =>
+          f.slug!.startsWith("main-notes/") &&
+          f.slug! !== "main-notes/index" &&
+          !f.frontmatter?.noindex,
+        linkToMore: "main-notes/" as SimpleSlug,
       }),
     ),
     Component.DesktopOnly(
       Component.RecentNotes({
-        title: "Recent Notes",
+        title: "What I've been reading",
         limit: 2,
-        filter: (f) => f.slug!.startsWith("main-notes/"),
-        linkToMore: "main-notes/" as SimpleSlug,
+        filter: (f) => f.slug!.startsWith("source-material/"),
+        linkToMore: "source-material/" as SimpleSlug,
       }),
     ),
   ],
