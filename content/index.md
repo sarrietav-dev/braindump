@@ -14,7 +14,7 @@ title: Welcome!
     </p>
   </div>
   <div class="intro__img">
-    <img src="./me.png" />
+    <img src="./assets/me.png" />
   </div>
 </div>
 
