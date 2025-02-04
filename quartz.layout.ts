@@ -31,6 +31,17 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(
+      Component.Links(),
+    ),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "What I've been reading",
+        limit: 4,
+        filter: (f) => f.slug!.startsWith("source-material/"),
+        linkToMore: "source-material/" as SimpleSlug,
+      }),
+    ),
+    Component.DesktopOnly(
       Component.RecentNotes({
         title: "Recent Notes",
         limit: 2,

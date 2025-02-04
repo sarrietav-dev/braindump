@@ -1,4 +1,5 @@
 import Content from "./pages/Content"
+import Links from "./Links"
 import TagContent from "./pages/TagContent"
 import FolderContent from "./pages/FolderContent"
 import NotFound from "./pages/404"
@@ -46,4 +47,5 @@ export {
   Breadcrumbs,
   Comments,
   Noise,
+  Links,
 }
