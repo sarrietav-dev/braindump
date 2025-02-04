@@ -22,6 +22,6 @@ title: Welcome!
 
 These are some projects that I'm proud of:
 
-- [[CampusCal]]: Developed a comprehensive booking system for the University of Cartagena, streamlining the management of college spaces. Enhanced user experience by reducing booking times by 50% through an intuitive design and efficient workflows. Built using **Laravel**, **Vue.js**, and **TailwindCSS**.
-- [[Horizon]]: Created a robust software solution for managing issues in horizontal property administration. Focused on scalability and user-friendly interfaces to simplify property management processes. Built with **React.js** and **Spring Boot**.
-- [[Shoppingify]]: Designed and built a web application for managing shopping lists and providing advanced analytics to track purchasing habits. Developed with a strong focus on **Domain-Driven Design (DDD)** principles to ensure scalability and maintainability.
+- [CampusCal](https://github.com/sarrietav-dev/campuscal): Developed a comprehensive booking system for the University of Cartagena, streamlining the management of college spaces. Enhanced user experience by reducing booking times by 50% through an intuitive design and efficient workflows. Built using **Laravel**, **Vue.js**, and **TailwindCSS**.
+- [Horizon](https://github.com/sarrietav-dev/horizon): Created a robust software solution for managing issues in horizontal property administration. Focused on scalability and user-friendly interfaces to simplify property management processes. Built with **React.js** and **Spring Boot**.
+- [Shoppingify](https://github.com/sarrietav-dev/shoppingify): Designed and built a web application for managing shopping lists and providing advanced analytics to track purchasing habits. Developed with a strong focus on **Domain-Driven Design (DDD)** principles to ensure scalability and maintainability.

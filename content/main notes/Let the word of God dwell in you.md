@@ -1,3 +1,7 @@
+---
+tags:
+  - faith
+---
 Let the word of God dwell in you. 
 
 It strengthens a man's heart to not go off the rails.

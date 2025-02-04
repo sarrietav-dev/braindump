@@ -1,3 +1,7 @@
+---
+tags:
+  - faith
+---
 Christian life is not an easy one. 
 
 We have to fight the good battle of faith. That's the path to eternal salvation.

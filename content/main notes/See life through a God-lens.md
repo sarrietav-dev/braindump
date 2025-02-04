@@ -1,3 +1,9 @@
+---
+tags:
+  - faith
+---
+
+
 See life through a God-lens, see Him as the central figure of it all. 
 
 See how God has delivered you from trials and has been faithful through dark days.

@@ -1,3 +1,7 @@
+---
+tags:
+  - faith
+---
 Jesus is the main thing. Nothing is greater than Him. 
 
 He's the image of God. 
