@@ -184,7 +184,7 @@ a {
       box-sizing: border-box;
       padding: $topSpacing 2rem 2rem 2rem;
       display: flex;
-      min-height: 100vh;
+      height: 100vh;
       position: sticky;
     }
 
@@ -192,6 +192,10 @@ a {
       z-index: 1;
       grid-area: grid-sidebar-left;
       flex-direction: column;
+      @media all and ($desktop) {
+        min-height: 100vh;
+      }
+
       @media all and ($mobile) {
         gap: 0;
         align-items: center;
@@ -224,6 +228,10 @@ a {
         & > .toc {
           display: none;
         }
+      }
+
+      @media all and ($desktop) {
+        min-height: 100vh;
       }
     }
     & .page-header,
