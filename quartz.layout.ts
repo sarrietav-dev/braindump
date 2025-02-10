@@ -44,7 +44,7 @@ export const defaultContentPageLayout: PageLayout = {
     ),
     Component.DesktopOnly(
       Component.RecentNotes({
-        title: "What I've been reading",
+        title: "Things I’ve Been Exploring",
         limit: 2,
         filter: (f) =>
           f.slug!.startsWith("source-material/") &&
