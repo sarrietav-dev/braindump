@@ -3,7 +3,6 @@ tags:
   - faith
   - bible
 ---
-
 # James 1
 ## James 1:2-18
 
@@ -35,4 +34,4 @@ In this difficult passage, James seems to contradict Paul on the claim that we a
 
 According to the ESV Study Bible, when James uses the word justify, what he means is that *works demonstrate that someone has been justified*.
 
-According to the ESV Men's devotional bible, we have to distinguish the way James uses the word “faith”. Sometimes he refers to *true, saving, living faith*; sometimes he refers to *false, useless, dead* faith. 
+According to the ESV Men's devotional bible, we have to distinguish the way James uses the word “faith”. Sometimes he refers to *true, saving, living faith*; sometimes he refers to *false, useless, dead* faith.
