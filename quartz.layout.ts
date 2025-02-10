@@ -46,7 +46,11 @@ export const defaultContentPageLayout: PageLayout = {
       Component.RecentNotes({
         title: "What I've been reading",
         limit: 2,
-        filter: (f) => f.slug!.startsWith("source-material/"),
+        filter: (f) =>
+          f.slug!.startsWith("source-material/") &&
+          !f.slug!.includes("index") &&
+          !f.frontmatter?.noindex,
+
         linkToMore: "source-material/" as SimpleSlug,
       }),
     ),
