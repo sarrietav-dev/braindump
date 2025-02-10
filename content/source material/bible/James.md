@@ -1,3 +1,9 @@
+---
+tags:
+  - faith
+  - bible
+---
+
 # James 1
 ## James 1:2-18
 
@@ -28,3 +34,5 @@ James says that if you show partiality, you commit the sin against the commandme
 In this difficult passage, James seems to contradict Paul on the claim that we are not justified by works. But in reality, he is saying that works are the evidence of your faith. True faith *produces* works. He also gives examples of the works of Abraham when he was about to kill his son, on Rehab when she trusted God and allowed the Hebrew spies to escape Jericho.
 
 According to the ESV Study Bible, when James uses the word justify, what he means is that *works demonstrate that someone has been justified*.
+
+According to the ESV Men's devotional bible, we have to distinguish the way James uses the word “faith”. Sometimes he refers to *true, saving, living faith*; sometimes he refers to *false, useless, dead* faith. 
