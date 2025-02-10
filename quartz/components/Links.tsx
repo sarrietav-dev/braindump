@@ -25,9 +25,9 @@ export default ((userOpts?: Partial<Options>) => {
         <ul>
           <li>
             <h3 style={{ marginTop: 0, marginBottom: 0 }}>
-              <a href="/main-notes">Notes</a>
+              <a href="/main-notes">Thoughts</a>
             </h3>
-            <i>insights from learning</i>
+            <i>personal insights/writing</i>
           </li>
           <li>
             <h3 style={{ marginTop: 0, marginBottom: 0 }}>
@@ -46,6 +46,12 @@ export default ((userOpts?: Partial<Options>) => {
               <a href="/tags/projects">Projects</a>
             </h3>
             <i>tinkering with stuff</i>
+          </li>
+          <li>
+            <h3 style={{ marginTop: 0, marginBottom: 0 }}>
+              <a href="/source-material">Source material</a>
+            </h3>
+            <i>Notes from learning</i>
           </li>
         </ul>
       </div>

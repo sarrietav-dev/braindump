@@ -19,4 +19,3 @@ Also, Turrek states that even if nobody on this age has seed Jesus rise from the
 > History is largely the result of testimony.
 > 
 > — Frank
-

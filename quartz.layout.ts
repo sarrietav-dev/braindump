@@ -6,7 +6,7 @@ import { SimpleSlug } from "./quartz/util/path"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [Component.MobileOnly(Component.Links())],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/sarrietav-dev",
