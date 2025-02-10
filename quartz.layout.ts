@@ -34,7 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "Recent Notes",
-        limit: 4,
+        limit: 2,
         filter: (f) =>
           f.slug!.startsWith("main-notes/") &&
           f.slug! !== "main-notes/index" &&
@@ -45,7 +45,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "Things I’ve Been Exploring",
-        limit: 2,
+        limit: 4,
         filter: (f) =>
           f.slug!.startsWith("source-material/") &&
           !f.slug!.includes("index") &&

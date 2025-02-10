@@ -11,10 +11,12 @@ Turrek says that the opposite has already happened. Many science practices of th
 
 > [!quote]
 > I think science continues to be overturned by newer theories and those older books don't matter anymore whereas the Bible is still relevant even though it was written from 3,400 years ago through Jesus's time just past Jesus's time
+>
 > — Frank
 
 Also, Turrek states that even if nobody on this age has seed Jesus rise from the dead, that doesn't mean it didn't happen. None of us have seen Aristotle or Plato, but that doesn't mean they didn't exist.
 > [!quote]
 > History is largely the result of testimony.
+> 
 > — Frank
 

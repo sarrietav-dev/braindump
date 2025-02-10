@@ -196,7 +196,7 @@ a {
       grid-area: grid-sidebar-left;
       flex-direction: column;
       @media all and ($desktop) {
-        min-height: 100vh;
+        min-height: 100%;
       }
 
       @media all and ($mobile) {
@@ -234,7 +234,7 @@ a {
       }
 
       @media all and ($desktop) {
-        min-height: 100vh;
+        min-height: 100%;
       }
     }
     & .page-header,
