@@ -4,7 +4,9 @@ tags:
   - sermons
 ---
 
-Link to the sermon: [Dante Gebel | El juego de las puertas](https://www.youtube.com/watch?v=vABkvIieRi4) 
+Link to the sermon:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vABkvIieRi4?si=Qs2ynKdbsmevmkRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 We begin life regretting what we did, but we finish it regretting what we didn't do.
 
