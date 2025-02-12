@@ -55,7 +55,7 @@ We must concentrate and be fully engaged without devotional time.
 We must have a lowly spirit whose goal is to worship the Lord.
 
 > [!quote]
-> Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created
+> Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created.
 > 
 > — Revelation 4:11
 
