@@ -3,7 +3,9 @@ tags:
   - faith
   - apologetics
 ---
-Link to the video: [Ricky Gervais: The Bible Will Be Forgotten by Cross Examined](https://youtu.be/Kdlp7rUq124?si=lX4Av7B5EF2Fa2bh)
+Link to the video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kdlp7rUq124?si=gteehS7v09zJZgdW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 In this video a guy ask how Frank Turrek would respond to a statement that the British comedian Ricky Gervais said: “If we burn all science books and all religious texts, in a couple of thousands of years, the science books will be back, but religion will be forgotten”.
 
@@ -15,6 +17,7 @@ Turrek says that the opposite has already happened. Many science practices of th
 > — Frank
 
 Also, Turrek states that even if nobody on this age has seed Jesus rise from the dead, that doesn't mean it didn't happen. None of us have seen Aristotle or Plato, but that doesn't mean they didn't exist.
+
 > [!quote]
 > History is largely the result of testimony.
 > 
