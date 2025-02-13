@@ -1,7 +1,6 @@
 ---
 tags:
-  - coding
-  - practices
+  - coding-practices
   - software
 ---
 Link to the article: https://qntm.org/devphilo

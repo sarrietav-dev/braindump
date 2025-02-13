@@ -1,0 +1,201 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "folder"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {},
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [
+    {
+      "id": "NGkG0",
+      "name": "Faith tag",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "faith"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-book-plus"
+    },
+    {
+      "id": "0GdSo",
+      "name": "Coding",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "software"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-code-square"
+    },
+    {
+      "id": "liSuV",
+      "name": "index",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "index"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-book-dashed"
+    }
+  ],
+  "folderRules": [
+    {
+      "id": "iPCqZ",
+      "name": "source material",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "source material"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-notebook-pen"
+    },
+    {
+      "id": "IO50F",
+      "name": "tags",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "tags"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-tags"
+    },
+    {
+      "id": "VYFq4",
+      "name": "main notes",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "main notes"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-lightbulb"
+    },
+    {
+      "id": "tUG14",
+      "name": "videos",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "videos"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-video"
+    },
+    {
+      "id": "V2GJz",
+      "name": "sermons",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "sermons"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-church"
+    },
+    {
+      "id": "qLLoR",
+      "name": "books",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "books"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-book-copy"
+    },
+    {
+      "id": "xghf0",
+      "name": "articles",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "articles"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-newspaper"
+    },
+    {
+      "id": "44Pvw",
+      "name": "bible",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "bible"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-book-plus"
+    },
+    {
+      "id": "CIob9",
+      "name": "assets",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "assets"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-file-image"
+    }
+  ]
+}
