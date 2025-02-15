@@ -238,7 +238,7 @@ export function renderPage(
     <html lang={lang}>
       <Head {...componentData} />
       <body style={{ position: "relative" }} data-slug={slug}>
-        <Noise />
+        {/* <Noise /> */}
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}

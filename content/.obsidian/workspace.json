@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f931fed49917df6c",
@@ -95,13 +94,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source material/books/Disciplines of a Godly man.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Disciplines of a Godly man"
+              "title": "Outline"
             }
           },
           {
@@ -110,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source material/books/Disciplines of a Godly man.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Disciplines of a Godly man"
+              "title": "Backlinks"
             }
           },
           {
@@ -184,6 +181,7 @@
   },
   "active": "2b99f98606ff0996",
   "lastOpenFiles": [
+    "source material/books/Disciplines of a Godly man.md",
     "main notes/Product feedback in Ruby on Rails.md",
     "tags/software.md",
     "index.md",
@@ -211,7 +209,6 @@
     "Untitled 1.canvas",
     "source material/sermons/The game of doors.md",
     "source material/videos/Ricky Gervais — The Bible will be forgotten.md",
-    "source material/books/Disciplines of a Godly man.md",
     "source material/sermons",
     "source material/books/index.md",
     "source material/books",
