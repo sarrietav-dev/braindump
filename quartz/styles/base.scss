@@ -232,10 +232,6 @@ a {
           display: none;
         }
       }
-
-      @media all and ($desktop) {
-        min-height: 100%;
-      }
     }
     & .page-header,
     & .page-footer {
