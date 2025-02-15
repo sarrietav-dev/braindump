@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "main notes/Product feedback in Ruby on Rails.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Product feedback in Ruby on Rails"
             }
           }
         ]
@@ -178,8 +178,11 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "4814f594c236807e",
+  "active": "592d7e9f0757aea3",
   "lastOpenFiles": [
+    "tags/software.md",
+    "main notes/Product feedback in Ruby on Rails.md",
+    "index.md",
     "source material/articles/Developer philosophy by qntm.md",
     "source material/books/Learning Domain Driven Design.md",
     "source material/sermons/index.md",
@@ -208,9 +211,6 @@
     "source material/sermons",
     "source material/books/index.md",
     "source material/books",
-    "source material/Untitled.md",
-    "source material/videos/index.md",
-    "source material/articles/index.md",
     "source material/videos",
     "source material/bible",
     "source material/articles",

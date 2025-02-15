@@ -1,12 +1,27 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#software  ",
+      "color": {
+        "a": 1,
+        "rgb": 3896828
+      }
+    },
+    {
+      "query": "tag:#faith ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 258,
-  "scale": 0.6666666666666666,
-  "close": true
+  "scale": 0.9999999999999991,
+  "close": false
 }
