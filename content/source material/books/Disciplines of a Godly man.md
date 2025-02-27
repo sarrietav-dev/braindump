@@ -5,6 +5,7 @@ tags:
   - christian-living
 ---
 # Devotion
+
 ## Meditation
 
 Personalizing and internalizing a segment of God's word. This is broken into two parts:
@@ -15,6 +16,7 @@ Personalizing and internalizing a segment of God's word. This is broken into two
 Meditation has benefits like the revival of the soul, wisdom and more faith.
 
 There are passages that are perfect for meditation like:
+
 - The 10 commandments
 - The Lord's prayer
 - The beatitudes
@@ -28,7 +30,7 @@ Meditation must be regular, day and night. And it can be done at any time: while
 
 > [!quote]
 > Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy.
-> 
+>
 > — Proverbs 28:13
 
 First, we must confess who we truly are: sinners. This is a reminder for us to avoid falling into the trap of falsely supposing that we are rising above our condition, and that's sinful.
@@ -42,10 +44,11 @@ We have to be thankful of being able to unload our sins to God like if we were t
 
 > [!quote]
 > We must lay before Him what's in us, not what ought to be in us.
-> 
+>
 > — C. S. Lewis, Letters to Malcolm: Chiefly on Prayer.
 
 ## Adoration
+
 ### Reverence
 
 Be fearful of your sinful condition vs. the holiness of God.
@@ -56,7 +59,7 @@ We must have a lowly spirit whose goal is to worship the Lord.
 
 > [!quote]
 > Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created.
-> 
+>
 > — Revelation 4:11
 
 ### Contemplation
@@ -67,7 +70,7 @@ Seeing His creation, how his glory can be seen through His mighty works: the tre
 
 > [!quote]
 > The heavens declare the glory of God, and the sky proclaims his handiwork. Day to day pours out speech, and night to night reveals knowledge.
-> 
+>
 > — Psalm 19:1-2
 
 By taking a minute and contemplate all of this, we might as well fall on our knees.
@@ -89,6 +92,7 @@ We can use Psalms, New Testament hymns, modern music or songs!
 ### Submission
 
 All adoration leads to submission: to present our bodies to Christ. To yield every part of ourselves.
+
 - Our personality.
 - Our ambitions.
 - Our relationships.
@@ -108,7 +112,7 @@ Pray in the Spirit. Praying in the Spirit means letting the Holy Spirit guide, a
 
 He tells us what to pray for, aligns us with God's will, and informs our prayers from heaven. Also, He gives us conviction that what we are praying for aligns with God's desires and motives.
 
-And example might be continuing to pray for your unbelieving family. If you feel led to keep praying for them, it's likely God's will for them to believe. George Muller, for instance, prayed for over 50 years for two men to be converted. One converted in his lifetime, and the other after his death. 
+And example might be continuing to pray for your unbelieving family. If you feel led to keep praying for them, it's likely God's will for them to believe. George Muller, for instance, prayed for over 50 years for two men to be converted. One converted in his lifetime, and the other after his death.
 
 The Spirit also provides direction, energy, and a desire to pray when we feel tired, weak, or discouraged.
 
@@ -117,14 +121,14 @@ The Spirit also provides direction, energy, and a desire to pray when we feel ti
 
 ### Continual prayer
 
-The Bible calls us to “pray without ceasing” (1 Thess. 5:17). The primitive church was also devoted to prayer: 
+The Bible calls us to “pray without ceasing” (1 Thess. 5:17). The primitive church was also devoted to prayer:
 
 > [!quote]
 > All these with one accord were devoting themselves to prayer, together with the women and Mary the mother of Jesus, and his brothers
-> 
+>
 > — (Acts 1:14)
 
-While it's impossible to be in constant verbal prayer due to life's responsibilities, the key is *the posture of the heart*. 
+While it's impossible to be in constant verbal prayer due to life's responsibilities, the key is _the posture of the heart_.
 
 Thomas Kelly describes our mental life in two spaces: one for external activities (thinking, discussing, working) and a deeper space for prayer, adoration, and worship.
 
@@ -140,7 +144,7 @@ Paul instructed to Timothy:
 
 > [!quote]
 > “First of all, then, I urge that supplications, prayers, intercessions, and thanksgivings be made for all people”
-> 
+>
 > — 1 Tim. 2:1
 
 ### Persistent prayer
@@ -149,7 +153,7 @@ We must never lose heart in our prayers. Keep on praying. Jesus emphasized perse
 
 > [!quote]
 > Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.
-> 
+>
 > — Matthew 7:7
 
 - Ask: Humbly request what you need, like asking a superior.
@@ -159,6 +163,7 @@ We must never lose heart in our prayers. Keep on praying. Jesus emphasized perse
 These verbs are in imperative form, meaning Jesus is giving a command.
 
 > [!info]- Continual vs. persistent
+>
 > - Continual prayer means maintaining a prayerful heart and mindset at all times.
 > - Persistent prayer means never giving up, like the widow who kept pleading with the judge in Luke 18:1-5.
 
@@ -168,7 +173,7 @@ We are called to pray “for all the saints” — for the believers in Jesus Ch
 
 > [!quote]
 > More things are worked by prayer than this world dreams of... For what are men better than sheep or goats if, knowing God, they don't lift hands of prayers both for themselves and those who call them friend?
-> 
+>
 > —  Alfred, Lord Tennyson
 
 ## The practice
@@ -206,12 +211,12 @@ The Bible records Jesus praying early in the morning.
 
 > [!quote]
 > And rising very early in the morning, while it was still dark, he departed and went out to a desolate place, and there he prayed
-> 
+>
 > — (Mark 1:35)
 
 ### Posture
 
-One's prayer posture can make the difference. 
+One's prayer posture can make the difference.
 
 Scripture doesn't prescribe a specific prayer posture, but it should be one of reverent attention. You can kneel, lift your hands, walk, sit, or prostrate yourself before God.
 
@@ -231,9 +236,10 @@ Luther advised:
 
 ## Discipline
 
-Prayer is not something we do when we *feel like it*. Praying is work, it requires effort and discipline. Otherwise, we would rarely pray!
+Prayer is not something we do when we _feel like it_. Praying is work, it requires effort and discipline. Otherwise, we would rarely pray!
 
 However, we should also avoid overcommitting ourselves, specially when we are beginning this journey. A balanced start might include:
+
 - 15 minutes of prayer.
 - 5 minutes of meditation.
 - 5 minutes of Bible reading.
@@ -246,7 +252,7 @@ If someone had asked about his prayer life, he would have admitted that it was p
 
 But after weeks of perseverance he noticed that his emotions were starting to settle Though distractions still arouse, he realized that his will was independent of his emotions. They no longer disrupted his prayer time.
 
-Then one day, the emotions returned—not with distractions, but with *Hallelujahs* and *Amens*. His emotions and his will had finally aligned in prayer.
+Then one day, the emotions returned—not with distractions, but with _Hallelujahs_ and _Amens_. His emotions and his will had finally aligned in prayer.
 
 # Worship
 
@@ -301,7 +307,7 @@ The main reason for all of this is that we humans are fundamentally dishonest. I
 
 > [!quote]
 > “Their throat is an open grave; they use their tongues to deceive. ‘The venom of asps is under their lips’”
-> 
+>
 > — Romans 3:13
 
 ## What does God think about integrity?
@@ -314,10 +320,10 @@ Integrity is one of the greatest needs of the church today. We need people that 
 
 > [!quote]
 > “Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ”
-> 
+>
 > — Ephesians 4:15
 
-Everybody, Christian or not, deep down in their heart desires to be freed from the dishonesty of the world who cultivates deception. 
+Everybody, Christian or not, deep down in their heart desires to be freed from the dishonesty of the world who cultivates deception.
 
 And that makes integrity a powerful evangelistic tool. It acts like a magnet to Christ when those people see the quality of a church or individual.
 
@@ -367,5 +373,3 @@ A man of integrity is a man of principle, which is different of having principle
 - Intimacy: You'll enjoy intimacy with God because He rejoices with the heart in which truth resides.
 - Elevation: Integrity brings more integrity. Honesty leads to honesty and characters creates more character.
 - Evangelism: Integrity acts as a magnet for Christ.
-
-

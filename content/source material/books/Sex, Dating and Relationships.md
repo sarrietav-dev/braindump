@@ -3,13 +3,15 @@ tags:
   - faith
   - dating
 ---
+
 # Sex and the gospel
 
 Sex is a living portrait, type or foreshadow of the union of believers and Christ.
 
-A *type* in the Bible is an image of an action that represents something divine.
+A _type_ in the Bible is an image of an action that represents something divine.
 
 Examples of types:
+
 - Adam and Jesus
 - The Passover lamb and the sacrifice of Jesus.
 

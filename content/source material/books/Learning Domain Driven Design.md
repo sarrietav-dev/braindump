@@ -4,6 +4,7 @@ tags:
   - architecture
   - ddd
 ---
+
 # Domains
 
 A domain is the company’s area of activity. The service it provides to its clients. A company can have many domains.

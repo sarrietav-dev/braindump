@@ -3,6 +3,7 @@ tags:
   - faith
   - apologetics
 ---
+
 Link to the video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kdlp7rUq124?si=gteehS7v09zJZgdW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -20,5 +21,5 @@ Also, Turrek states that even if nobody on this age has seed Jesus rise from the
 
 > [!quote]
 > History is largely the result of testimony.
-> 
+>
 > — Frank

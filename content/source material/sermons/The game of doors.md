@@ -12,8 +12,7 @@ We begin life regretting what we did, but we finish it regretting what we didn't
 
 We don't have to spiritualize every decision we make in life.
 
-> [!quote]
-> [8] “I know your works. Behold, I have set before you an open door, which no one is able to shut…” (ESV)
+> [!quote] > [8] “I know your works. Behold, I have set before you an open door, which no one is able to shut…” (ESV)
 >
 > — Revelation 3:8
 
@@ -35,26 +34,25 @@ God rarely opens the biggest doors. In the Bible we have examples like Moses not
 
 One of God's greatest gifts is unanswered prayers.
 
-> [!quote]
-> **16** “A little while, and you will see me no longer; and again a little while, and you will see me.”
-> 
+> [!quote] > **16** “A little while, and you will see me no longer; and again a little while, and you will see me.”
+>
 > **17** Some of his disciples said to one another,
 > "What does he mean by saying, ‘A little while, and you will not see me, and again a little while, and you will see me’? And, ‘because I am going to the Father’?"
-> 
+>
 > **18** They kept asking,  
 > "What does he mean by ‘a little while’? We do not understand what he is saying."
-> 
+>
 > **19** Jesus knew they wanted to ask him, so he said to them,  
-> _“Are you asking yourselves what I meant when I said, ‘A little while, and you will not see me, and again a little while, and you will see me’?”
-> 
-> **20**  “Truly, truly, I say to you, you will weep and mourn, while the world rejoices. You will be sorrowful, but your sorrow will turn into joy.
-> 
+> \_“Are you asking yourselves what I meant when I said, ‘A little while, and you will not see me, and again a little while, and you will see me’?”
+>
+> **20** “Truly, truly, I say to you, you will weep and mourn, while the world rejoices. You will be sorrowful, but your sorrow will turn into joy.
+>
 > **21** When a woman is giving birth, she experiences sorrow because her hour has come. But once she has delivered the baby, she no longer remembers the anguish—for joy that a human being has been born into the world.
-> 
+>
 > **22** So also, you now have sorrow, but I will see you again, and your hearts will rejoice, and no one will take your joy from you.
-> 
+>
 > **23** In that day, you will ask nothing of me. Truly, truly, I say to you, whatever you ask of the Father in my name, He will give to you.
-> 
+>
 > **24** Until now, you have asked for nothing in my name. Ask, and you will receive, that your joy may be full."
-> 
+>
 > — John 16:16-24

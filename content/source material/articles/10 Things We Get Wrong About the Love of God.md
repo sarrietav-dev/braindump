@@ -3,19 +3,20 @@ tags:
   - faith
 description:
 ---
+
 These are my notes of this article: [10 Things We Get Wrong About the Love of God | Crossway Articles](https://www.crossway.org/articles/10-things-we-get-wrong-about-the-love-of-god).
 
 At the time of writing, I don't understand much about the Calvinism vs. Arminianism debate. What I do understand is that Calvinists believe God chooses who is saved, while Arminians believe humans can freely choose to believe and be saved—or not. I mention this because every time I see the word “elect” (which appears around 12 times in this article), it reminds me of Calvinism. I'm neither for nor against this theology until I understand it better.
 
-
 1. **He doesn't owe us His love**. He's sovereign, he can freely give and freely withhold His love to anyone. Seems that there are two types of love, one of which is [[Saving love|saving or electing love]], which it doesn't give to “hell-deserving sinners”.
 
 2. **His love is not monolithic**. His love can vary depending on His purpose, good will, among other reasons. Like in the way He displays his kindness, mercy, and patience to everyone (common grace) versus how he redeems, regenerates and gives eternal life to those who trust in Him (special grace). According to D. A. Carson, there are five ways the bible speaks of God's love:
-	1. Love of the Father to the Son.
-	2. Love for His creation (everything He made was “good”).
-	3. Love for the fallen world.
-	4. Love for the people He elects (Israel, the church, individuals)
-	5. Conditional love (for those who stay in Him, keep His commandments, fear Him).
+
+   1. Love of the Father to the Son.
+   2. Love for His creation (everything He made was “good”).
+   3. Love for the fallen world.
+   4. Love for the people He elects (Israel, the church, individuals)
+   5. Conditional love (for those who stay in Him, keep His commandments, fear Him).
 
 3. **His love doesn't mean that everyone will be saved**. That is only reserved for the elect. If someone goes to hell, it was not an act of unfairness but in accord to perfect justice.
 
