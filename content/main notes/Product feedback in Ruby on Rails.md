@@ -44,3 +44,4 @@ The best feature of Rails for me is the Convention over Configuration. Everythin
 I support the idea of just sending your whole codebase as is it to a server and running `rails server`. There's no JSX transpiling or any executable compilation step. Not that those things are bad, but it's so much convenient to have no build step (thanks DHH!).
 
 ## I dislike Turbo Frames/Streams
+

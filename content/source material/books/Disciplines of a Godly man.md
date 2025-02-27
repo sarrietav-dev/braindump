@@ -248,3 +248,124 @@ But after weeks of perseverance he noticed that his emotions were starting to se
 
 Then one day, the emotions returned—not with distractions, but with *Hallelujahs* and *Amens*. His emotions and his will had finally aligned in prayer.
 
+# Worship
+
+This chapter is primary centered on the activities we usually do on Sunday morning.
+
+Most people think of worship as something made for their own entertainment, benefit, satisfaction.
+
+The whole focus of worship is not men, but God. Because He, the holy, perfect, magnificent, is among us.
+
+## Why?
+
+Why should we center our worship to God?
+
+First, we are made to worship, it should be our main priority; and God desires worship above anything else.
+
+Second, He promised us that He is present every time we gather in his name. We have to try to be aware of His presence.
+
+## Preparation
+
+Before going to worship, we have to prepare very carefully. On Saturday, we should take care of everything that might be a problem on the next day.
+
+- Choose your clothes.
+- Find your Bibles.
+- Sleep early.
+
+We should have high expectations because we will meet with God.
+
+Finally we have to prepare ourselves to worship in spirit and truth. "In truth" means that we are informed about the purpose of God's Word. "In spirit" means that our adoration should flow from the inside out. True worship springs from our spirit.
+
+## When worshiping
+
+If you have arrived early, you should stay silent and pray.
+
+When the singing time arrives, we should think that God is our audience and we sing to Him, so that we avoid the issue of mindlessly signing.
+
+And when the time of the sermon comes, we should open our Bibles, take notes, list sub-points and applications.
+
+# Integrity
+
+The world today lives in a integrity crisis.
+
+There are plenty of surveys that prove this. The most shocking numbers are these:
+
+- If a company's product got stolen, the thief will be a man six times out of seven.
+- 91% of people admit to lie regularly.
+- 7% of people would consider killing someone for $10 billion.
+- 95% of students have cheated on test one way or another.
+
+The worst part is that the numbers don't change that much when talking about Christians.
+
+The main reason for all of this is that we humans are fundamentally dishonest. It comes from our sin nature (no one has taught us to lie).
+
+> [!quote]
+> “Their throat is an open grave; they use their tongues to deceive. ‘The venom of asps is under their lips’”
+> 
+> — Romans 3:13
+
+## What does God think about integrity?
+
+The best example of this is the story of Ananias and Sapphira in Acts 5:1-11. They know they were lying to the church by giving a part of the money instead of all.
+
+What happened? They died instantly because of that "small" infraction. This shows that God doesn't accept dishonesty in His church, because it won't prosper with it!
+
+Integrity is one of the greatest needs of the church today. We need people that restrain from lies and hypocrisy. Paul says that honesty is necessary to grow in the church:
+
+> [!quote]
+> “Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ”
+> 
+> — Ephesians 4:15
+
+Everybody, Christian or not, deep down in their heart desires to be freed from the dishonesty of the world who cultivates deception. 
+
+And that makes integrity a powerful evangelistic tool. It acts like a magnet to Christ when those people see the quality of a church or individual.
+
+## How does integrity look?
+
+Fundamentally, integrity is all about wholeness, completeness. Integrity characterized the whole person, a man who's righteous and honest from back to back.
+
+A Psalm that talks about this is Psalms 15
+
+> [!quote]- Psalm 15
+> O Lord, who shall sojourn in your tent?
+> Who shall dwell on your holy hill?
+> He who walks blamelessly and does what is right
+> and speaks truth in his heart;
+> who does not slander with his tongue
+> and does no evil to his neighbor,
+> nor takes up a reproach against his friend;
+> in whose eyes a vile person is despised,
+> but who honors those who fear the Lord;
+> who swears to his own hurt and does not change;
+> who does not put out his money at interest
+> and does not take a bribe against the innocent.
+> He who does these things shall never be moved.
+
+There are two main reasons for lying:
+
+- To cover up something wrong that we did.
+- To maintain emotional peace.
+
+This doesn't mean that we must speak whatever we think. Like Paul said: "Speak the truth with love". All our talk must be intentionally true, without omission or unclearness.
+
+A man of integrity never steals. And stealing is not just going to a store and taking something without paying. Stealing can take lots of forms like:
+
+- Lying in your taxes.
+- Pirating.
+- Taking office supplies from work.
+- Slaking off in work time.
+
+A man of integrity is faithful, he keeps his word, he never "forgets" what he has promised. Even if the truth doesn't benefit him, he does it anyway.
+
+A man of integrity is a man of principle, which is different of having principles. He's somebody who's able to stand for what is right, even if it costs.
+
+## Benefits
+
+- Character: Integrity produces character, which is what drives the course of your life.
+- Conscience: You will have a clean conscience. Your heart will affirm you and you'll stand through the storms of life.
+- Intimacy: You'll enjoy intimacy with God because He rejoices with the heart in which truth resides.
+- Elevation: Integrity brings more integrity. Honesty leads to honesty and characters creates more character.
+- Evangelism: Integrity acts as a magnet for Christ.
+
+
