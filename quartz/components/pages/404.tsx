@@ -8,9 +8,23 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
 
   return (
     <article class="popover-hint">
-      <h1>404</h1>
-      <p>{i18n(cfg.locale).pages.error.notFound}</p>
-      <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
+      <h1>Oops! This page is missing... for now.</h1>
+      <p>
+        It looks like this page doesn’t exist (yet). Maybe I haven’t written about this topic, or
+        there’s a typo in the URL.
+      </p>
+      <p>🔍 What next?</p>
+      <ul>
+        <li>Double-check the URL for any mistakes.</li>
+        <li>
+          <a href={baseDir}>Return to the homepage</a> and explore other topics.
+        </li>
+        <li>
+          If you think something should be here,{" "}
+          <a href="mailto:blog@sarrietav.dev">let me know.</a>
+        </li>
+      </ul>
+      <p>Happy exploring! 🚀</p>
     </article>
   )
 }
