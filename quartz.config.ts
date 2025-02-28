@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Playfair Display",
-        body: "Lato",
+        header: "Merriweather",
+        body: "Bricolage Grotesque",
         code: "Fira Code",
       },
       colors: {
