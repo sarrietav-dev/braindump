@@ -21,6 +21,7 @@ export const sharedPageComponents: SharedLayout = {
         categoryId: "DIC_kwDONO2PU84Cndyn",
         lang: "es",
         loading: "lazy",
+        themeUrl: "https://sarrietav.dev/static/giscus",
       },
     }),
   ],
