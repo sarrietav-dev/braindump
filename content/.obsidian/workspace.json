@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main notes/index.md",
+                "file": "blog/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main notes/index.md",
+                "file": "blog/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -178,15 +178,20 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "007b3ee40a1cc12e",
+  "active": "4814f594c236807e",
   "lastOpenFiles": [
+    "source material/bible/2 Tesalonicenses.md",
+    "blog/index.md",
+    "blog",
+    "main notes/Oración en Espíritu.md",
+    "main notes/Nuestras palabras son poderosas, ellas trasforman personas y relaciones.md",
+    "main notes/Meditación.md",
+    "main notes/Confesión.md",
+    "main notes/Product feedback in Ruby on Rails.md",
+    "main notes/index.md",
     "index.md",
     "source material/index.md",
     "source material/articles/index.md",
-    "main notes/Confession.md",
-    "main notes/Meditation.md",
-    "main notes/Our words are powerful. They shape people and relationships.md",
-    "main notes/Prayer in spirit.md",
     "source material/articles/10 Things We Get Wrong About the Love of God.md",
     "source material/videos/index.md",
     "source material/sermons/index.md",
@@ -202,10 +207,6 @@
     "source material/books/Disciplines of a Godly man.md",
     "source material/sermons/From Trouble to Triumph, Part 3 A.md",
     "source material/bible/1 Tesalonicenses.md",
-    "source material/bible/2 Tesalonicenses.md",
-    "source material/bible/1 Timoteo.md",
-    "source material/bible/2 Samuel.md",
-    "source material/bible/Santiago.md",
     "source material/bible/Untitled",
     "Untitled.canvas",
     "Untitled 1.canvas",
@@ -217,7 +218,6 @@
     "assets/me.png",
     "assets",
     "tags",
-    "rough notes",
-    "templates"
+    "rough notes"
   ]
 }

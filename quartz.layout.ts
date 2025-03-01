@@ -6,13 +6,30 @@ import { SimpleSlug } from "./quartz/util/path"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.MobileOnly(Component.Links())],
+  afterBody: [
+    Component.MobileOnly(Component.Links()),
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        // from data-repo
+        repo: "sarrietav-dev/braindump",
+        // from data-repo-id
+        repoId: "R_kgDONO2PUw",
+        // from data-category
+        category: "Announcements",
+        // from data-category-id
+        categoryId: "DIC_kwDONO2PU84Cndyn",
+        lang: "es",
+        loading: "lazy",
+      },
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/sarrietav-dev",
       Twitter: "https://twitter.com/sarrietav",
       LinkedIn: "https://www.linkedin.com/in/sarrietav/",
-      Email: "mailto:sarrietav@protonmail.com",
+      Email: "mailto:sebas@sarrietav.dev",
     },
   }),
 }
@@ -33,8 +50,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Links()),
     Component.DesktopOnly(
       Component.RecentNotes({
-        title: "Recent Notes",
-        limit: 2,
+        title: "Ideas recientes",
+        limit: 4,
         filter: (f) =>
           f.slug!.startsWith("main-notes/") &&
           f.slug! !== "main-notes/index" &&
@@ -44,8 +61,8 @@ export const defaultContentPageLayout: PageLayout = {
     ),
     Component.DesktopOnly(
       Component.RecentNotes({
-        title: "Things I’ve Been Exploring",
-        limit: 4,
+        title: "Temas que he estado aprendiendo",
+        limit: 2,
         filter: (f) =>
           f.slug!.startsWith("source-material/") &&
           !f.slug!.includes("index") &&

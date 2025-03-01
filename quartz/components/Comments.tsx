@@ -17,6 +17,8 @@ type Options = {
     strict?: boolean
     reactionsEnabled?: boolean
     inputPosition?: "top" | "bottom"
+    lang?: string
+    loading?: string
   }
 }
 
@@ -47,6 +49,8 @@ export default ((opts: Options) => {
         data-input-position={opts.options.inputPosition ?? "bottom"}
         data-light-theme={opts.options.lightTheme ?? "light"}
         data-dark-theme={opts.options.darkTheme ?? "dark"}
+        data-lang={opts.options.lang ?? "en"}
+        data-loading={opts.options.loading ?? "lazy"}
         data-theme-url={
           opts.options.themeUrl ?? `https://${cfg.baseUrl ?? "example.com"}/static/giscus`
         }

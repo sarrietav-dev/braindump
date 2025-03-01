@@ -1,4 +1,4 @@
 ---
-title: Main Notes
-description: My own thoughts and my synthesis from things I learn from different sources (See source material).
+title: Notas Principales
+description: Mis propios pensamientos y mi síntesis de lo que aprendo de diferentes fuentes (ver material de referencia).
 ---
