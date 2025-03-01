@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/index.md",
+                "file": "main notes/Product feedback en Ruby on Rails.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Product feedback en Ruby on Rails"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/index.md",
+                "file": "main notes/Product feedback en Ruby on Rails.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Product feedback en Ruby on Rails"
             }
           },
           {
@@ -180,13 +180,13 @@
   },
   "active": "007b3ee40a1cc12e",
   "lastOpenFiles": [
+    "blog/index.md",
     "index.md",
     "main notes/Confesión.md",
     "main notes/Meditación.md",
     "main notes/Nuestras palabras son poderosas, ellas trasforman personas y relaciones.md",
-    "main notes/Product feedback in Ruby on Rails.md",
+    "main notes/Product feedback en Ruby on Rails.md",
     "main notes/Oración en Espíritu.md",
-    "blog/index.md",
     "source material/bible/2 Tesalonicenses.md",
     "blog",
     "main notes/index.md",
