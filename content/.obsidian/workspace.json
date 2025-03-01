@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source material/books/Learning Domain Driven Design.md",
+                "file": "source material/books/Disciplines of a Godly man.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning Domain Driven Design"
+              "title": "Disciplines of a Godly man"
             }
           }
         ]
@@ -155,8 +155,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -181,29 +181,29 @@
   },
   "active": "007b3ee40a1cc12e",
   "lastOpenFiles": [
+    "source material/sermons/The game of doors.md",
+    "source material/sermons/From Trouble to Triumph, Part 3 A.md",
+    "source material/bible/James.md",
+    "source material/bible/Colossians.md",
+    "source material/bible/2 Samuel.md",
+    "source material/bible/1 Thimothy.md",
+    "source material/bible/1 Thessalonians.md",
     "source material/books/Disciplines of a Godly man.md",
+    "source material/books/Learning Domain Driven Design.md",
     "main notes/Product feedback in Ruby on Rails.md",
     "Untitled.md",
     "jaklsjdlka;ljsd.md",
-    "source material/sermons/From Trouble to Triumph, Part 3 A.md",
-    "source material/sermons/The game of doors.md",
-    "source material/books/Learning Domain Driven Design.md",
     "index.md",
     "source material/books/Sex, Dating and Relationships.md",
     "tags/software.md",
     "source material/articles/Developer philosophy by qntm.md",
     "source material/sermons/index.md",
-    "source material/bible/Colossians.md",
     "main notes/Let the word of God dwell in you.md",
-    "source material/bible/1 Thimothy.md",
-    "source material/bible/2 Samuel.md",
     "main notes/See life through a God-lens.md",
     "source material/bible/2 Thessalonians.md",
     "source material/bible/index.md",
-    "source material/bible/James.md",
     "main notes/Jesus is the main thing.md",
     "main notes/Everything I do is because He did it first.md",
-    "source material/bible/1 Thessalonians.md",
     "source material/bible/Untitled",
     "main notes/Christian life is not an easy one.md",
     "main notes/Let our prayers be big.md",

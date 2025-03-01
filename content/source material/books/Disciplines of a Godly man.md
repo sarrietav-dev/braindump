@@ -334,19 +334,19 @@ Fundamentally, integrity is all about wholeness, completeness. Integrity charact
 A Psalm that talks about this is Psalms 15
 
 > [!quote]- Psalm 15
-> O Lord, who shall sojourn in your tent?
-> Who shall dwell on your holy hill?
-> He who walks blamelessly and does what is right
-> and speaks truth in his heart;
-> who does not slander with his tongue
-> and does no evil to his neighbor,
-> nor takes up a reproach against his friend;
-> in whose eyes a vile person is despised,
-> but who honors those who fear the Lord;
-> who swears to his own hurt and does not change;
-> who does not put out his money at interest
-> and does not take a bribe against the innocent.
-> He who does these things shall never be moved.
+> O Lord, who shall sojourn in your tent?  
+> Who shall dwell on your holy hill?  
+> He who walks blamelessly and does what is right  
+> and speaks truth in his heart;  
+> who does not slander with his tongue  
+> and does no evil to his neighbor,  
+> nor takes up a reproach against his friend;  
+> in whose eyes a vile person is despised,  
+> but who honors those who fear the Lord;  
+> who swears to his own hurt and does not change;  
+> who does not put out his money at interest  
+> and does not take a bribe against the innocent.  
+> He who does these things shall never be moved.  
 
 There are two main reasons for lying:
 
@@ -373,3 +373,64 @@ A man of integrity is a man of principle, which is different of having principle
 - Intimacy: You'll enjoy intimacy with God because He rejoices with the heart in which truth resides.
 - Elevation: Integrity brings more integrity. Honesty leads to honesty and characters creates more character.
 - Evangelism: Integrity acts as a magnet for Christ.
+
+Integrity can be seen as habitual honesty. We have to keep sowing this habit for truth to be something we do without thinking. We have to keep the high standard of truth that our Lord call us to have.
+
+# The tongue
+
+In his epistle, James talks about the tongue:
+
+> [!quote]
+> **3** When we put bits into the mouths of horses to make them obey us, we can turn the whole animal. 
+> 
+> **4** Or take ships as an example. Although they are so large and are driven by strong winds, they are steered by a very small rudder wherever the pilot wants to go. 
+> 
+> **5** Likewise, the tongue is a small part of the body, but it makes great boasts. Consider what a great forest is set on fire by a small spark. 
+> 
+> **6** The tongue also is a fire, a world of evil among the parts of the body. It corrupts the whole body, sets the whole course of one’s life on fire, and is itself set on fire by hell.
+> 
+> — James 3:3-6
+
+The tongue may be small, but it has great power. History shows how words can move millions—Hitler used his speech to bring destruction, while Churchill used his to bring hope and victory.
+
+James compares the tongue to a fire. A small spark can burn down entire cities, just as careless or harmful words can ruin lives. If we use our words to hurt others, we will be judged for the damage we cause.
+
+I liked the example of the black widow spider. It injects acid into its prey, melting the insides while the outside looks fine. 
+
+In the same way, we can damage people’s hearts with words like guilt, humiliation, and harsh opinions. On the outside, they may seem okay, but inside, they are deeply hurt.
+
+These kinds of hurtful words come in many forms, such as:
+
+- Gossip
+- Insults
+- Flattery that is not sincere
+- Criticism meant to tear others down
+- Making people feel small or unimportant
+
+Some people think they have the right to humiliate others by using their shortcomings, whether in public or private. But the truth is, most people already know their weaknesses and want to improve. Shaming them does not help.
+
+Sometimes, people bring others down just to feel better about themselves. Others may gossip simply because they have nothing important to say.
+
+James warns that no matter how often we go to church, pray, or read the Bible—if we do not control our words, our faith is empty. "For out of the abundance of the heart, the mouth speaks" (Luke 6:45).
+
+This does not mean that a Christian who slips and says a bad word now and then has a worthless faith. Instead, it is about those who constantly speak without control—hurting others, spreading lies, or gossiping.
+
+We need both God's help and personal effort to control our tongues. Our words can be destructive, but they can also be a blessing. With our tongues, we can:
+
+- Share the Gospel
+- Encourage and help others
+- Bring healing
+- Praise God
+
+We should ask God to purify our words, just as He purified Isaiah’s lips in Isaiah 6:5. We need to pray regularly for wisdom in how we speak.
+
+Finally, we should train ourselves to:
+
+- Always speak the truth with love.
+- Avoid gossip.
+- Stay away from fake compliments.
+- Stop making crude jokes, mocking others, or using sarcasm to hurt.
+- Memorize Bible verses that teach us to use our words wisely.
+
+> Who keeps the tongue does keep his soul. — Charles Spurgeon.
+

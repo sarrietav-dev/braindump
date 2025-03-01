@@ -34,7 +34,8 @@ During a trial, a true Christian must have:
 
 Because trials strengthens us, draws us closer to God, and do not destroy our faith, they make us more useful.
 
-> [!quote] > **2** Count it all joy, my brothers, when you meet trials of various kinds
+> [!quote] 
+> **2** Count it all joy, my brothers, when you meet trials of various kinds
 >
 > — James 1:2 (ESV)
 
@@ -42,7 +43,8 @@ Because trials strengthens us, draws us closer to God, and do not destroy our fa
 
 Know that trials produce endurance.
 
-> [!quote] > **3** for you know that the testing of your faith produces steadfastness
+> [!quote]
+> **3** for you know that the testing of your faith produces steadfastness
 >
 > — James 1:3 (ESV)
 
@@ -50,7 +52,8 @@ Know that trials produce endurance.
 
 Let the trial bring endurance and let the trial bring perfection. Allow it to accomplish what God intends.
 
-> [!quote] > **4** And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing. (ESV)
+> [!quote]
+> **4** And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing. (ESV)
 >
 > — James 1:4 (ESV)
 
@@ -60,7 +63,8 @@ You need wisdom to go through a trial because, in the mist of it, you might don'
 
 Ask God for wisdom beyond human faculties.
 
-> [!quote] > **5** If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him.
+> [!quote]
+> **5** If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him.
 >
 > — James 1:5 (ESV)
 
