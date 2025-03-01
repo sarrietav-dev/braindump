@@ -17,7 +17,7 @@
   "dialogState": {
     "iconMode": true,
     "emojiMode": false,
-    "rulePage": "folder"
+    "rulePage": "file"
   },
   "appIcons": {},
   "tabIcons": {},
@@ -35,7 +35,7 @@
         {
           "source": "tags",
           "operator": "includes",
-          "value": "faith"
+          "value": "fe"
         }
       ],
       "enabled": true,

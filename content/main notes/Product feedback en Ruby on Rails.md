@@ -1,11 +1,8 @@
 ---
-
 tags:
-
-- projects
-- software
-- rails draft: true
-
+  - projects
+  - software
+draft: "true"
 ---
 
 Por algún tiempo he querido aprender Ruby on Rails, tal vez por su simplicidad o tal vez porque quiero ver al padre de Laravel. Hice un proyecto llamado Product Feedback, cuyo diseño está comprado (¿prestado?) de la gran página Front-end Mentor. Aquí están mis pensamientos:
