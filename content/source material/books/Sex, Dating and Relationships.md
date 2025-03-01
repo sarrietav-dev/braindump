@@ -1,44 +1,46 @@
 ---
 tags:
-  - faith
-  - dating
+  - fe
+  - relaciones
 ---
 
-# Sex and the gospel
+# El sexo y el evangelio
 
-Sex is a living portrait, type or foreshadow of the union of believers and Christ.
+El sexo es un retrato viviente, un tipo o una sombra de la unión entre los creyentes y Cristo.
 
-A _type_ in the Bible is an image of an action that represents something divine.
+Un _tipo_ en la Biblia es una imagen o acción que representa algo divino.
 
-Examples of types:
+### Ejemplos de tipos:
 
-- Adam and Jesus
-- The Passover lamb and the sacrifice of Jesus.
+- Adán y Jesús.
+- El cordero de la Pascua y el sacrificio de Jesús.
 
-Sex is an image of the union of Christ and the church.
+El sexo es una imagen de la unión de Cristo y la iglesia.
 
-Marriage testifies the wedding supper of Christ.
+El matrimonio testifica la cena de bodas de Cristo.
 
-The good news of the gospel is not forgiveness but a new life.
+Las buenas nuevas del evangelio no son el perdón, sino una nueva vida.
 
-Forgiveness is not enough to go to heaven because it not because of our sins but because of our sin nature/
+El perdón no es suficiente para ir al cielo, porque no se trata solo de nuestros pecados, sino de nuestra naturaleza pecaminosa.
 
-So we have to be born again.
+Por eso debemos nacer de nuevo.
 
-And in our union with Christ, we receive Christ life in us.
+Y en nuestra unión con Cristo, recibimos la vida de Cristo en nosotros.
 
-God's commands relate to his image.
+## Los mandamientos de Dios y su imagen
 
-We are made in his image, so our behavior must be aligned with His.
+Los mandamientos de Dios están relacionados con su imagen.
 
-Love and he loves, forgive as He forgives, be holy because He is holy.
+Fuimos hechos a su imagen, por lo que nuestro comportamiento debe estar alineado con Él.
 
-Sex outside of marriage breaks the focused connection that Christ has with His bride.
+Amar como Él ama, perdonar como Él perdona, ser santos porque Él es santo.
 
-Christ is united with the church alone, and he doesn't leave us (divorce us).
+El sexo fuera del matrimonio rompe la conexión enfocada que Cristo tiene con su novia.
 
-So then the husband must be united to his wife alone.
+Cristo está unido solo a la iglesia, y Él no nos deja (no se divorcia de nosotros).
 
-If I'm promiscuous, I fail to live up the image of Christ waiting for His bride.
+De la misma manera, el esposo debe estar unido solo a su esposa.
 
-Sex has a higher purpose than our own pleasure
+Si soy promiscuo, no reflejo la imagen de Cristo esperando por su novia.
+
+El sexo tiene un propósito más elevado que nuestro propio placer.

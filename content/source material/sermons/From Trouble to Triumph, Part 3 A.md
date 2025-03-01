@@ -1,85 +1,77 @@
----
-tags:
-  - faith
-  - sermons
-  - wisdom
-  - trials
----
-
-Link to the sermon:
+Enlace al sermón:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6Va8TIpvNvaLyJQa4ZgxlM?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Trials serve to reveal the legitimacy or illegitimacy of our faith. They whether a person trusts and loves God in difficult times or not. This is the primary issue James seeks to address in his epistle.
+Las pruebas sirven para revelar la legitimidad o ilegitimidad de nuestra fe. Determinan si una persona confía y ama a Dios en tiempos difíciles o no. Este es el tema principal que Santiago busca abordar en su epístola.
 
-Trials cannot destroy faith; they can only test it.
+Las pruebas no pueden destruir la fe; solo pueden probarla.
 
-# Reasons why God sends trials
+# Razones por las que Dios envía pruebas
 
-- To separate us from the world.
-- To reveal what we truly love.
-- To set our minds on the eternal.
-- To show us the value of God's blessings and grace.
-- To enable us to support others in their own trials.
-- To equip us for greater works.
-- To discipline us for our sin.
+- Para separarnos del mundo.
+- Para revelar lo que realmente amamos.
+- Para enfocar nuestra mente en lo eterno.
+- Para mostrarnos el valor de las bendiciones y la gracia de Dios.
+- Para capacitarnos para apoyar a otros en sus propias pruebas.
+- Para equiparnos para mayores obras.
+- Para disciplinarnos por nuestro pecado.
 
-True faith will persevere to the end of the trial.
+La verdadera fe perseverará hasta el final de la prueba.
 
-# How to persevere
+# Cómo perseverar
 
-During a trial, a true Christian must have:
+Durante una prueba, un verdadero cristiano debe tener:
 
-## A joyous attitude
+## Una actitud gozosa
 
-Because trials strengthens us, draws us closer to God, and do not destroy our faith, they make us more useful.
+Porque las pruebas nos fortalecen, nos acercan más a Dios y no destruyen nuestra fe, sino que nos hacen más útiles.
 
-> [!quote] 
-> **2** Count it all joy, my brothers, when you meet trials of various kinds
+> [!quote]  
+> **2** Hermanos míos, tened por sumo gozo cuando os halléis en diversas pruebas.  
 >
-> — James 1:2 (ESV)
+> — Santiago 1:2 (RVR1960)
 
-## An understanding mind.
+## Una mente entendida
 
-Know that trials produce endurance.
+Saber que las pruebas producen resistencia.
 
-> [!quote]
-> **3** for you know that the testing of your faith produces steadfastness
+> [!quote]  
+> **3** Sabiendo que la prueba de vuestra fe produce paciencia.  
 >
-> — James 1:3 (ESV)
+> — Santiago 1:3 (RVR1960)
 
-## A submissive will.
+## Una voluntad sumisa
 
-Let the trial bring endurance and let the trial bring perfection. Allow it to accomplish what God intends.
+Permitir que la prueba traiga resistencia y que la prueba produzca perfección. Deja que cumpla lo que Dios pretende.
 
-> [!quote]
-> **4** And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing. (ESV)
+> [!quote]  
+> **4** Mas tenga la paciencia su obra completa, para que seáis perfectos y cabales, sin que os falte cosa alguna.  
 >
-> — James 1:4 (ESV)
+> — Santiago 1:4 (RVR1960)
 
-# Wisdom
+# Sabiduría
 
-You need wisdom to go through a trial because, in the mist of it, you might don't know how to remain joyful, you might not understand why it is happening, or you might resist being shaped by it.
+Necesitamos sabiduría para atravesar una prueba porque, en medio de ella, podríamos no saber cómo mantenernos gozosos, podríamos no entender por qué está ocurriendo o podríamos resistir ser moldeados por ella.
 
-Ask God for wisdom beyond human faculties.
+Pide a Dios sabiduría más allá de las facultades humanas.
 
-> [!quote]
-> **5** If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him.
+> [!quote]  
+> **5** Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente y sin reproche, y le será dada.  
 >
-> — James 1:5 (ESV)
+> — Santiago 1:5 (RVR1960)
 
-Wisdom is the understanding needed to live life to the glory of God—fearing and obeying Him.
+La sabiduría es el entendimiento necesario para vivir una vida para la gloria de Dios—temiéndolo y obedeciéndolo.
 
-Do not lean on your own understanding.
+No te apoyes en tu propio entendimiento.
 
-It's not philosophical speculation but the understanding or perspective of God, which is “_pure, then peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere_” (James 3:17).
+No es especulación filosófica, sino el entendimiento y la perspectiva de Dios, que es "_pura, después pacífica, amable, benigna, llena de misericordia y de buenos frutos, sin incertidumbre ni hipocresía_" (Santiago 3:17).
 
-See Job 28:12-23
+Ver Job 28:12-23.
 
-The pursuit of wisdom is **mandatory** in a trial because it draws us closer to God. (_let him ask God_).
+La búsqueda de sabiduría es **obligatoria** en una prueba porque nos acerca a Dios (_pídala a Dios_).
 
-And He will give it to us generously, freely, liberally, abundantly, and without condition.
+Y Él nos la dará generosamente, libremente, en abundancia y sin condiciones.
 
-# References
+# Referencias
 
-[[James]]
+[[Santiago]]

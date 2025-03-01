@@ -1,40 +1,41 @@
 ---
 tags:
   - software
-  - architecture
+  - arquitectura
   - ddd
 ---
-# Domains
 
-A domain is the company’s area of activity. The service it provides to its clients. A company can have many domains.
+# Dominios
 
-A subdomain is a part of a domain that, with the help of other subdomains, it makes the company achieve its goals and targets. There are three types of subdomains.
+Un dominio es el área de actividad de la empresa, el servicio que proporciona a sus clientes. Una empresa puede tener varios dominios.
 
-## Core subdomain
+Un subdominio es una parte de un dominio que, junto con otros subdominios, ayuda a la empresa a alcanzar sus objetivos y metas. Existen tres tipos de subdominios.
 
-- It's what the company does different from the competition.
-- Can't be easily replicated
-- Can't be outsourced
-- Highly complex
-- Highly volatile
-- Best engineers are used to build it.
-- Not just software.
+## Subdominio principal (Core subdomain)
 
-## Generic subdomains
+- Es lo que la empresa hace diferente a la competencia.
+- No puede replicarse fácilmente.
+- No puede ser subcontratado.
+- Altamente complejo.
+- Altamente volátil.
+- Se asignan los mejores ingenieros para desarrollarlo.
+- No se limita solo al software.
 
-- What every company does the same
-- Off the self solutions
-- Hard to implement
-- Can be turned into a side business
-- Ideally not that volatile
+## Subdominios genéricos (Generic subdomains)
 
-## Supporting subdomains
+- Lo que todas las empresas hacen de la misma manera.
+- Soluciones listas para usar.
+- Difícil de implementar.
+- Puede convertirse en un negocio secundario.
+- Idealmente, no tan volátil.
 
-- Not critical
-- No off the self solutions
-- Can be outsourced
-- Not complex
-- ETC/CRUD operations.
-- No competitive advantage
-- Own implementation
-- Low volatility
+## Subdominios de apoyo (Supporting subdomains)
+
+- No son críticos.
+- No hay soluciones listas para usar.
+- Se pueden subcontratar.
+- No son complejos.
+- Operaciones ETC/CRUD.
+- No proporcionan ventaja competitiva.
+- Implementación propia.
+- Baja volatilidad.

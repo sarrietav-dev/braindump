@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source material/books/Disciplines of a Godly man.md",
+                "file": "main notes/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Disciplines of a Godly man"
+              "title": "index"
             }
           }
         ]
@@ -94,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "main notes/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of index"
             }
           },
           {
@@ -159,13 +160,11 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,33 +180,33 @@
   },
   "active": "007b3ee40a1cc12e",
   "lastOpenFiles": [
-    "source material/sermons/The game of doors.md",
-    "source material/sermons/From Trouble to Triumph, Part 3 A.md",
-    "source material/bible/James.md",
-    "source material/bible/Colossians.md",
-    "source material/bible/2 Samuel.md",
-    "source material/bible/1 Thimothy.md",
-    "source material/bible/1 Thessalonians.md",
-    "source material/books/Disciplines of a Godly man.md",
-    "source material/books/Learning Domain Driven Design.md",
-    "main notes/Product feedback in Ruby on Rails.md",
-    "Untitled.md",
-    "jaklsjdlka;ljsd.md",
     "index.md",
-    "source material/books/Sex, Dating and Relationships.md",
-    "tags/software.md",
-    "source material/articles/Developer philosophy by qntm.md",
+    "source material/index.md",
+    "source material/articles/index.md",
+    "main notes/Confession.md",
+    "main notes/Meditation.md",
+    "main notes/Our words are powerful. They shape people and relationships.md",
+    "main notes/Prayer in spirit.md",
+    "source material/articles/10 Things We Get Wrong About the Love of God.md",
+    "source material/videos/index.md",
     "source material/sermons/index.md",
-    "main notes/Let the word of God dwell in you.md",
-    "main notes/See life through a God-lens.md",
-    "source material/bible/2 Thessalonians.md",
+    "source material/books/index.md",
     "source material/bible/index.md",
-    "main notes/Jesus is the main thing.md",
-    "main notes/Everything I do is because He did it first.md",
+    "source material/bible/Colosenses.md",
+    "source material/articles/Developer philosophy by qntm.md",
+    "tags/software.md",
+    "tags/proyectos.md",
+    "tags/fe.md",
+    "source material/sermons/El juego de las puertas.md",
+    "source material/books/Sex, Dating and Relationships.md",
+    "source material/books/Disciplines of a Godly man.md",
+    "source material/sermons/From Trouble to Triumph, Part 3 A.md",
+    "source material/bible/1 Tesalonicenses.md",
+    "source material/bible/2 Tesalonicenses.md",
+    "source material/bible/1 Timoteo.md",
+    "source material/bible/2 Samuel.md",
+    "source material/bible/Santiago.md",
     "source material/bible/Untitled",
-    "main notes/Christian life is not an easy one.md",
-    "main notes/Let our prayers be big.md",
-    "main notes/Growing downward.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "source material/sermons",

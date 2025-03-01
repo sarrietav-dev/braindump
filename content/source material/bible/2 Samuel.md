@@ -1,18 +1,18 @@
 ---
 tags:
-  - faith
-  - bible
+  - fe
+  - biblia
 ---
 
 # 2 Samuel 22
 
-> [!tip]- See life through a God-lens
-> See life through a God-lens, see Him as the central figure of it all.
+> [!tip]- Ve la vida a través del lente de Dios  
+> Ve la vida a través del lente de Dios, míralo como la figura central de todo.  
 >
-> See how God has delivered you from trials and has been faithful through dark days.
+> Observa cómo Dios te ha librado de pruebas y ha sido fiel en los días oscuros.  
 >
-> Praise Him with extreme words and great passion.
+> Alábale con palabras extremas y gran pasión.  
 >
-> Though David made this amazing song of praise, he fell few chapters next.
+> Aunque David hizo esta increíble canción de alabanza, cayó solo unos capítulos después.  
 >
-> Thank God someone greater than David has come.
+> Gracias a Dios, alguien más grande que David ha venido.  

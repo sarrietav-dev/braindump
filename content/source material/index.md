@@ -1,4 +1,4 @@
 ---
-title: Source Material
-description: Here I write notes about my learning from any media. Basically the information the video/article/book/etc shared, but in my own words.
+title: Material de Referencia
+description: Aquí escribo notas sobre mi aprendizaje de cualquier medio. Básicamente, la información que el video/artículo/libro/etc. compartió, pero con mis propias palabras.
 ---
