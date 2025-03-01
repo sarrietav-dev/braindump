@@ -2,6 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { classNames } from "../util/lang"
 // @ts-ignore
 import script from "./scripts/comments.inline"
+import { options } from "yargs"
 
 type Options = {
   provider: "giscus"
@@ -19,6 +20,7 @@ type Options = {
     inputPosition?: "top" | "bottom"
     lang?: string
     loading?: string
+    theme?: string
   }
 }
 
@@ -51,7 +53,8 @@ export default ((opts: Options) => {
         data-dark-theme={opts.options.darkTheme ?? "dark"}
         data-lang={opts.options.lang ?? "en"}
         data-loading={opts.options.loading ?? "lazy"}
-        data-theme-url={
+        // data-theme={opts.options.theme ?? "preferred_color_scheme"}
+        data-theme={
           opts.options.themeUrl ?? `https://${cfg.baseUrl ?? "example.com"}/static/giscus`
         }
       ></div>
