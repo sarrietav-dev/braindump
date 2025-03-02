@@ -36,7 +36,6 @@ const getThemeName = (theme: string) => {
 
 const getThemeUrl = (theme: string) => {
   const giscusContainer = document.querySelector(".giscus") as GiscusElement
-  console.log(giscusContainer)
   if (!giscusContainer) {
     return `https://giscus.app/themes/${theme}.css`
   }
