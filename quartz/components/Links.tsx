@@ -27,7 +27,7 @@ export default ((userOpts?: Partial<Options>) => {
             <h3 style={{ marginTop: 0, marginBottom: 0 }}>
               <a href="/main-notes">Ideas y Reflexiones</a>
             </h3>
-            <i>pequeñas notas conectadas entre sí para capturar y desarrollar pensamientos</i>
+            <i>Notas conectadas para desarrollar pensamientos.</i>
           </li>
           <li>
             <h3 style={{ marginTop: 0, marginBottom: 0 }}>
