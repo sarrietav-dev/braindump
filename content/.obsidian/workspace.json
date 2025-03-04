@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f931fed49917df6c",
@@ -175,14 +176,14 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "4814f594c236807e",
+  "active": "007b3ee40a1cc12e",
   "lastOpenFiles": [
-    "source material/bible/Mateo.md",
     "source material/books/Learning Domain Driven Design.md",
+    "main notes/Meditación.md",
+    "main notes/Confesión.md",
+    "source material/bible/Mateo.md",
     "index.md",
     "blog/index.md",
-    "main notes/Confesión.md",
-    "main notes/Meditación.md",
     "main notes/Nuestras palabras son poderosas, ellas trasforman personas y relaciones.md",
     "main notes/Product feedback en Ruby on Rails.md",
     "source material/sermons/El juego de las puertas.md",

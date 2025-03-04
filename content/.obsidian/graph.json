@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#software  ",
@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "tag:#todo  ",
+      "color": {
+        "a": 1,
+        "rgb": 646178
+      }
     }
   ],
   "collapse-display": true,
@@ -27,11 +34,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.494791666666667,
-  "repelStrength": 10,
+  "repelStrength": 12.0833333333333,
   "linkStrength": 1,
   "linkDistance": 258,
-  "scale": 0.4444444444444434,
-  "close": true
+  "scale": 0.13168724279835345,
+  "close": false
 }
