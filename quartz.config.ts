@@ -13,7 +13,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "umami",
+      websiteId: "60a1ee55-e220-410d-aa67-3fb8280b5601",
     },
     locale: "es-ES",
     baseUrl: "sarrietav.dev",
