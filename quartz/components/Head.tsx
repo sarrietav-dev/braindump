@@ -4,6 +4,7 @@ import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/re
 import { googleFontHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import satori, { SatoriOptions } from "satori"
+import { loadEmoji, getIconCode } from "../util/emoji"
 import fs from "fs"
 import sharp from "sharp"
 import { ImageOptions, SocialImageOptions, getSatoriFont, defaultImage } from "../util/og"
@@ -24,7 +25,18 @@ async function generateSocialImage(
   // JSX that will be used to generate satori svg
   const imageComponent = userOpts.imageStructure(cfg, userOpts, title, description, fonts, fileData)
 
-  const svg = await satori(imageComponent, { width, height, fonts })
+  const svg = await satori(imageComponent, {
+    width,
+    height,
+    fonts,
+    loadAdditionalAsset: async (languageCode: string, segment: string) => {
+      if (languageCode === "emoji") {
+        return `data:image/svg+xml;base64,${btoa(await loadEmoji(getIconCode(segment)))}`
+      }
+
+      return languageCode
+    },
+  })
 
   // Convert svg directly to webp (with additional compression)
   const compressed = await sharp(Buffer.from(svg)).webp({ quality: 40 }).toBuffer()
@@ -98,7 +110,7 @@ export default (() => {
 
       if (fileName) {
         // Generate social image (happens async)
-        generateSocialImage(
+        void generateSocialImage(
           {
             title,
             description,
@@ -115,7 +127,7 @@ export default (() => {
       }
     }
 
-    const { css, js } = externalResources
+    const { css, js, additionalHead } = externalResources
 
     const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
     const path = url.pathname as FullSlug
@@ -197,6 +209,13 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
+        {additionalHead.map((resource) => {
+          if (typeof resource === "function") {
+            return resource(fileData)
+          } else {
+            return resource
+          }
+        })}
       </head>
     )
   }
