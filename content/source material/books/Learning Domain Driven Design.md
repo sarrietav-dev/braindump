@@ -87,3 +87,4 @@ También debe ser un lenguaje consistente. No puede haber términos ambiguos ni 
 
 Todo modelo tiene un propósito: resolver un problema. Como por ejemplo los mapas, un mapa del mundo no tiene las rutas de los buses. Los modelos solo contienen la información necesaria. Mucha o poca información hace que el modelo se vuelva inefectivo.
 
+Y a la hora de modelar el dominio del negocio, no debemos cubrir cada posible detalle del dominio; solamente debemos enfocarnos en el problema que el software está intentando resolver. Esto es importante porque entre más complejo sea el dominio, más complejo será de modelar; y cualquier malentendido puede llevar a una mala implementación que trae consigo múltiples bugs.
