@@ -2,6 +2,8 @@
 tags:
   - fe
 ---
+Enlace al libro: [Gentle and lowly](https://amzn.to/3DqXCiv)
+
 Jesús colocó la descripción de su corazón él mismo: manso y humilde.
 
 ¿Esta descripción excluye otros atributos como su justicia? #todo 
