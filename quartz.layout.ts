@@ -81,7 +81,7 @@ export const defaultContentPageLayout: PageLayout = {
         },
         globalGraph: {
           repelForce: 3,
-          fontSize: 0.5,
+          fontSize: 0.4,
         },
       }),
     ),
