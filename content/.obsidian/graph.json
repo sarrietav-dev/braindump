@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:#faith ",
+      "query": "tag:#fe ",
       "color": {
         "a": 1,
         "rgb": 16711680
@@ -39,6 +39,6 @@
   "repelStrength": 12.0833333333333,
   "linkStrength": 1,
   "linkDistance": 258,
-  "scale": 0.4444444444444429,
+  "scale": 0.6666666666666644,
   "close": false
 }
