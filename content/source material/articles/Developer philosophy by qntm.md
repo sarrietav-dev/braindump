@@ -3,7 +3,6 @@ tags:
   - coding-practices
   - software
 ---
-
 Link to the article: https://qntm.org/devphilo
 
 - Avoid ground-up rewrites. This is done by avoiding avoidable causes like:
@@ -16,5 +15,7 @@ Link to the article: https://qntm.org/devphilo
 - Enforce rules by automation. Because it's better than communicating those rules constantly.
 - Always think about edge cases. It's our entire job, not the golden path. The code should handle _every_ possibility.
 - Always look for a better way to write something.
-- Testable code: interfaces with minimal side effects.
+- Testable code: interfaces with minimal side effects.[^1]
 - Avoid [[programming by coincidence]].
+
+[^1]: This is a footnote
