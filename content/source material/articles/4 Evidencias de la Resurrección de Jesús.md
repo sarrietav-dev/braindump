@@ -1,9 +1,12 @@
 ---
+description: "Este artículo presenta cuatro evidencias clave de la resurrección de Jesús: su muerte y sepultura, la tumba vacía, la convicción de los apóstoles y la conversión de Pablo. A través de un análisis detallado, se argumenta uno de los pilares fundamentales del cristianismo."
+
 tags:
   - fe
   - apologética
   - resurrección
 ---
+
 [Fuente: 4 Points of Evidence for the Resurrection](https://www.crossway.org/articles/4-points-of-evidence-for-the-resurrection/)
 
 ## La muerte y sepultura de Jesús
@@ -45,4 +48,4 @@ Para ilustrar la magnitud de este cambio, imagina que Richard Dawkins, un recono
 
 Si la resurrección no ocurrió, ¿qué pudo haber causado una transformación tan drástica y repentina en Pablo?
 
-[^1]: Josefo, *Antigüedades de los judíos*. [Fuente](https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link4noteref-21).
+[^1]: Josefo, _Antigüedades de los judíos_. [Fuente](https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link4noteref-21).

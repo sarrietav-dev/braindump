@@ -175,9 +175,9 @@ export const defaultImage: SocialImageOptions["imageStructure"] = (
           style={{
             display: "flex",
             color: cfg.theme.colors[colorScheme].dark,
-            fontSize: useSmallerFont ? 70 : 82,
+            fontSize: useSmallerFont ? 65 : 70,
             fontFamily: fonts[0].name,
-            maxWidth: "70%",
+            maxWidth: "80%",
             overflow: "hidden",
             textOverflow: "ellipsis",
           }}
