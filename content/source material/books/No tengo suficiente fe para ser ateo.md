@@ -70,8 +70,8 @@ Los puntos de vista (o cosmovisiones) religiosas se pueden resumir en 3:
 
 También se puede agregar a la lista a los agnósticos, los cuales no están seguros de su posición en este asunto (si es que en verdad quieren tener una posición).
 
-[^1]: Persecución a cristianos por el Estado Islámico. (2024, 19 de septiembre). _Wikipedia, La enciclopedia libre_. Fecha de consulta: 17:56, septiembre 19, 2024 desde [https://es.wikipedia.org/w/index.php?title=Persecuci%C3%B3n_a_cristianos_por_el_Estado_Isl%C3%A1mico&oldid=162546579](https://es.wikipedia.org/w/index.php?title=Persecuci%C3%B3n_a_cristianos_por_el_Estado_Isl%C3%A1mico&oldid=162546579).
+[^1]: [Persecución a cristianos por el Estado Islámico](https://es.wikipedia.org/w/index.php?title=Persecuci%C3%B3n_a_cristianos_por_el_Estado_Isl%C3%A1mico&oldid=162546579).
 
-[^2]: Inquisición medieval. (2025, 2 de marzo). _Wikipedia, La enciclopedia libre_. Fecha de consulta: 03:19, marzo 2, 2025 desde [https://es.wikipedia.org/w/index.php?title=Inquisici%C3%B3n_medieval&oldid=165793856](https://es.wikipedia.org/w/index.php?title=Inquisici%C3%B3n_medieval&oldid=165793856).
+[^2]: [Inquisición medieval](https://es.wikipedia.org/w/index.php?title=Inquisici%C3%B3n_medieval&oldid=165793856).
 
 [^3]: [One of my biggest failures as a Christian.](https://youtube.com/shorts/ExL461G5QAg?si=MzzEqAIofBd4o1i3)
