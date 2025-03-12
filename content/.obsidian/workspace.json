@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source material/articles/4 Evidencias de la Resurrección de Jesús.md",
+                "file": "source material/books/No tengo suficiente fe para ser ateo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 Evidencias de la Resurrección de Jesús"
+              "title": "No tengo suficiente fe para ser ateo"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "f6a25e2e6bd71e9f",
   "lastOpenFiles": [
+    "source material/books/No tengo suficiente fe para ser ateo.md",
     "source material/articles/4 Evidencias de la Resurrección de Jesús.md",
     "source material/articles/Developer philosophy by qntm.md",
     "main notes/Subdominio.md",
@@ -206,7 +207,6 @@
     "source material/bible/Mateo.md",
     "index.md",
     "blog/index.md",
-    "main notes/Product feedback en Ruby on Rails.md",
     "blog",
     "source material/bible/Untitled",
     "Untitled.canvas",
