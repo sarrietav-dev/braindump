@@ -15,7 +15,7 @@
               "state": {
                 "file": "source material/books/No tengo suficiente fe para ser ateo.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "No tengo suficiente fe para ser ateo"
