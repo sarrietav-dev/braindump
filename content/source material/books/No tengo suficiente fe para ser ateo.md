@@ -142,8 +142,7 @@ Para ambos casos, el mismo principio aplica: **el hecho de que quieras creer alg
 
 También están los **agnósticos**, quienes prefieren mantenerse en una posición neutral, justificándolo con la idea de ser “de mente abierta”. Sin embargo, hay una gran diferencia entre tener una mente abierta y tener una mente vacía.  
 
-> [!note]  
-> La verdadera apertura mental implica reconocer la verdad cuando la encontramos. Si hay suficiente evidencia, los agnósticos no están tomando una posición neutral, sino evitando tomar una postura, lo que equivale a una mente vacía.  
+La verdadera apertura mental implica reconocer la verdad cuando la encontramos. Si hay suficiente evidencia, los agnósticos no están tomando una posición neutral, sino evitando tomar una postura, lo que equivale a una mente vacía.  
 
 ---
 
