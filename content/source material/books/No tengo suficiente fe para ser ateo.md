@@ -52,7 +52,7 @@ Todas estas respuestas dependen de si Dios existe o no:
    - ¿Por qué Dios permite el sufrimiento?  
    - ¿Por qué no baja del cielo y elimina la confusión?  
 
-> [!tip] **Tener empatía con este tipo de preguntas**  
+> [!tip]- **Tener empatía con este tipo de preguntas**  
 > Al discutir con alguien que no cree en Dios, es posible que pregunte: "¿Por qué Dios permite el dolor?"  
 >  
 > Muchas veces, hay una historia personal detrás de esa pregunta.  

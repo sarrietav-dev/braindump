@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "source material/books/No tengo suficiente fe para ser ateo.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -181,11 +181,11 @@
   },
   "active": "f6a25e2e6bd71e9f",
   "lastOpenFiles": [
+    "source material/books/Learning Domain Driven Design.md",
     "source material/books/No tengo suficiente fe para ser ateo.md",
     "source material/articles/4 Evidencias de la Resurrección de Jesús.md",
     "source material/articles/Developer philosophy by qntm.md",
     "main notes/Subdominio.md",
-    "source material/books/Learning Domain Driven Design.md",
     "main notes/Lenguaje Ubicuo.md",
     "main notes/El intercambio de información es crucial para el éxito de un software.md",
     "main notes/Dominio.md",
