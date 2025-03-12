@@ -5,73 +5,84 @@ tags:
 ---
 Link al libro: [I Don't Have Enough Faith to Be an Atheist](https://amzn.to/3XQRdEj)
 
-# La gran tapa del rompecabezas
+# La gran tapa del rompecabezas  
 
-Podemos pensar en lo que da unidad a la diversidad de cosas que hay en esta vida como una tapa de un rompecabezas, la cual nos da la imagen completa cuando unamos todas sus piezas.
+Podemos imaginar lo que da unidad a la diversidad de cosas en la vida como la tapa de un rompecabezas. Esta nos muestra la imagen completa cuando todas las piezas encajan.  
 
-Las religiones de este mundo buscan ser esa tapa, tomando como respuesta la existencia de Dios. Esto tiene sentido porque muchas de las principales preguntas filosóficas tienen respuesta en Dios.
+Las religiones del mundo buscan ser esa tapa, ofreciendo la existencia de Dios como respuesta. Esto tiene sentido porque muchas de las grandes preguntas filosóficas encuentran su respuesta en Dios:  
 
-- ¿Quiénes somos?
-- Por qué estamos aquí?
-- A dónde vamos?
-- Cómo hay que vivir?
-- De dónde venimos?
+- ¿Quiénes somos?  
+- ¿Por qué estamos aquí?  
+- ¿A dónde vamos?  
+- ¿Cómo debemos vivir?  
+- ¿De dónde venimos?  
 
-> [!question]
-> ¿Por qué estas preguntas son importantes? ¿Cómo responde la biblia estas preguntas?
+> [!question]  
+> ¿Por qué estas preguntas son importantes? ¿Cómo responde la Biblia a cada una?  
 
-Todas las respuestas dependen de la existencia de Dios:
+Todas estas respuestas dependen de si Dios existe o no:  
 
-| Pregunta               | Si existe Dios                                                                                                  | No existe Dios                                                                                                                                                                                                                          |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| La vida tiene sentido? | Sí, Dios te creó con un propósito en mente. No eres un accidente. Por ende, tu vida tiene sentido.              | “Si no hay Dios, somos simplemente sopa glorificada evolucionada a un orden superior. Si no hay Dios, tu nacimiento es un accidente, tu muerte es un accidente; lo único entre esos dos es otro accidente: tu vida.” — Cliffe Knechtle. |
-| Cómo hay que vivir?    | Hay una manera correcta en la que debemos vivir dado por Dios, lo cual afectará nuestra vida presente y eterna. | No importa como vivas.                                                                                                                                                                                                                  |
-| A dónde vamos?         | Dependiendo tus decisiones en esta vida estarás con la presencia de Dios o lejos de su presencia.               | Polvo eres y polvo serás.                                                                                                                                                                                                               |
+| Pregunta              | Si Dios existe                                                                                 | Si Dios no existe                                                                                                                                                                                                 |
+|----------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ¿La vida tiene sentido? | Sí, Dios te creó con un propósito. No eres un accidente; tu vida tiene significado.           | No, sin Dios somos solo materia organizada por casualidad. Tu nacimiento, vida y muerte son accidentes sin propósito. — Cliffe Knechtle.                                   |
+| ¿Cómo hay que vivir? | Dios nos da una manera correcta de vivir que impacta tanto esta vida como la eternidad.    | No hay una forma correcta o incorrecta de vivir; todo es subjetivo.                                                                                                     |
+| ¿A dónde vamos?      | Nuestras decisiones en esta vida determinan si estaremos con Dios o lejos de Él.             | Volvemos al polvo. No hay vida después de la muerte.                                                                                                                    |
 
-> [!question]
-> ¿Por qué la vida del ateo no tiene propósito? ¿Tiene sentido que la misma persona cree su propio propósito? Como por ejemplo: ¿amar a los demás? ¿Mejorar la sociedad? ¿Cuidar la especie humana?
+> [!question]  
+> ¿Por qué la vida de un ateo no tiene propósito objetivo? ¿Tiene sentido que una persona cree su propio propósito, como amar a los demás, mejorar la sociedad o preservar la especie humana?  
 
-# ¿Por qué no creemos que una religión es la verdad?
+---
 
-1. Muchos no creen que una religión es verdadera porque entonces millones de personas hoy y en el pasado estarían incorrectas (y eso es un gran problema porque según el cristianismo esas personas serán castigadas eternamente).
-   
-   Prefieren prensar que tus creencias es solo tu camino preferido para llegar al mismo destino que otras religiones, como si tu religión fuera equivalente a tu helado favorito. ¡Qué pensamiento tan tolerante!
-   
-   También creen que las personas que tienen la verdad serán intolerantes a las que no.
-   
-> [!note]
-> Aunque yo diría que eso depende de qué religión sea la verdadera. Podemos tomar como ejemplo el Islam extremista en el medio oriente, que dado a sus creencias deciden asesinar no creyentes como cristianos. [^1] O la misma iglesia católica en la edad media con la inquisición. [^2]
-   
-2. También dicen que la religión no explica todos los aspectos de la vida como: ¿Por qué Dios permite la maldad o el sufrimiento? ¿Por qué Dios no baja del cielo o hace algo para acabar toda esta gran confusión?
+# ¿Por qué no creemos que una religión sea la verdad?  
 
-> [!tip]- Tener empatía con este tipo de preguntas
-> A la hora de estar en una discusión con alguien que posiblemente no crea en Dios, esta puede preguntar cosas como ¿Por qué Dios permite el dolor?
-> 
-> Probablemente, haya un trasfondo a esa pregunta.
-> 
-> Esto lo aprendí en un video el cual la persona decía[^3]:
-> > Estaba discutiendo con alguien sobre la existencia de Dios y esta persona me preguntó: ¿Si alguien se suicida, puede ir al cielo?  
-> > Yo le dije que no cambiara el tema, que eso no tenía nada que ver con la discusión.  
-> > Cuando esa persona me fue, mi amigo se acercó y me dijo:  
-> > ¿Sabes por qué esa persona te preguntó eso? Su esposa se suicidó hace unas semanas.
+1. **El problema de la exclusividad**  
 
-3. Muchos intelectuales hoy en día deciden ni siquiera pensar en la existencia de Dios o en la religión porque, según ellos, al final del día la ciencia explica todo y las religiones son un tema de preferencias. Si no se puede probar algo en un laboratorio, no es verdad; y no se llega a ninguna parte probando si la pizza es mejor que el perro caliente o la hamburguesa.
+   Muchas personas rechazan la idea de que una religión sea verdadera porque eso significaría que millones de personas en el pasado y presente están equivocadas.  
 
-> [!note]
-> Pues ciertamente la biblia no es un libro de ciencia y Dios no se puede probar en un laboratorio.
+   Además, según el cristianismo, aquellos que rechazan la verdad enfrentarán un castigo eterno. Esto les parece inaceptable, por lo que prefieren creer que todas las religiones son caminos diferentes hacia el mismo destino, como si fueran sabores de helado y cada quien pudiera elegir su preferido.  
 
-# Cosmovisiones religiosas
+   También creen que afirmar tener la verdad lleva a la intolerancia.  
 
-Los puntos de vista (o cosmovisiones) religiosas se pueden resumir en 3:
+> [!note]  
+> Esto depende de qué religión sea verdadera. Por ejemplo, el Islam extremista en Medio Oriente ha justificado asesinatos en nombre de su fe. [^1] Lo mismo ocurrió con la Inquisición de la Iglesia Católica en la Edad Media. [^2]  
 
-- Teísmo: Creen en un dios personal que creó todo lo que existe, pero está fuera de su creación. Un equivalente sería un pintor (Dios) y su pintura (la creación y todo lo que existe)
-- Panteísmo: Creen en un dios impersonal que es literalmente todo lo que existe: el universo, la tierra, las estrellas, los árboles, tu celular, tú, yo. El ejemplo equivalente sería que dios es la pintura.
-- Ateísmo: No creen en ningún tipo y forma de dios. Para ellos solo existe la pintura. Siempre ha existido y nadie la pintó.
+2. **La religión no explica todo**  
 
-También se puede agregar a la lista a los agnósticos, los cuales no están seguros de su posición en este asunto (si es que en verdad quieren tener una posición).
+   Algunos argumentan que la religión no responde todas las preguntas de la vida, como:  
+   - ¿Por qué Dios permite el sufrimiento?  
+   - ¿Por qué no baja del cielo y elimina la confusión?  
 
-[^1]: [Persecución a cristianos por el Estado Islámico](https://es.wikipedia.org/w/index.php?title=Persecuci%C3%B3n_a_cristianos_por_el_Estado_Isl%C3%A1mico&oldid=162546579).
+> [!tip] **Tener empatía con este tipo de preguntas**  
+> Al discutir con alguien que no cree en Dios, es posible que pregunte: "¿Por qué Dios permite el dolor?"  
+>  
+> Muchas veces, hay una historia personal detrás de esa pregunta.  
+>  
+> En un video aprendí esto[^3]:  
+> > Un hombre me preguntó: "Si alguien se suicida, ¿puede ir al cielo?"  
+> > Le respondí que no cambiara el tema, que eso no tenía que ver con nuestra discusión.  
+> > Cuando se fue, mi amigo me dijo: "¿Sabes por qué te preguntó eso? Su esposa se suicidó hace unas semanas."  
 
-[^2]: [Inquisición medieval](https://es.wikipedia.org/w/index.php?title=Inquisici%C3%B3n_medieval&oldid=165793856).
+3. **La ciencia lo explica todo**  
 
-[^3]: [One of my biggest failures as a Christian.](https://youtube.com/shorts/ExL461G5QAg?si=MzzEqAIofBd4o1i3)
+   Muchos intelectuales ignoran el tema de Dios y la religión porque creen que la ciencia ya explica todo.  
+   - Para ellos, si algo no se puede probar en un laboratorio, no es verdad.  
+   - Consideran la religión como un asunto de preferencias personales, como elegir entre pizza y hamburguesas.  
+
+> [!note]  
+> Es cierto que la Biblia no es un libro de ciencia y que Dios no puede ser probado en un laboratorio.  
+
+---
+
+# Cosmovisiones religiosas  
+
+Las principales cosmovisiones religiosas se pueden resumir en tres:  
+
+- **Teísmo**: Cree en un Dios personal que creó todo pero que es distinto de su creación. Ejemplo: un pintor (Dios) y su pintura (la creación).  
+- **Panteísmo**: Dios es impersonal y es todo lo que existe: el universo, la Tierra, los árboles, las estrellas, tú, yo… todo es Dios. Ejemplo: Dios es la pintura misma.  
+- **Ateísmo**: No cree en ningún Dios. Solo existe la pintura y nadie la pintó; siempre ha estado ahí.  
+
+También están los **agnósticos**, quienes no están seguros o simplemente no quieren tomar una posición.  
+
+[^1]: [Persecución a cristianos por el Estado Islámico](https://es.wikipedia.org/w/index.php?title=Persecuci%C3%B3n_a_cristianos_por_el_Estado_Isl%C3%A1mico&oldid=162546579).  
+[^2]: [Inquisición medieval](https://es.wikipedia.org/w/index.php?title=Inquisici%C3%B3n_medieval&oldid=165793856).  
+[^3]: [One of my biggest failures as a Christian.](https://youtube.com/shorts/ExL461G5QAg?si=MzzEqAIofBd4o1i3).  
