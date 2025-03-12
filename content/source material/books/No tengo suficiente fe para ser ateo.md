@@ -44,7 +44,15 @@ Todas estas respuestas dependen de si Dios existe o no:
    También piensan que afirmar tener la verdad lleva a la intolerancia.  
 
 > [!note] Nota 
-> Esto depende de qué religión sea verdadera. Por ejemplo, el Islam extremista en Medio Oriente ha justificado asesinatos en nombre de su fe. [^1] Lo mismo ocurrió con la Inquisición de la Iglesia Católica en la Edad Media. [^2]  
+> Cabe aclarar que en la historia se ha visto episodios de intolerancia por parte de grupos religiosos. 
+> 
+> Por ejemplo, el Islam extremista en Medio Oriente ha justificado asesinatos en nombre de su fe. [^1] Lo mismo ocurrió con la Inquisición de la Iglesia Católica en la Edad Media. [^2] 
+> 
+> De igual forma, el hecho que ciertos grupos tengan ese comportamiento, no significa que las creencias de esa religión sean falsas.
+
+
+
+
 
 2. **La religión no explica todo**  
 
