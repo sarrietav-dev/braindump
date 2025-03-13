@@ -68,6 +68,20 @@
       ],
       "enabled": true,
       "icon": "lucide-book-dashed"
+    },
+    {
+      "id": "ABbXv",
+      "name": "Finance tag",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "finanzas"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-wallet"
     }
   ],
   "folderRules": [

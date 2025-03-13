@@ -50,10 +50,6 @@ Todas estas respuestas dependen de si Dios existe o no:
 > 
 > De igual forma, el hecho que ciertos grupos tengan ese comportamiento, no significa que las creencias de esa religión sean falsas.
 
-
-
-
-
 2. **La religión no explica todo**  
 
    Algunos argumentan que la religión no responde todas las preguntas de la vida, como:   
@@ -85,7 +81,6 @@ Todas estas respuestas dependen de si Dios existe o no:
 > Es cierto que la Biblia no es un libro de ciencia y que Dios no puede ser probado en un laboratorio.  
 
 ---
-
 # Cosmovisiones religiosas  
 
 Las principales cosmovisiones religiosas se pueden resumir en tres:  
@@ -97,7 +92,6 @@ Las principales cosmovisiones religiosas se pueden resumir en tres:
 También están los **agnósticos**, quienes no están seguros o simplemente no quieren tomar una posición.
 
 ---
-
 # Todas las cosmovisiones requieren fe  
 
 En realidad, todas las cosmovisiones requieren un grado de fe, ya que somos seres limitados y no poseemos el conocimiento absoluto para probar con certeza la existencia de Dios. Vivimos en un mundo de probabilidades, por lo que cualquier afirmación sobre Dios podría ser falsa.  
@@ -129,7 +123,6 @@ Debemos vivir basados en la verdad, porque una vida (o una fe) en ignorancia no 
 Como cristianos, estamos llamados a conocer en qué creemos, responder a quienes nos pregunten y refutar argumentos en contra de nuestra fe. Dios nos dio la razón para usarla.  
 
 ---
-
 # ¡Me niego a creer!  
 
 Hay personas que, sin importar cuánta evidencia se les dé, ¡simplemente no querrán creer!  
@@ -145,7 +138,6 @@ También están los **agnósticos**, quienes prefieren mantenerse en una posici�
 La verdadera apertura mental implica reconocer la verdad cuando la encontramos. Si hay suficiente evidencia, los agnósticos no están tomando una posición neutral, sino evitando tomar una postura, lo que equivale a una mente vacía.  
 
 ---
-
 # Libertad de escoger  
 
 Lo maravilloso es que Dios nos da la libertad de creer o no creer. Esta libertad es lo que nos permite ser seres morales y decidir nuestro destino eterno.  
