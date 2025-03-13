@@ -6,7 +6,14 @@ description:
 
 Estas son mis notas de este artículo: [10 cosas que malinterpretamos sobre el amor de Dios | Crossway Articles](https://www.crossway.org/articles/10-things-we-get-wrong-about-the-love-of-god).
 
-Al momento de escribir esto, no entiendo mucho sobre el debate entre el Calvinismo y el Arminianismo. Lo que sí entiendo es que los calvinistas creen que Dios elige quién es salvo, mientras que los arminianos creen que los humanos pueden elegir libremente creer y ser salvos, o no. Menciono esto porque cada vez que veo la palabra "elegidos" (que aparece unas 12 veces en este artículo), me recuerda al Calvinismo. No estoy ni a favor ni en contra de esta teología hasta que la entienda mejor.
+> [!warning]
+> Al momento de escribir esto, no entiendo mucho sobre el debate entre el Calvinismo y el Arminianismo.
+> 
+> Lo que mas o menos entiendo es que los calvinistas creen que Dios elige quién es salvo, mientras que los arminianos creen que los humanos pueden elegir libremente creer y ser salvos, o no.
+> 
+> Menciono esto porque cada vez que veo la palabra "elegidos" (que aparece unas 12 veces en este artículo), me recuerda al Calvinismo.
+> 
+> No estoy ni a favor ni en contra de esta teología hasta que la entienda mejor.
 
 1. **Dios no nos debe su amor**. Él es soberano, puede dar y retener su amor libremente a quien quiera. Parece que hay dos tipos de amor, uno de los cuales es el [[Amor salvador|amor salvador o electivo]], que no se otorga a los "pecadores merecedores del infierno".
 

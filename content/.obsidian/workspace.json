@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source material/books/No tengo suficiente fe para ser ateo.md",
+                "file": "source material/articles/10 cosas que malinterpretamos sobre el amor de Dios.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "No tengo suficiente fe para ser ateo"
+              "title": "10 cosas que malinterpretamos sobre el amor de Dios"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "f6a25e2e6bd71e9f",
   "lastOpenFiles": [
-    "source material/books/Learning Domain Driven Design.md",
     "source material/books/No tengo suficiente fe para ser ateo.md",
+    "source material/books/Learning Domain Driven Design.md",
     "source material/articles/4 Evidencias de la Resurrección de Jesús.md",
     "source material/articles/Developer philosophy by qntm.md",
     "main notes/Subdominio.md",
