@@ -181,7 +181,21 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
   const { colorScheme } = userOpts
   const fontBreakPoint = 32
   const useSmallerFont = title.length > fontBreakPoint
-  const iconPath = `https://${cfg.baseUrl}/static/icon.svg`
+
+  // Format date if available
+  const rawDate = getDate(cfg, fileData)
+  const date = rawDate ? formatDate(rawDate, cfg.locale) : null
+
+  // Calculate reading time
+  const { minutes } = readingTime(fileData.text ?? "")
+  const readingTimeText = i18n(cfg.locale).components.contentMeta.readingTime({
+    minutes: Math.ceil(minutes),
+  })
+
+  // Get tags if available
+  const tags = fileData.frontmatter?.tags ?? []
+  const bodyFont = getFontSpecificationName(cfg.theme.typography.body)
+  const headerFont = getFontSpecificationName(cfg.theme.typography.header)
 
   return (
     <div
@@ -241,9 +255,10 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
             fontFamily: headerFont,
             fontWeight: 700,
             color: cfg.theme.colors[colorScheme].dark,
-            fontSize: useSmallerFont ? 65 : 70,
-            fontFamily: fonts[0].name,
-            maxWidth: "80%",
+            lineHeight: 1.2,
+            display: "-webkit-box",
+            WebkitBoxOrient: "vertical",
+            WebkitLineClamp: 2,
             overflow: "hidden",
             textOverflow: "ellipsis",
           }}
