@@ -1,6 +1,7 @@
 import { StaticResources } from "../util/resources"
 import { FilePath, FullSlug } from "../util/path"
 import { BuildCtx } from "../util/ctx"
+import { QuartzEmitterPlugin } from "./types"
 
 export function getStaticResourcesFromPlugins(ctx: BuildCtx) {
   const staticResources: StaticResources = {
@@ -40,6 +41,10 @@ export function getStaticResourcesFromPlugins(ctx: BuildCtx) {
   }
 
   return staticResources
+}
+
+export const Noop: QuartzEmitterPlugin = () => {
+  return { name: "Noop", async *emit() {} }
 }
 
 export * from "./transformers"

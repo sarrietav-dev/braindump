@@ -91,13 +91,15 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages({
-        colorScheme: "darkMode", // what colors to use for generating image, same as theme colors from config, valid values are "darkMode" and "lightMode"
-        width: 1200, // width to generate with (in pixels)
-        height: 630, // height to generate with (in pixels)
-        excludeRoot: false,
-        imageStructure: createOgImage,
-      }),
+      process.env.NODE_ENV === "production"
+        ? Plugin.CustomOgImages({
+            colorScheme: "darkMode", // what colors to use for generating image, same as theme colors from config, valid values are "darkMode" and "lightMode"
+            width: 1200, // width to generate with (in pixels)
+            height: 630, // height to generate with (in pixels)
+            excludeRoot: false,
+            imageStructure: createOgImage,
+          })
+        : Plugin.Noop(),
     ],
   },
 }
