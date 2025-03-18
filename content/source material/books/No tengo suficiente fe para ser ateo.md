@@ -2,6 +2,7 @@
 tags:
   - fe
   - apologética
+description: Notas y resumen del libro
 ---
 Link al libro: [I Don't Have Enough Faith to Be an Atheist](https://amzn.to/3XQRdEj)
 
@@ -147,6 +148,177 @@ Dios nos ha dado suficiente capacidad y evidencia para conocerlo y aceptarlo, pe
 Si Dios se revelara directamente en toda su grandeza, su presencia sería tan abrumadora que eliminaría cualquier posibilidad de elegir libremente.  
 
 Él desea que lo amemos, pero el amor debe ser dado libremente, no por obligación. Y ese es el propósito de la vida: tomar esa elección.
+
+---
+
+# La verdad
+
+## Ignoramos la verdad religiosa y moral porque no nos conviene
+
+Exigimos que nos digan la verdad en muchas áreas de nuestra vida:  
+- En nuestras relaciones cercanas.  
+- En las noticias.  
+- En los libros que leemos.  
+- En las citas médicas.  
+- En nuestras finanzas.  
+
+Pero, ¿por qué no exigimos la verdad en asuntos de religión o moralidad?  
+
+El rechazo a esta verdad no se debe a la falta de evidencia, sino a la falta de voluntad. No queremos ser considerados responsables de nuestros actos bajo ningún estándar moral o religioso.  
+
+Por ello, adoptamos ideas que relativizan la verdad, como:  
+
+- «La verdad es relativa y no existen absolutos».  
+- «Es verdad para ti, pero no para mí».  
+- «La verdad no existe».  
+- «No debes juzgar».  
+
+## ¿Qué es la verdad?
+
+La **verdad** es *decir las cosas como son* o *describir el estado real de las cosas*.  
+
+### **Características de la verdad**  
+
+- **La verdad es absoluta**, incluso cuando parece relativa.  
+  - Ejemplo: «Sentí mucho frío una noche en Bogotá» es una experiencia subjetiva, pero la afirmación de que se sintió frío sigue siendo objetiva y verdadera.  
+
+- **La verdad es transcultural**: Es verdad para todo el mundo, en cualquier tiempo y lugar.  
+
+- **La verdad es descubierta, no inventada**:  
+  - Ejemplo: La gravedad existía antes de que Newton la explicara.  
+
+- **La verdad es exclusiva**:  
+  - «Todo es verdad» excluye su opuesto: «Todo es mentira».  
+  - Cualquier verdad excluye lo contrario, incluyendo las verdades religiosas.  
+
+- **La verdad no cambia, pero nuestras creencias sobre ella sí**:  
+  - Antes se creía que la Tierra era plana, pero la realidad es que siempre ha sido redonda.  
+
+- **Las creencias no cambian la verdad**:  
+  - Alguien puede creer sinceramente que la Tierra es plana, pero eso no la hace plana, solo lo hace estar sinceramente equivocado.  
+
+- **La actitud de una persona no afecta la verdad**:  
+  - Una verdad dicha con arrogancia no la hace falsa.  
+  - Una mentira dicha humildemente no la hace verdad.  
+
+- **Pueden existir creencias opuestas, pero no verdades opuestas**.  
+
+---
+
+## La táctica del correcaminos
+
+La **táctica del correcaminos** es un método para identificar afirmaciones que parecen verdaderas, pero se contradicen a sí mismas. Consiste en aplicar una premisa en sí misma y evaluar si se sostiene o colapsa.  
+
+> [!note] Nota
+> Esta táctica se ve muy útil pero debe ser difícil identificar y analizar una de estas afirmaciones.
+
+### **Ejemplos de la táctica del correcaminos**  
+
+- **«No existe la verdad»** → ¿Esa afirmación es verdadera?  
+  - Si es verdadera, entonces ya existe al menos una verdad.  
+  - Si es falsa, la afirmación se autodestruye.  
+
+- **«Toda verdad es relativa»** → ¿Esa verdad es relativa?  
+  - Si es relativa, entonces podría ser falsa.  
+  - Si no es relativa, entonces hay verdades absolutas.  
+
+- **«No hay verdades absolutas»** → ¿Estás absolutamente seguro?  
+  - Si alguien está absolutamente seguro, entonces existen verdades absolutas.  
+  - Si no lo está, admite la posibilidad de verdades absolutas.  
+
+- **«Es verdad para ti, pero no para mí»** → ¿Esa afirmación es verdad para todos?  
+  - Si es verdad para todos, entonces es una verdad absoluta.  
+  - Si no lo es, solo es una opinión.
+- **«La verdad no se puede conocer»** → ¿Cómo sabes que eso es verdad?  
+  - Se entiende por sí misma…
+- **«Soy escéptico»** → ¿Deberías dudar tu escepticismo?  
+  - Si no duda su escepticismo, entonces no es un escéptico.
+  
+> [!info]- ¿Por qué se llama la táctica del correcaminos?
+> El nombre proviene de la caricatura del **Correcaminos y el Coyote**. En la historia, el coyote persigue al correcaminos, pero este, con astucia, se detiene justo en el borde de un precipicio. El coyote sigue corriendo y, al darse cuenta de que no tiene suelo bajo sus pies, cae al vacío.  
+>  
+> Así sucede con estas afirmaciones contradictorias: cuando se examinan bajo su propio criterio, se revelan como insostenibles y «caen al vacío».
+> 
+> ![[looney-toons-road-runner.gif]]
+
+---
+
+## Las consecuencias de la falsa idea
+
+Todas las ideas tienen consecuencias. Las buenas ideas producen buenas consecuencias, y las malas ideas generan malas consecuencias.
+
+Si a una generación se le enseña que no existen la verdad, el bien ni el mal, no debería sorprendernos cuando vemos en las noticias casos de niños robando o asesinando personas, o de madres adolescentes abandonando a su bebé recién nacido en la basura.
+
+> [!quote] C. S. Lewis  
+> «Con una especie de espantosa simplicidad, eliminamos el órgano y exigimos la función. Hacemos hombres sin corazón y esperamos de ellos virtud y espíritu emprendedor. Nos burlamos del honor y nos sorprende encontrar traidores entre nosotros. Castramos y ordenamos a los castrados que sean fecundos.»
+
+---
+
+## ¿Pueden todas las religiones ser verdad?
+
+No. Aunque en la superficie algunas religiones comparten ciertas creencias, en sus fundamentos sostienen principios opuestos y contradictorios. Algunos ejemplos:
+
+- **Destino final del ser humano**:  
+  - Los cristianos creen que aquellos que no aceptan a Cristo como su salvador enfrentan la condenación eterna.  
+  - Los musulmanes creen lo mismo sobre quienes no siguen el Islam.  
+  - Los hindúes creen en un ciclo eterno de reencarnación basado en las acciones de cada vida.  
+
+- **Naturaleza de Dios**:  
+  - Judíos, cristianos y musulmanes creen en un Dios teísta, aunque con diferencias entre ellos.  
+  - Los hindúes creen en el panteísmo, donde todo es parte de una divinidad impersonal.  
+
+- **Naturaleza del mal**:  
+  - Muchos hindúes consideran que el mal es una ilusión.  
+  - Judíos, cristianos y musulmanes creen que el mal es real.  
+
+- **Salvación**:  
+  - Los cristianos creen que la salvación es otorgada por gracia.  
+  - Otras religiones sostienen que la salvación depende de buenas obras.  
+
+Dado que estas creencias son **mutuamente contradictorias**, no todas pueden ser verdaderas. Si una es verdadera, el resto debe ser falso.
+
+---
+
+## ¿Es intolerante afirmar que no todas las religiones pueden ser verdad?
+
+Algunas personas consideran que esta afirmación es intolerante, pero esto se debe a una mala comprensión del concepto de tolerancia.  
+
+La **verdadera tolerancia** no significa aceptar todas las creencias como igualmente verdaderas, sino respetar a la persona independientemente de sus creencias.
+
+> [!question] ¿Qué es el respeto y cómo se ve la verdadera tolerancia en la práctica?
+
+---
+
+## Problemas con la religión del pluralismo
+
+El pluralismo religioso sostiene que todas las creencias religiosas son verdaderas en algún sentido. Sin embargo, esta idea presenta varias contradicciones:
+
+- Si las diferentes creencias religiosas son exclusivas entre sí, entonces no tiene sentido afirmar que todas son verdaderas al mismo tiempo.  
+- La afirmación **"No puedes cuestionar otras creencias religiosas"** es en sí misma una creencia exclusiva e intolerante, pues implica que quienes cuestionan creencias están equivocados.  
+- Además, esta afirmación es una **creencia moral absoluta**.  
+  - ¿Por qué estaría mal cuestionar creencias religiosas?  
+  - ¿Bajo qué estándar se dice que es incorrecto?  
+  - ¿Qué evidencia respalda esta idea, o es solo una opinión?  
+  - Si es solo una opinión, ¿por qué se impone sobre los demás?  
+
+- **Los cristianos tienen la responsabilidad de cuestionar creencias religiosas.**  
+  - Si el pluralismo sostiene que todas las creencias deben ser toleradas, entonces también debe tolerar la creencia cristiana de que la verdad debe ser defendida.  
+  - Sin embargo, en la práctica, muchos pluralistas no toleran la postura cristiana, lo que los vuelve incoherentes con su propia afirmación de tolerancia universal.  
+
+- **El mandato de "No juzgar" en Mateo 7:1-5 ha sido malinterpretado.**  
+  - Decir *"No juzguen"* es, en sí mismo, un juicio.  
+  - Todos hacemos juicios de valor.  
+  - La cuestión no es si debemos juzgar, sino si estamos haciendo los juicios correctos.  
+
+- **¿Los pluralistas están dispuestos a tolerar las creencias de los extremistas?**  
+  - Por ejemplo, ¿tolerarían las creencias de los terroristas musulmanes que sostienen que los no musulmanes deben ser eliminados?  
+  - Evidentemente, esperamos que no.  
+
+Debemos **respetar el derecho** de las personas a creer lo que deseen, pero **sería un acto de falta de amor decirles que todas las creencias son verdaderas**.  
+
+Si el cristianismo es cierto, afirmar que todas las religiones son igualmente válidas llevaría a las personas a la condenación eterna.  
+
+Por lo tanto, si el cristianismo es verdad, debemos compartirlo con amabilidad, porque **"la verdad los hará libres"**.
 
 [^1]: [Persecución a cristianos por el Estado Islámico](https://es.wikipedia.org/w/index.php?title=Persecuci%C3%B3n_a_cristianos_por_el_Estado_Isl%C3%A1mico&oldid=162546579).  
 [^2]: [Inquisición medieval](https://es.wikipedia.org/w/index.php?title=Inquisici%C3%B3n_medieval&oldid=165793856).  

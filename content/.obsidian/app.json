@@ -2,7 +2,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "main notes",
   "trashOption": "local",
-  "attachmentFolderPath": "./assets",
+  "attachmentFolderPath": "assets",
   "vimMode": true,
   "spellcheckDictionary": [
     "Turrek",
