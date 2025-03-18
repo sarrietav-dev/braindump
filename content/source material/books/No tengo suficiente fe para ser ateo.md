@@ -294,7 +294,7 @@ La **verdadera tolerancia** no significa aceptar todas las creencias como igualm
 El pluralismo religioso sostiene que todas las creencias religiosas son verdaderas en algún sentido. Sin embargo, esta idea presenta varias contradicciones:
 
 - Si las diferentes creencias religiosas son exclusivas entre sí, entonces no tiene sentido afirmar que todas son verdaderas al mismo tiempo.  
-- La afirmación **"No puedes cuestionar otras creencias religiosas"** es en sí misma una creencia exclusiva e intolerante, pues implica que quienes cuestionan creencias están equivocados.  
+- La afirmación **«No puedes cuestionar otras creencias religiosas»** es en sí misma una creencia exclusiva e intolerante, pues implica que quienes cuestionan creencias están equivocados.  
 - Además, esta afirmación es una **creencia moral absoluta**.  
   - ¿Por qué estaría mal cuestionar creencias religiosas?  
   - ¿Bajo qué estándar se dice que es incorrecto?  
@@ -305,8 +305,8 @@ El pluralismo religioso sostiene que todas las creencias religiosas son verdader
   - Si el pluralismo sostiene que todas las creencias deben ser toleradas, entonces también debe tolerar la creencia cristiana de que la verdad debe ser defendida.  
   - Sin embargo, en la práctica, muchos pluralistas no toleran la postura cristiana, lo que los vuelve incoherentes con su propia afirmación de tolerancia universal.  
 
-- **El mandato de "No juzgar" en Mateo 7:1-5 ha sido malinterpretado.**  
-  - Decir *"No juzguen"* es, en sí mismo, un juicio.  
+- **El mandato de «No juzgar» en Mateo 7:1-5 ha sido malinterpretado.**  
+  - Decir *«No juzguen»* es, en sí mismo, un juicio.  
   - Todos hacemos juicios de valor.  
   - La cuestión no es si debemos juzgar, sino si estamos haciendo los juicios correctos.  
 
@@ -314,11 +314,15 @@ El pluralismo religioso sostiene que todas las creencias religiosas son verdader
   - Por ejemplo, ¿tolerarían las creencias de los terroristas musulmanes que sostienen que los no musulmanes deben ser eliminados?  
   - Evidentemente, esperamos que no.  
 
-Debemos **respetar el derecho** de las personas a creer lo que deseen, pero **sería un acto de falta de amor decirles que todas las creencias son verdaderas**.  
+Debemos **respetar el derecho** de las personas a creer lo que deseen, pero **sería un acto de falta de amor, decirles que todas las creencias son verdaderas**.  
 
 Si el cristianismo es cierto, afirmar que todas las religiones son igualmente válidas llevaría a las personas a la condenación eterna.  
 
-Por lo tanto, si el cristianismo es verdad, debemos compartirlo con amabilidad, porque **"la verdad los hará libres"**.
+Por lo tanto, si el cristianismo es verdad, debemos compartirlo con amabilidad, porque **«la verdad los hará libres»**.
+
+---
+
+
 
 [^1]: [Persecución a cristianos por el Estado Islámico](https://es.wikipedia.org/w/index.php?title=Persecuci%C3%B3n_a_cristianos_por_el_Estado_Isl%C3%A1mico&oldid=162546579).  
 [^2]: [Inquisición medieval](https://es.wikipedia.org/w/index.php?title=Inquisici%C3%B3n_medieval&oldid=165793856).  
