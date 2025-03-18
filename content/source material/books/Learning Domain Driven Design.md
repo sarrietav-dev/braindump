@@ -89,3 +89,84 @@ También debe ser un lenguaje consistente. No puede haber términos ambiguos ni 
 Todo modelo tiene un propósito: resolver un problema. Como por ejemplo los mapas, un mapa del mundo no tiene las rutas de los buses. Los modelos solo contienen la información necesaria. Mucha o poca información hace que el modelo se vuelva inefectivo.
 
 Y a la hora de modelar el dominio del negocio, no debemos cubrir cada posible detalle del dominio; solamente debemos enfocarnos en el problema que el software está intentando resolver. Esto es importante porque entre más complejo sea el dominio, más complejo será de modelar; y cualquier malentendido puede llevar a una mala implementación que trae consigo múltiples bugs.
+
+# Bounded Contexts
+
+## ¿Qué es un Bounded Context?
+
+Un **Bounded Context** (o contexto delimitado) es un patrón estratégico que define el alcance en el que un modelo o lenguaje es **coherente y aplicable** dentro de un sistema. Su propósito es reducir la complejidad, especialmente cuando un mismo concepto tiene **diferentes significados según el área del negocio**.
+
+Los **Bounded Contexts** ayudan a evitar confusión y conflictos terminológicos al dividir el sistema en zonas bien definidas.
+
+### ¿Por qué es estratégico?
+La forma en que se delimitan los contextos depende del problema a solucionar:
+
+- En un **proyecto pequeño**, un solo contexto puede ser suficiente.
+- En un **proyecto grande**, usar un solo contexto puede generar conflictos y dificultar el mantenimiento.
+
+Un Bounded Context debe ser útil para el equipo:
+
+- No debe ser **tan grande** que sea inmanejable.
+- No debe ser **tan pequeño** que cause problemas de integración.
+
+## Beneficios de los Bounded Contexts
+
+Dividir un sistema en **Bounded Contexts** aporta múltiples ventajas, como:
+
+- Permitir que cada equipo trabaje en su propio contexto.
+- Facilitar ciclos de despliegue independientes por contexto.
+- Reducir la carga cognitiva al dividir el sistema en partes más manejables.
+
+Además, los **Bounded Contexts** ayudan a establecer **límites físicos** dentro del proyecto, por ejemplo:
+
+- Definir **equipos de trabajo** con responsabilidades claras.
+- Separar **repositorios de código** según el contexto.
+- Asignar **servicios o máquinas independientes** para cada contexto.
+
+Sin embargo, es fundamental **no dividir funcionalidades que están estrechamente relacionadas**, ya que esto podría dificultar la evolución del sistema.
+
+**Regla clave:** Los conceptos que cambian juntos deben mantenerse juntos.
+
+## Bounded Contexts vs. Subdominios
+
+La diferencia clave entre un **Bounded Context** y un **Subdominio** es su origen:
+
+- **Un subdominio es descubierto** dentro del negocio. Es una estructura natural que ya existe en la empresa y permite categorizar sus áreas de responsabilidad.
+- **Un Bounded Context es diseñado** para hacer que el sistema sea más manejable y entendible para el equipo de desarrollo.
+
+Idealmente, **un Bounded Context debe ser mantenido por un solo equipo**, aunque un equipo puede gestionar múltiples contextos.
+
+## Ejemplo práctico: Sistema de una tienda en línea
+
+Imaginemos un sistema para una tienda en línea que vende ropa. En este sistema, el término **"Orden"** tiene significados diferentes según el área del negocio:
+
+1. **Ventas:** Una **Orden** representa la compra de un cliente e incluye información como los productos adquiridos, el precio total y el método de pago.
+2. **Logística:** Una **Orden** representa un pedido que debe ser empaquetado y enviado. Contiene datos como la dirección de entrega, el estado del pedido y la empresa de transporte.
+
+Si ambos equipos usan el mismo modelo de **Orden**, surgirán problemas como:
+
+- **Confusión en los datos:** La orden de ventas tiene atributos que no aplican en logística y viceversa.
+- **Dificultad para hacer cambios:** Si logística necesita modificar la orden para incluir información de rastreo, afectará innecesariamente a ventas.
+- **Problemas en la base de datos:** Al compartir una sola tabla, las consultas serán más complejas y propensas a errores.
+
+### Solución: Separar en Bounded Contexts
+
+Para evitar estos problemas, dividimos el sistema en dos **Bounded Contexts**:
+
+- **Bounded Context de Ventas (`Sales`)**
+  - Define el modelo `Order` con atributos como `cliente`, `productos`, `total a pagar`, `método de pago`, `estado de la compra`.
+  - Lo gestiona el equipo de ventas.
+
+- **Bounded Context de Logística (`Shipping`)**
+  - Define el modelo `Order` con atributos como `dirección de envío`, `empresa de transporte`, `estado del envío`, `número de rastreo`.
+  - Lo gestiona el equipo de logística.
+
+En lugar de usar nombres como `SalesOrder` y `ShippingOrder`, que no reflejan el lenguaje natural en las conversaciones, se crean clases separadas dentro de sus respectivos módulos:
+
+- `Sales.Order` en el módulo de ventas.
+- `Shipping.Order` en el módulo de logística.
+
+Esto se puede llevar un paso más allá al crear microservicios para cada bounded context.
+
+Además, se establece una **regla clara**: **Los modelos no pueden usarse fuera de su contexto.**  
+Esto mantiene la independencia y claridad entre los equipos.

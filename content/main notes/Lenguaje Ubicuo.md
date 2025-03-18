@@ -22,6 +22,8 @@ También debe ser un lenguaje consistente. No puede haber términos ambiguos ni 
 - La palabra cliente puede significar tanto una persona que compra productos de la empresa, o un servicio que consume la API del sistema (término ambiguo).
 - La palabra “usuario” se usa mucho en software, pero para un experto en el dominio puede significar cosas distintas. A veces se confunde con términos como “visitante”, “administrador” o “cuenta”, lo que puede causar confusión si no se aclara bien su significado en el proyecto (términos sinónimos).
 
+Hay que aclarar que un lenguaje ubicuo solamente es válido dentro de un [[Bounded context]].
+
 # Referencias
 
 [[Learning Domain Driven Design]]

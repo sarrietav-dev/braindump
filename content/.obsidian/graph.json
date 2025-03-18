@@ -27,9 +27,16 @@
         "a": 1,
         "rgb": 646178
       }
+    },
+    {
+      "query": "path:\"source material\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.993229166666667,
@@ -39,6 +46,6 @@
   "repelStrength": 12.0833333333333,
   "linkStrength": 1,
   "linkDistance": 258,
-  "scale": 0.13168724279835345,
-  "close": true
+  "scale": 0.4644019503233137,
+  "close": false
 }
