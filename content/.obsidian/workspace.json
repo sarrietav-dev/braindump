@@ -11,10 +11,14 @@
             "id": "aaf4b61285c0e912",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -175,7 +179,7 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "4814f594c236807e",
+  "active": "aaf4b61285c0e912",
   "lastOpenFiles": [
     "main notes/Todas las cosmovisiones requieren fe.md",
     "main notes/Los ateos requieren mas fe que un cristiano.md",

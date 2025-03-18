@@ -1,5 +1,6 @@
 ---
 title: ¡Bienvenido!
+description: “Explorando tecnología, fe e impacto significativo.”
 ---
 
 <div style="font-family: 'Georgia', serif; font-style: italic; font-size: 1.5rem; text-align: center; color: var(--secondary); padding: 20px; margin-bottom: 20px;">
