@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": true,
+  "search": "path:\"main notes\"",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -46,6 +46,6 @@
   "repelStrength": 12.0833333333333,
   "linkStrength": 1,
   "linkDistance": 258,
-  "scale": 0.4644019503233137,
+  "scale": 0.6966029254849705,
   "close": false
 }
