@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source material/books/No tengo suficiente fe para ser ateo.md",
+                "file": "source material/books/Gentle and Lowly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "No tengo suficiente fe para ser ateo"
+              "title": "Gentle and Lowly"
             }
           },
           {
@@ -193,14 +193,15 @@
   },
   "active": "aaf4b61285c0e912",
   "lastOpenFiles": [
-    "assets/looney-toons-road-runner.gif",
+    "source material/books/Learning Domain Driven Design.md",
+    "main notes/Dios nos da la libertad de creer.md",
     "source material/books/No tengo suficiente fe para ser ateo.md",
+    "assets/looney-toons-road-runner.gif",
     "source material/books/assets",
     "index.md",
     "main notes/Todas las cosmovisiones requieren fe.md",
     "main notes/Los ateos requieren mas fe que un cristiano.md",
     "main notes/Cosmovisiones religiosas.md",
-    "main notes/Dios nos da la libertad de escoger.md",
     "main notes/Ignorancia voluntaria.md",
     "main notes/Jesus es manso y humilde de corazón.md",
     "main notes/index.md",
@@ -210,7 +211,6 @@
     "main notes/Bounded context vs subdominio.md",
     "main notes/Estrategia para crear un bounded context.md",
     "main notes/Beneficios de usar bounded contexts.md",
-    "source material/books/Learning Domain Driven Design.md",
     "source material/books/Disciplines of a Godly man.md",
     "main notes/El intercambio de información es crucial para el éxito de un software.md",
     "main notes/Confesión.md",

@@ -6,7 +6,9 @@ Enlace al libro: [Gentle and lowly](https://amzn.to/3DqXCiv)
 
 Jesús colocó la descripción de su corazón él mismo: manso y humilde.
 
-¿Esta descripción excluye otros atributos como su justicia? #todo 
+
+> [!question] ¿Esta descripción excluye otros atributos como su justicia? #todo
+
 
 Tanto en el antiguo como en el nuevo testamento, el corazón es el centro de todo nuestro ser. Es nuestra vida y **lo que somos**.
 
