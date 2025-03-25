@@ -28,6 +28,6 @@ Estos son algunos proyectos de los que estoy orgulloso:
 - [Product Feedback](https://github.com/sarrietav-dev/shoppingify): Una plataforma donde los usuarios pueden dar su opinión sobre los productos de una empresa. ¡Este proyecto fue desarrollado con Ruby on Rails!
 - [Finance](https://github.com/sarrietav-dev/finance): Una plataforma donde puedes gestionar tus finanzas personales. Registra transacciones, haz seguimiento a tu presupuesto, agrega fondos de ahorro, etc. ¡Este proyecto fue desarrollado con Laravel!
 
-# Resume
+## Resume
 
 [[resume|Aquí puedes ver mi hoja de vida]]
