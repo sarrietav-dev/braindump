@@ -13,7 +13,10 @@
     "ubiquitous",
     "Corazín",
     "Cor",
-    "Arimatea"
+    "Arimatea",
+    "k8s",
+    "Minikube"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": false
 }

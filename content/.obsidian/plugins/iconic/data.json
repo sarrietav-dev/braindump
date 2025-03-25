@@ -21,7 +21,14 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "source material/courses": {
+      "icon": "lucide-school",
+      "unsynced": [
+        "63036cdf3a803a8d"
+      ]
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},

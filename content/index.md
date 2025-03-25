@@ -27,3 +27,7 @@ Estos son algunos proyectos de los que estoy orgulloso:
 - [Shoppingify](https://github.com/sarrietav-dev/shoppingify): Diseñé y desarrollé una aplicación web para gestionar listas de compras y proporcionar análisis avanzados para rastrear hábitos de compra. Aplicado con un enfoque sólido en los principios de **Domain-Driven Design (DDD)** para garantizar escalabilidad y mantenibilidad.
 - [Product Feedback](https://github.com/sarrietav-dev/shoppingify): Una plataforma donde los usuarios pueden dar su opinión sobre los productos de una empresa. ¡Este proyecto fue desarrollado con Ruby on Rails!
 - [Finance](https://github.com/sarrietav-dev/finance): Una plataforma donde puedes gestionar tus finanzas personales. Registra transacciones, haz seguimiento a tu presupuesto, agrega fondos de ahorro, etc. ¡Este proyecto fue desarrollado con Laravel!
+
+# Resume
+
+[[resume|Aquí puedes ver mi hoja de vida]]
