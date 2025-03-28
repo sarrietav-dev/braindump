@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "blog/Product feedback en Ruby on Rails.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Product feedback en Ruby on Rails"
             }
           }
         ]
@@ -181,9 +181,12 @@
   },
   "active": "fa9fb7d00c9a0c7c",
   "lastOpenFiles": [
+    "blog/Guía para sobrevivir en Docker.md",
+    "blog/Product feedback en Ruby on Rails.md",
+    "blog/Tips para sobrevivir en un proyecto front-end.md",
+    "index.md",
     "resume.md",
     "source material/courses/Kubernetes.md",
-    "blog/Guía para sobrevivir en Docker.md",
     "source material/books/Gentle and Lowly.md",
     "source material/courses",
     "source material/books/Learning Domain Driven Design.md",
@@ -191,7 +194,6 @@
     "source material/books/No tengo suficiente fe para ser ateo.md",
     "assets/looney-toons-road-runner.gif",
     "source material/books/assets",
-    "index.md",
     "main notes/Todas las cosmovisiones requieren fe.md",
     "main notes/Los ateos requieren mas fe que un cristiano.md",
     "main notes/Cosmovisiones religiosas.md",
@@ -208,8 +210,6 @@
     "main notes/El intercambio de información es crucial para el éxito de un software.md",
     "main notes/Confesión.md",
     "main notes/Beneficios de hablar en público.md",
-    "source material/books/Mis planes de lectura.md",
-    "source material/books/index.md",
     "blog",
     "source material/bible/Untitled",
     "Untitled.canvas",
