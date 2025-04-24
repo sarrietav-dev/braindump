@@ -6,7 +6,7 @@ description:
 
 Estas son mis notas de este artículo: [10 cosas que malinterpretamos sobre el amor de Dios | Crossway Articles](https://www.crossway.org/articles/10-things-we-get-wrong-about-the-love-of-god).
 
-> [!warning]
+> [!warning] Aclaración
 > Al momento de escribir esto, no entiendo mucho sobre el debate entre el Calvinismo y el Arminianismo.
 > 
 > Lo que mas o menos entiendo es que los calvinistas creen que Dios elige quién es salvo, mientras que los arminianos creen que los humanos pueden elegir libremente creer y ser salvos, o no.
