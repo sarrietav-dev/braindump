@@ -9,7 +9,6 @@ import { visit } from "unist-util-visit"
 import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
-import Noise from "./custom/Noise"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -76,7 +75,7 @@ function renderTranscludes(
       const classNames = (node.properties?.className ?? []) as string[]
       if (classNames.includes("transclude")) {
         const inner = node.children[0] as Element
-        const transcludeTarget = inner.properties["data-slug"] as FullSlug
+        const transcludeTarget = (inner.properties["data-slug"] ?? slug) as FullSlug
         const page = componentData.allFiles.find((f) => f.slug === transcludeTarget)
         if (!page) {
           return
@@ -235,8 +234,7 @@ export function renderPage(
   const doc = (
     <html lang={lang}>
       <Head {...componentData} />
-      <body style={{ position: "relative" }} data-slug={slug}>
-        {/* <Noise /> */}
+      <body data-slug={slug}>
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}

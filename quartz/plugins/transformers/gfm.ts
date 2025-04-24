@@ -3,9 +3,6 @@ import smartypants from "remark-smartypants"
 import { QuartzTransformerPlugin } from "../types"
 import rehypeSlug from "rehype-slug"
 import rehypeAutolinkHeadings from "rehype-autolink-headings"
-import { visit } from "unist-util-visit"
-import { headingRank } from "hast-util-heading-rank"
-import { h, s } from "hastscript"
 
 export interface Options {
   enableSmartyPants: boolean
@@ -28,18 +25,6 @@ export const GitHubFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>> =
       if (opts.linkHeadings) {
         return [
           rehypeSlug,
-          () => {
-            return (tree, _file) => {
-              visit(tree, "element", function (node) {
-                if (headingRank(node)) {
-                  if (node.properties.id === "footnote-label") {
-                    node.children = [{ type: "text", value: "Notas" }]
-                  }
-                  node.children = [h("span.highlight-span", node.children)]
-                }
-              })
-            }
-          },
           [
             rehypeAutolinkHeadings,
             {
