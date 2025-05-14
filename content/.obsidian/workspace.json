@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source material/articles/Siempre haz extra.md",
+                "file": "blog/Cómo servir tipografias con Rails 8 y TailwindCSS 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Siempre haz extra"
+              "title": "Cómo servir tipografias con Rails 8 y TailwindCSS 4"
             }
           }
         ]
@@ -170,9 +170,11 @@
   },
   "active": "fa9fb7d00c9a0c7c",
   "lastOpenFiles": [
+    "main notes/La mejor manera de evangelizar es mediante las relaciones cercanas.md",
+    "blog/Cómo servir tipografias con Rails 8 y TailwindCSS 4.md",
+    "source material/articles/Siempre haz extra.md",
     "source material/articles/10 cosas que malinterpretamos sobre el amor de Dios.md",
     "source material/articles/Developer philosophy by qntm.md",
-    "source material/articles/Siempre haz extra.md",
     "blog/Sabiduria vs Gracia.md",
     "source material/books/El progreso del peregrino.md",
     "source material/books/Mero cristianismo.md",
@@ -197,8 +199,6 @@
     "main notes/Jesus es manso y humilde de corazón.md",
     "main notes/index.md",
     "main notes/Modelo.md",
-    "main notes/Bounded context.md",
-    "main notes/Lenguaje Ubicuo.md",
     "blog",
     "source material/bible/Untitled",
     "Untitled.canvas",
