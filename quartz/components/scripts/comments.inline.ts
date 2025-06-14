@@ -55,6 +55,7 @@ type GiscusElement = Omit<HTMLElement, "dataset"> & {
     strict: string
     reactionsEnabled: string
     inputPosition: "top" | "bottom"
+    lang: string
   }
 }
 
