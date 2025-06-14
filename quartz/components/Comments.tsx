@@ -53,7 +53,6 @@ export default ((opts: Options) => {
         data-theme={
           opts.options.themeUrl ?? `https://${cfg.baseUrl ?? "example.com"}/static/giscus`
         }
-        data-lang={opts.options.lang ?? "en"}
       ></div>
     )
   }
