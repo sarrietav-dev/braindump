@@ -11,10 +11,14 @@
             "id": "9106a2bd7115374d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -166,11 +170,17 @@
   },
   "active": "9106a2bd7115374d",
   "lastOpenFiles": [
+    "main notes/Reference Material.md",
+    "index.md",
+    "source material/books/I don't have enough faith to be an atheist.md",
+    "source material/articles/Developer philosophy by qntm.md",
+    "source material/articles/Always do extra.md",
+    "source material/articles/10 things we misunderstand about God's love.md",
+    "source material/articles/4 Evidences of the Resurrection of Jesus.md",
     "blog/Cómo servir tipografias con Rails 8 y TailwindCSS 4.md",
     "main notes/La mejor manera de evangelizar es mediante las relaciones cercanas.md",
     "source material/articles/Siempre haz extra.md",
     "source material/articles/10 cosas que malinterpretamos sobre el amor de Dios.md",
-    "source material/articles/Developer philosophy by qntm.md",
     "blog/Sabiduria vs Gracia.md",
     "source material/books/El progreso del peregrino.md",
     "source material/books/Mero cristianismo.md",
@@ -179,7 +189,6 @@
     "blog/Product feedback en Ruby on Rails.md",
     "blog/Guía para sobrevivir en Docker.md",
     "blog/Tips para sobrevivir en un proyecto front-end.md",
-    "index.md",
     "resume.md",
     "source material/courses/Kubernetes.md",
     "source material/books/Gentle and Lowly.md",
@@ -190,11 +199,6 @@
     "source material/books/assets",
     "main notes/Todas las cosmovisiones requieren fe.md",
     "main notes/Los ateos requieren mas fe que un cristiano.md",
-    "main notes/Cosmovisiones religiosas.md",
-    "main notes/Ignorancia voluntaria.md",
-    "main notes/Jesus es manso y humilde de corazón.md",
-    "main notes/index.md",
-    "main notes/Modelo.md",
     "blog",
     "source material/bible/Untitled",
     "Untitled.canvas",
