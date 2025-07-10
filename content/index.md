@@ -3,7 +3,6 @@ title: Knowledge Garden
 description: A living, evolving collection of notes—ideas in motion, references, and reflections.
 ---
 
-
 Hey there! 👋 Welcome to my digital garden—a cozy corner of the internet where I plant, prune, and connect the ideas I’m learning about. This isn’t a polished blog or a static wiki. It’s a living archive, always sprouting new thoughts and sometimes a few weeds.
 
 > “Write to think. Share to remember. Connect to understand.”
@@ -14,7 +13,7 @@ I built this space to store and share the core ideas I stumble upon while learni
 
 ## How to explore
 
-- 🌱 **[[faith]]** — Notes and questions about theology, spirituality, and life’s big mysteries. (Look for the occasional animated GIF for a little fun!)
+- 🌱 **[[faith]]** — Notes and questions about theology, spirituality, and life’s big mysteries.
 - 📚 **[[Reference Material]]** — Summaries and takeaways from books, articles, talks, and other resources I’ve learned from.
 - 🧠 **[[Main Notes]]** — My own thoughts, syntheses, and half-baked ideas. This is where the messiest thinking happens.
 
@@ -24,7 +23,6 @@ You can also:
 
 <div style="text-align: center; margin: 2em 0;">
   <img src="./assets/me.png" alt="Thinking in progress" style="max-width: 120px; border-radius: 50%; opacity: 0.7;" />
-  <p style="font-size: 1.1em; color: var(--secondary);">(Imagine a fun animation here showing ideas connecting!)</p>
 </div>
 
 ## Read me with kindness
@@ -41,10 +39,3 @@ If you spot something interesting, confusing, or just want to say hi, feel free 
 > This digital garden is always growing and changing. Notes may be incomplete, out of date, or reflect evolving perspectives. Everything here is for personal learning and reflection—read at your own risk!
 
 ---
-
-<!--
-Suggestions for more visual cues:
-- Add a looping plant growth animation or a subtle background GIF in the header.
-- Use small animated icons next to section headers (e.g., a sprouting seedling for "faith").
-- Place a whimsical GIF at the bottom of the page to reward deep scrollers.
--->

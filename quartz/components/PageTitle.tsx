@@ -20,7 +20,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
             filter: "drop-shadow(0 1px 4px rgba(0,0,0,0.10)) drop-shadow(0 1px 4px rgba(255,255,255,0.10))"
           }} 
         />
-        <span>Sebas</span>
+        <span>{title}</span>
       </a>
     </h2>
   )

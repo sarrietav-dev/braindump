@@ -10,7 +10,7 @@ import { defaultImage } from "./quartz/util/og"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: '<img src="/static/icon.svg" alt="Knowledge Garden Icon" style="height:1em;vertical-align:middle;" /> Sebas',
+    pageTitle: "Sebas' knowledge garden",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
