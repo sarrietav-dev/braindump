@@ -1,3 +1,3 @@
 ---
-description: notas de los proyectos que he hecho
+description: Notes on projects I have worked on
 ---

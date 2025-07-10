@@ -1,21 +1,21 @@
 ---
 tags:
   - software
-  - profesion
-description: Always do extra by Ben Northrop
+  - profession
+description: Notes on “Always Do Extra” by Ben Northrop
 ---
-Link al artículo: [Always do extra by Ben Northrop](https://www.bennorthrop.com/Essays/2021/always-do-extra.php)
 
-- Excelentes desarrolladores siempre hacen un trabajo "Extra" en su empleo.
-- Extra no es hacer más de lo que debas hacer (terminas dos funcionalidades de este sprint, pero adelantas otra del siguiente).
-- Extra es investigar como reducir el tamaño del codigo o como reforsar la seguridad de las funcionalidades.
-- Extra es algo que nos da valor. Da valor a nuestra profesion, diversificando nuestro conocimiento. Nos aleja de la monotonía de lo que debemos hacer, dándonos libertad de hacer contribuciones significativas al proyecto.
-- Hacer "Extra" también debe estár balanceado con el trabajo normal. No podemos hacer 90% extra, 10% trabajo. ¿Por qué? Porque el trabajo normal es el que avanza el proyecto y lo que nos da el sueldo.
-- Hacer "Extra" debe estar alineado al trabajo normal. No puede ser un extra para tu proyecto personal
+Link to the article: [Always Do Extra by Ben Northrop](https://www.bennorthrop.com/Essays/2021/always-do-extra.php)
 
-> [!question] Cómo se ve ese trabajo "Extra" en tu empleo?
-> Investigar qué partes de una web-app es crítico hacer pruebas automatizadas?
+- Excellent developers always do “extra” work in their jobs.
+- “Extra” is not doing more tasks than required (e.g., completing two sprint features and starting another from the next sprint).
+- “Extra” means researching how to reduce code size or how to strengthen the security of features.
+- “Extra” is something that brings us value. It adds value to our profession by diversifying our knowledge. It frees us from the monotony of our required tasks, allowing us to make meaningful contributions to the project.
+- Doing “extra” work must be balanced with normal work. You cannot spend 90% on extra and 10% on core tasks. Why? Because core tasks move the project forward and pay your salary.
+- Extra efforts must align with core tasks. It cannot be extra time for your personal project.
+
+> [!question] What does “extra” work look like at your job?
 > 
-> Buscar qué patrones ayudan al mejor entendimiento del código?
-> 
-> Buscar tecnicas que mejoren la colaboración en el equipo?
+> - Research which parts of a web app critically need automated testing.
+> - Explore patterns that improve code readability.
+> - Investigate techniques that enhance team collaboration.

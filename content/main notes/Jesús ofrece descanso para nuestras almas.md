@@ -1,14 +1,14 @@
 ---
 tags:
-  - fe
-  - cristología
+  - faith
+  - christology
 ---
->  … Y hallarán descanso para sus almas. — Mateo 11:29
+> ... And you will find rest for your souls. — Matthew 11:29
 
-La vida cristiana es una vida de mucho esfuerzo y labor; Jesús es muy claro en esto. 
+The Christian life is a life of much effort and labor; Jesus is very clear about this.
 
-Él no dice aquí que le dará descanso a nuestro cuerpo, pero a nuestras *almas*; pues su deseo es que, en la tormenta, nos refugiemos en Él.
+He does not say here that He will give rest to our bodies, but to our *souls*; for His desire is that, in the storm, we take refuge in Him.
 
-# Referencias
+# References
 
 [[Gentle and Lowly]]

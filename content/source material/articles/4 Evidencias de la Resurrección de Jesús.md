@@ -1,51 +1,51 @@
 ---
-description: "Este artículo presenta cuatro evidencias clave de la resurrección de Jesús: su muerte y sepultura, la tumba vacía, la convicción de los apóstoles y la conversión de Pablo. A través de un análisis detallado, se argumenta uno de los pilares fundamentales del cristianismo."
+description: "This article presents four key evidences of Jesus' resurrection: his death and burial, the empty tomb, the apostles' conviction, and Paul's conversion. Through detailed analysis, it argues one of the fundamental pillars of Christianity."
 
 tags:
-  - fe
-  - apologética
-  - resurrección
+  - faith
+  - apologetics
+  - resurrection
 ---
 
-[Fuente: 4 Points of Evidence for the Resurrection](https://www.crossway.org/articles/4-points-of-evidence-for-the-resurrection/)
+Source: [4 Points of Evidence for the Resurrection](https://www.crossway.org/articles/4-points-of-evidence-for-the-resurrection/)
 
-## La muerte y sepultura de Jesús
+## Jesus' Death and Burial
 
-- La muerte de Jesús está registrada en los cuatro evangelios.
-- Es el evento más documentado de su vida, tanto en fuentes bíblicas como en fuentes externas.
-- Para los judíos, un Mesías debía ser un rey poderoso, no alguien crucificado como un criminal. Es poco probable que inventaran una historia que fuera en contra de sus propias creencias.
-- Su sepultura también está mencionada en los cuatro evangelios.
-- El apóstol Pablo confirma este hecho en su carta a los Corintios (1 Corintios 15:4), escrita aproximadamente 30 años después de los eventos.
-- Según los evangelios, Jesús fue sepultado por José de Arimatea, un miembro del Sanedrín (el consejo religioso judío con gran poder político). Es difícil que los cristianos hayan inventado que un líder de su grupo opositor participara en su entierro.
+- Jesus' death is recorded in all four gospels.
+- It is the most documented event of his life, both in biblical and extra-biblical sources.
+- For the Jews, a Messiah was to be a powerful king, not someone crucified as a criminal. It's unlikely they would invent a story that contradicted their own beliefs.
+- His burial is also mentioned in all four gospels.
+- The apostle Paul confirms this fact in his letter to the Corinthians (1 Corinthians 15:4), written approximately 30 years after the events.
+- According to the gospels, Jesus was buried by Joseph of Arimathea, a member of the Sanhedrin (the Jewish religious council with great political power). It's hard to believe Christians invented that an opposing leader participated in his burial.
 
-## La tumba vacía
+## The Empty Tomb
 
-- El primer testimonio de la tumba vacía provino de mujeres. En el siglo I, el testimonio de una mujer no tenía credibilidad en los tribunales debido a prejuicios de la época[^1]. Si los primeros cristianos hubieran querido hacer la historia más creíble, ¿por qué no mencionaron testigos hombres en primer lugar?
-- Los apóstoles comenzaron a predicar en Jerusalén solo siete semanas después de la muerte de Jesús, en la misma ciudad donde lo crucificaron. Si la historia de la resurrección hubiera sido falsa, cualquier persona podría haber ido a la tumba para comprobarlo. ¿Cómo pudo el cristianismo crecer tan rápido si se podía desmentir con facilidad?
-- Los líderes judíos de la época afirmaban que el cuerpo de Jesús había sido robado, lo que implica que incluso ellos reconocían que la tumba estaba vacía.
+- The first testimony of the empty tomb came from women. In the 1st century, a woman's testimony had no credibility in courts due to the prejudices of the time. If the early Christians had wanted to make the story more credible, why not mention male witnesses first?
+- The apostles began preaching in Jerusalem just seven weeks after Jesus' death, in the same city where he was crucified. If the resurrection story were false, anyone could have gone to the tomb to verify it. How could Christianity grow so rapidly if it could be easily disproved?
+- The Jewish leaders of the time claimed Jesus' body had been stolen, implying that they too recognized the tomb was empty.
 
-## La convicción de los apóstoles
+## The Apostles' Conviction
 
-- Los apóstoles afirmaron haber visto a Jesús varias veces durante semanas después de su muerte. Dijeron que hablaron con Él, lo tocaron y hasta comieron con Él.
-- No solo ellos, sino que, según los registros, más de 500 personas lo vieron en una ocasión.
-- Los apóstoles realmente creían en la resurrección de Jesús, y la prueba de esto es que sufrieron persecución y, en muchos casos, murieron por defender su testimonio.
-- Si la resurrección no hubiera ocurrido, ¿por qué seguirían afirmando algo que sabían que era una mentira, incluso cuando enfrentaban torturas y la muerte?
+- The apostles claimed to have seen Jesus multiple times over weeks after his death. They said they spoke with him, touched him, and even ate with him.
+- Not only them, but according to records, more than 500 people saw him on one occasion.
+- The apostles truly believed in Jesus' resurrection, and the proof is that they suffered persecution and, in many cases, died defending their testimony.
+- If the resurrection had not occurred, why would they continue to claim something they knew was a lie, even when faced with torture and death?
 
-## La conversión de Pablo
+## Paul's Conversion
 
-- Pablo era un perseguidor de cristianos. Aprobó e incluso presenció la ejecución de Esteban, uno de los primeros mártires cristianos.
-- Recibía órdenes de los líderes religiosos judíos y trabajaba activamente contra el cristianismo.
-- Sin embargo, en un viaje a Damasco, afirmó haber visto a Jesús resucitado y, de inmediato, cambió completamente su vida.
-- A diferencia de los apóstoles, Pablo no conoció a Jesús antes de su muerte.
+- Paul was a persecutor of Christians. He approved and even witnessed the execution of Stephen, one of the first Christian martyrs.
+- He received orders from the Jewish religious leaders and actively worked against Christianity.
+- However, on a journey to Damascus, he claimed to have seen the risen Jesus and immediately changed his life.
+- Unlike the apostles, Paul did not know Jesus before his death.
 
-Este cambio radical tuvo grandes consecuencias para Pablo:
+This radical change had significant consequences for Paul:
 
-- Se convirtió en enemigo de los líderes religiosos que antes lo respaldaban.
-- Fue golpeado, azotado, torturado, encarcelado y apedreado por su nueva fe.
-- Pasó de considerar a Jesús un falso profeta a adorarlo como Dios.
+- He became an enemy of the religious leaders who previously supported him.
+- He was beaten, whipped, tortured, imprisoned, and stoned for his new faith.
+- He went from considering Jesus a false prophet to worshiping him as God.
 
-Para ilustrar la magnitud de este cambio, imagina que Richard Dawkins, un reconocido ateo, afirmara que Jesús se le apareció en su oficina y, de repente, se volviera cristiano. Dawkins, al menos, se uniría a una religión con miles de millones de seguidores. En cambio, Pablo se unió a un pequeño grupo de creyentes perseguidos, sin poder ni influencia.
+To illustrate the magnitude of this change, imagine Richard Dawkins, a renowned atheist, claiming that Jesus appeared to him in his office and suddenly becoming a Christian. Dawkins would at least join a religion with billions of followers. In contrast, Paul joined a small group of persecuted believers with no power or influence.
 
-Si la resurrección no ocurrió, ¿qué pudo haber causado una transformación tan drástica y repentina en Pablo?
+If the resurrection did not occur, what could have caused such a drastic and sudden transformation in Paul?
 
-[^1]: Josefo, _Antigüedades de los judíos_. [Fuente](https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link4noteref-21).
+[^1]: Josephus, *Antiquities of the Jews*. [Source](https://www.gutenberg.org/cache/epub/2848/pg2848-images.html#link4noteref-21)

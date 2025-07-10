@@ -18,7 +18,7 @@ const config: QuartzConfig = {
       provider: "umami",
       websiteId: "60a1ee55-e220-410d-aa67-3fb8280b5601",
     },
-    locale: "es-ES",
+    locale: "en-US",
     baseUrl: "sarrietav.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",

@@ -1,14 +1,14 @@
 ---
 tags:
-  - fe
-  - cristología
+  - faith
+  - christology
 ---
-Jesús reserva su [[Jesus es manso y humilde de corazón|manso y humilde]] corazón para esas personas que se arrepienten.
+Jesus reserves his [[Jesus is gentle and humble of heart|gentle and humble]] heart for those who repent.
 
-Antes que Jesús describiera su corazón, Él reprendió a esas ciudades que no se arrepentían, mostrando su corazón de justicia:
+Before Jesus described his heart, He rebuked those cities that did not repent, showing his heart of justice:
 
-> «¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! … ¡Ay de ti, Capernaúm! … Les digo que en el día del juicio será más tolerable el castigo para la tierra de Sodoma que para ti» — Mateo 11:20-24
+> "Woe to you, Chorazin! Woe to you, Bethsaida! ... Woe to you, Capernaum! ... I tell you that on the day of judgment it will be more tolerable for the land of Sodom than for you" — Matthew 11:20-24
 
-# Referencias
+# References
 
 [[Gentle and Lowly]]

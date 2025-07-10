@@ -3,10 +3,10 @@ tags:
   - software
   - ddd
 ---
-Un dominio es el área de actividad de la empresa, el servicio que proporciona a sus clientes. Una empresa puede tener varios dominios.
+A domain is the area of activity of the company, the service it provides to its clients. A company can have several domains.
 
-Un dominio tiene muchos [[Subdominio|subdominios]]
+A domain has many [[Subdomain|subdomains]]
 
-# Referencias
+# References
 
 [[Learning Domain Driven Design]]

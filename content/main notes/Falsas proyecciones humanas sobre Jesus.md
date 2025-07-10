@@ -1,19 +1,19 @@
 ---
 tags:
-  - fe
-  - cristología
+  - faith
+  - christology
 ---
-Muchas veces tratamos de proyectar esas ideas humanas que tenemos sobre las personas con algún atributo “superior” a otros hacia Jesús.
+Many times we try to project those human ideas we have about people with some "superior" attribute onto Jesus.
 
-- Una persona rica mira con desprecio a una persona pobre.
-- Algo hermoso rechaza a lo feo.
+- A rich person looks down on a poor person.
+- Something beautiful rejects the ugly.
 
-Y la Biblia nos enseña que Jesús es ese al cual toda rodilla se doblará, el que sus ojos son como fuego ardiente, su voz como el ruido de muchas aguas, su rostro resplandeciente como el sol y que de su boca sale una espada afilada.
+And the Bible teaches us that Jesus is the one before whom every knee will bow, whose eyes are like blazing fire, whose voice is like the sound of many waters, whose face shines like the sun, and from whose mouth comes a sharp sword.
 
-Por tanto, pensamos que Jesús no quiere asociarse con nosotros. Creemos que cuando Él desea acercarse a nosotros, lo hace como cuando un niño va a tocar a una babosa.
+Therefore, we think that Jesus does not want to associate with us. We believe that when He wants to approach us, He does so like a child going to touch a slug.
 
-Pero a lo largo de Su Palabra vemos como Él tocaba y sanaba a enfermos, andaba con pecadores, y los amaba.
+But throughout His Word we see how He touched and healed the sick, walked with sinners, and loved them.
 
-# Referencias
+# References
 
 [[Gentle and Lowly]]

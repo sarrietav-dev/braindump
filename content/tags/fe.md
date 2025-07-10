@@ -1,3 +1,3 @@
 ---
-description: Notas de mi andar cristiano
+description: Notes from my Christian walk
 ---

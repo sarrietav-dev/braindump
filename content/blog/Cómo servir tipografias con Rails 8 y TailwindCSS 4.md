@@ -1,14 +1,14 @@
 ---
 draft: "true"
 ---
-- Agrega la tipografia en la carpeta fonts en assets
-- Colocar la siguiente linea de codigo en assets/tailwind/application.css
+- Add the font to the fonts folder in assets
+- Place the following line of code in assets/tailwind/application.css
 ```css
 @font-face {
     font-family: "PublicSans";
     font-style: italic;
     font-display: swap;
-    src: url("/PublicSans-Italic-VariableFont_wght.ttf") format("truetype"); /* Se obtiene de la URL raiz. */ 
+    src: url("/PublicSans-Italic-VariableFont_wght.ttf") format("truetype"); /* Obtained from the root URL. */ 
 }
 
 @theme {
@@ -18,8 +18,8 @@ draft: "true"
 }
 ```
 
-- Usar la clase `font-sans` en el proyecto.
+- Use the `font-sans` class in the project.
 
-## Cómo funciona?
+## How does it work?
 
 Propshaft

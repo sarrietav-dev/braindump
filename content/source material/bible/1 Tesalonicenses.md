@@ -1,17 +1,17 @@
 ---
 tags:
-  - fe
-  - biblia
+  - faith
+  - bible
 ---
 
-# 1 Tesalonicenses 5
+# 1 Thessalonians 5
 
-> [!tip]- Crecer hacia abajo  
-> Para cumplir Sus mandamientos, debemos parecernos más a Jesús al fijar más nuestra mirada en Él.  
-> Él nos transforma de adentro hacia afuera, creciendo hacia abajo:  
+> [!tip]- Growing downward  
+> To fulfill His commandments, we must become more like Jesus by fixing our gaze more on Him.  
+> He transforms us from the inside out, growing downward:  
 >
-> - Menos orgullo, más humildad.  
-> - Menos autosuficiencia, más fragilidad.  
-> - Menos justicia propia, más necesidad de gracia.  
+> - Less pride, more humility.  
+> - Less self-sufficiency, more fragility.  
+> - Less self-righteousness, more need for grace.  
 >
 > — (J. I. Packer)  

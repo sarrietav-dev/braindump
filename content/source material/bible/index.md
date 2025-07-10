@@ -1,4 +1,4 @@
 ---
-title: La Biblia
-description: Notas de cada libro de La Biblia
+title: The Bible
+description: Notes from each book of The Bible
 ---

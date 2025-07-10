@@ -3,9 +3,9 @@ tags:
   - ddd
   - software
 ---
-- [[Subdominio]]: Es **descubierto** en el negocio. Refleja una división natural que ya existe en la empresa.
-- [[Bounded context]]: Es **diseñado** para hacer que el sistema sea más manejable para el equipo.
+- [[Subdomain]]: Is **discovered** in the business. Reflects a natural division that already exists in the company.
+- [[Bounded context]]: Is **designed** to make the system more manageable for the team.
 
-# Referencias
+# References
 
 [[Learning Domain Driven Design]]

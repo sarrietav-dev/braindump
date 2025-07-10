@@ -5,13 +5,13 @@ tags:
 draft: "true"
 ---
 
-Por algún tiempo he querido aprender Ruby on Rails, tal vez por su simplicidad o tal vez porque quiero ver al padre de Laravel. Hice un proyecto llamado Product Feedback, cuyo diseño está comprado (¿prestado?) de la gran página Front-end Mentor. Aquí están mis pensamientos:
+For some time, I wanted to learn Ruby on Rails, maybe because of its simplicity or maybe because I wanted to see the father of Laravel. I made a project called Product Feedback, whose design is bought (borrowed?) from the great site Front-end Mentor. Here are my thoughts:
 
-# Lenguaje
+# Language
 
-Aunque realmente no me gustan los lenguajes de programación sin tipado, terminé disfrutando Ruby.
+Although I really don't like untyped programming languages, I ended up enjoying Ruby.
 
-Primero, me sorprendió el hecho de que los métodos pueden ser llamados sin paréntesis. Como estos dos son iguales:
+First, I was surprised by the fact that methods can be called without parentheses. Like these two are the same:
 
 ```rb
 def foo
@@ -23,24 +23,24 @@ def bar
 end
 ```
 
-Segundo, los símbolos. No conozco ningún lenguaje de programación que tenga esta característica. Lo que entiendo es que se utilizan principalmente como claves en los mapas hash y como valores en otros lugares.
+Second, symbols. I don't know any other programming language that has this feature. What I understand is that they are mainly used as keys in hash maps and as values elsewhere.
 
 ```rb
 :hey
 ```
 
-También me gustó esa convención que tiene Ruby de nombrar métodos que devuelven booleanos con un signo de interrogación al final. Por lo tanto, no es `myStr.isBlank` sino `myStr.blank?`.
+I also liked Ruby's convention of naming methods that return booleans with a question mark at the end. So, it's not `myStr.isBlank` but `myStr.blank?`.
 
-Entiendo por qué los Rubyistas quieren quedarse en Ruby. Es un lenguaje simple, elegante y poderoso.
+I understand why Rubyists want to stick with Ruby. It's a simple, elegant, and powerful language.
 
 # Rails
 
-## Convención sobre configuración
+## Convention over configuration
 
-La mejor característica de Rails para mí es la Convención sobre Configuración. Todo simplemente tiene que ir donde necesita ir, nombrado como debe ser nombrado, y está listo. ¡Tan simple!
+The best feature of Rails for me is Convention over Configuration. Everything just has to go where it needs to go, named as it should be named, and it's ready. So simple!
 
-## Filosofía sin compilación 👍
+## No-compile philosophy 👍
 
-Apoyo la idea de simplemente enviar toda tu base de código tal como está a un servidor y ejecutar `rails server`. No hay transpilación de JSX ni ningún paso de compilación ejecutable. No es que esas cosas sean malas, pero es mucho más conveniente no tener un paso de compilación (¡gracias DHH!).
+I support the idea of just sending your entire codebase as-is to a server and running `rails server`. There's no JSX transpilation or any executable build step. Not that those things are bad, but it's much more convenient not to have a build step (thanks DHH!).
 
-## No me gustan Turbo Frames/Streams
+## I don't like Turbo Frames/Streams

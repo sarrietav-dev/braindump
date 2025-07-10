@@ -1,15 +1,15 @@
 ---
 tags:
-  - fe
+  - faith
 ---
-Dios nos da la libertad de creer o no creer. Esta libertad es lo que nos permite ser seres morales y decidir nuestro destino eterno.  
+God gives us the freedom to believe or not to believe. This freedom is what allows us to be moral beings and decide our eternal destiny.  
 
-Dios nos ha dado suficiente capacidad y evidencia para conocerlo y aceptarlo, pero también ha dejado la suficiente ambigüedad para que aquellos que no quieran creer no se sientan obligados a hacerlo.  
+God has given us enough capacity and evidence to know and accept Him, but He has also left enough ambiguity so that those who do not want to believe do not feel forced to do so.  
 
-Si Dios se revelara directamente en toda su grandeza, su presencia sería tan abrumadora que eliminaría cualquier posibilidad de elegir libremente.  
+If God revealed Himself directly in all His greatness, His presence would be so overwhelming that it would eliminate any possibility of choosing freely.  
 
-Él desea que lo amemos, pero el amor debe ser dado libremente, no por obligación. Y ese es el propósito de la vida: tomar esa elección.
+He wants us to love Him, but love must be given freely, not out of obligation. And that is the purpose of life: to make that choice.
 
-# Referencias
+# References
 
-[[No tengo suficiente fe para ser ateo]]
+[[I Don't Have Enough Faith to Be an Atheist]]

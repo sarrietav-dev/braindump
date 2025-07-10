@@ -1,27 +1,26 @@
 ---
 draft: true
 ---
-# Metas
+# Goals
 
-- Conocer de Dios.
-- Aprender a defender mi fe.
-- Poder ayudar a otras personas en el camino de la fe.
-- Mejorar como hombre (amigo, hermano, hijo, futuro esposo).
+- Know God.
+- Learn to defend my faith.
+- Help others on their faith journey.
+- Grow as a man (friend, brother, son, future husband).
 
-- Tener unas buenas bases financieras.
-- Aprender a invertir en la bolsa de valores.
+- Build a solid financial foundation.
+- Learn to invest in the stock market.
 
-- Aprender microservicios
-- Aprender como DDD se puede aplicar en la construccion de software fuera de microservicios.
-- AI y LLMs.
+- Learn microservices.
+- Learn how DDD can apply to software architecture beyond microservices.
+- AI and LLMs.
 
-# Libros
+# Books
 
-- The richest man in babylon
-- I dont have enough faith to be an atheist
+- The Richest Man in Babylon
+- I Don’t Have Enough Faith to Be an Atheist
 - Knowing God
-- The quick and easy way to effective speaking
-- Gentle and lowly
-- How to win friends and influence people
+- The Quick and Easy Way to Effective Speaking
+- Gentle and Lowly
+- How to Win Friends and Influence People
 - Disciplines of a Godly Man
-- 

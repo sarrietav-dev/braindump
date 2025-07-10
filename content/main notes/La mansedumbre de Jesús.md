@@ -1,10 +1,10 @@
 ---
 tags:
-  - fe
-  - cristología
+  - faith
+  - christology
 ---
-Manso significa que Él no es duro ni fácilmente irritable. Él entiende nuestra posición como pecadores y siempre está recibiéndonos con los brazos abiertos.
+Meek means that He is not harsh nor easily irritable. He understands our position as sinners and is always receiving us with open arms.
 
-# Referencias
+# References
 
 [[Gentle and Lowly]]

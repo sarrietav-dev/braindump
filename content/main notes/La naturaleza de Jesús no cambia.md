@@ -1,15 +1,15 @@
 ---
 tags:
-  - fe
-  - cristología
+  - faith
+  - christology
 ---
-[[El corazón de Jesús es solo para los penitentes|Para los suyos]] su carácter [[Jesus es manso y humilde de corazón |manso y humilde]] es eterno e inmutable. No depende de:
-- Nuestros pecados.
-- Debilidades.
-- Inseguridades.
-- Dudas
-- Ansiedades
-- Fallas.
-# Referencias
+[[The heart of Jesus is only for the penitent|For His own]] His [[Jesus is gentle and humble of heart|gentle and humble]] character is eternal and unchanging. It does not depend on:
+- Our sins.
+- Weaknesses.
+- Insecurities.
+- Doubts
+- Anxieties
+- Failures.
+# References
 
 [[Gentle and Lowly]]

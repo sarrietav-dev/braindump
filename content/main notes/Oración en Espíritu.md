@@ -1,12 +1,12 @@
 ---
 tags:
-  - oración
-  - fe
-  - disciplina
+  - prayer
+  - faith
+  - discipline
 ---
 
-Orar en el Espíritu significa permitir que el Espíritu Santo te guíe, te ayude y te fortalezca mientras oras. Él nos hace sentir si nuestras oraciones están alineadas con la voluntad de Dios.
+Praying in the Spirit means allowing the Holy Spirit to guide, help, and strengthen you as you pray. He makes us feel whether our prayers are aligned with the will of God.
 
-# Referencias
+# References
 
 [[Disciplines of a Godly man]]

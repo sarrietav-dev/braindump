@@ -1,22 +1,22 @@
 ---
 tags:
-  - fe
-  - apologética
+  - faith
+  - apologetics
 ---
-Al comparar las pruebas a favor y en contra de la existencia de Dios, podemos concluir que se necesita más fe para ser ateo que para ser cristiano.
+When comparing the evidence for and against the existence of God, we can conclude that it takes more faith to be an atheist than to be a Christian.
 
-La evidencia empírica, forense y filosófica respalda mejor el cristianismo y contradice el ateísmo. Algunos ejemplos:
+Empirical, forensic, and philosophical evidence better supports Christianity and contradicts atheism. Some examples:
 
-- La ciencia dice que el universo surgió de la nada. O bien algo lo causó (visión cristiana) o surgió sin causa alguna (visión atea).  
-- La forma de vida más simple contiene información equivalente a miles de enciclopedias. O alguien inteligente la diseñó (visión cristiana) o fuerzas naturales sin inteligencia la formaron por accidente (visión atea).  
-- Se profetizó cientos de años antes que, en un tiempo y lugar específicos, nacería un hombre de un linaje particular, que sería Dios mismo. También se anunció que sufriría de una manera específica y moriría en una hora determinada para salvar al mundo del pecado.  
-  - Años después, testigos oculares afirmaron haber conocido a un hombre que cumplió todas estas profecías.  
-  - Estos testigos sufrieron persecución y muerte sin retractarse de su testimonio, cuando podrían haberse salvado simplemente negándolo.  
-  - Miles de personas creyeron después de presenciar estos eventos o escuchar sobre ellos, y la fe cristiana se expandió rápidamente.  
-  - La historia y la arqueología confirman estos hechos.  
+- Science says the universe came from nothing. Either something caused it (Christian view) or it arose without any cause (atheist view).  
+- The simplest form of life contains information equivalent to thousands of encyclopedias. Either someone intelligent designed it (Christian view) or non-intelligent natural forces formed it by accident (atheist view).  
+- Hundreds of years beforehand it was prophesied that, at a specific time and place, a man of a particular lineage would be born, who would be God Himself. It was also announced that He would suffer in a specific way and die at a determined hour to save the world from sin.  
+  - Years later, eyewitnesses claimed to have known a man who fulfilled all these prophecies.  
+  - These witnesses suffered persecution and death without retracting their testimony, when they could have saved themselves simply by denying it.  
+  - Thousands believed after witnessing these events or hearing about them, and the Christian faith spread rapidly.  
+  - History and archaeology confirm these facts.  
 
-Los cristianos ven la mano de Dios detrás de todo esto. En cambio, los ateos deben tener una fe considerable para explicar todas estas profecías, eventos, testimonios, el sacrificio de los testigos, el origen de la iglesia cristiana y la evidencia histórica y arqueológica.
+Christians see the hand of God behind all this. In contrast, atheists must have considerable faith to explain all these prophecies, events, testimonies, the sacrifice of the witnesses, the origin of the Christian church, and the historical and archaeological evidence.
 
-# Referencias
+# References
 
-[[No tengo suficiente fe para ser ateo]]
+[[I Don't Have Enough Faith to Be an Atheist]]

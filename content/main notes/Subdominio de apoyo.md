@@ -3,17 +3,17 @@ tags:
   - software
   - ddd
 ---
-## Subdominios de apoyo (Supporting subdomains)
+## Supporting subdomains
 
-- No son críticos.
-- No hay soluciones listas para usar.
-- Se pueden subcontratar.
-- No son complejos.
-- Operaciones ETC/CRUD.
-- No proporcionan ventaja competitiva.
-- Implementación propia.
-- Baja volatilidad.
+- They are not critical.
+- There are no ready-made solutions.
+- They can be outsourced.
+- Not complex.
+- ETC/CRUD operations.
+- Do not provide competitive advantage.
+- Custom implementation.
+- Low volatility.
 
-# Referencias
+# References
 
 [[Learning Domain Driven Design]]

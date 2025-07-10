@@ -25,33 +25,33 @@ export default ((userOpts?: Partial<Options>) => {
         <ul>
           <li>
             <h3 style={{ marginTop: 0, marginBottom: 0 }}>
-              <a href="/main-notes">Ideas y Reflexiones</a>
+              <a href="/main-notes">Ideas and Reflections</a>
             </h3>
-            <i>Notas conectadas para desarrollar pensamientos.</i>
+            <i>Connected notes to develop thoughts.</i>
           </li>
           <li>
             <h3 style={{ marginTop: 0, marginBottom: 0 }}>
-              <a href="/tags/fe">Fe</a>
+              <a href="/tags/faith">Faith</a>
             </h3>
-            <i>escritos relacionados con el cristianismo</i>
+            <i>Writings related to Christianity.</i>
           </li>
           <li>
             <h3 style={{ marginTop: 0, marginBottom: 0 }}>
-              <a href="/tags/software">Programación</a>
+              <a href="/tags/software">Programming</a>
             </h3>
-            <i>aprendizajes sobre ingeniería de software y desarrollo</i>
+            <i>Learnings about software engineering and development.</i>
           </li>
           <li>
             <h3 style={{ marginTop: 0, marginBottom: 0 }}>
               <a href="/blog">Blog</a>
             </h3>
-            <i>artículos más elaborados que conectan ideas y profundizan en un tema</i>
+            <i>More elaborate articles that connect ideas and delve into a topic.</i>
           </li>
           <li>
             <h3 style={{ marginTop: 0, marginBottom: 0 }}>
-              <a href="/source-material">Material de referencia</a>
+              <a href="/source-material">Reference Material</a>
             </h3>
-            <i>notas basadas en libros, artículos y otros recursos de aprendizaje</i>
+            <i>Notes based on books, articles, and other learning resources.</i>
           </li>
         </ul>
       </div>

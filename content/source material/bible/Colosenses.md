@@ -1,42 +1,42 @@
 ---
 tags:
-  - biblia
-  - fe
+  - bible
+  - faith
 ---
 
-# Colosenses 1
+# Colossians 1
 
-> [!tip]- Jesús es lo más importante  
-> Jesús es lo más importante. Nada es más grande que Él.  
+> [!tip]- Jesus is the most important  
+> Jesus is the most important. Nothing is greater than Him.  
 >
-> Él es la imagen de Dios.  
+> He is the image of God.  
 >
-> Todo fue hecho por medio de Él.  
+> Everything was made through Him.  
 >
-> Nada existe sin Él.  
+> Nothing exists without Him.  
 >
-> Nada le falta a Él.  
+> Nothing is lacking in Him.  
 >
-> ¡Inclínate ante el Creador!
+> Bow before the Creator!
 
-# Colosenses 2
+# Colossians 2
 
-> [!tip]- Todo lo que hago es porque Él lo hizo primero  
-> Todo lo que hago es porque Él lo hizo primero conmigo.  
+> [!tip]- Everything I do is because He did it first  
+> Everything I do is because He did it first with me.  
 >
-> Le pertenezco a Él, Él es mi Jefe, mi Maestro, mi Señor. Él actúa, nosotros respondemos.  
+> I belong to Him, He is my Boss, my Master, my Lord. He acts, we respond.  
 >
-> Lo recibimos porque Él vino a nosotros.  
+> We receive Him because He came to us.  
 >
-> Le damos gracias porque Él primero hace mucho por nosotros.  
+> We give thanks because He first does much for us.  
 >
-> Caminamos en Él porque Él nos llena.
+> We walk in Him because He fills us.
 
-# Colosenses 3
+# Colossians 3
 
-> [!tip]- Que la palabra de Dios more en ti  
-> Que la palabra de Dios more en ti.  
+> [!tip]- Let the word of God dwell in you  
+> Let the word of God dwell in you.  
 >
-> Fortalece el corazón del hombre para no desviarse del camino.  
+> It strengthens the heart of man to not stray from the path.  
 >
-> Nos permite fijar nuestra mente en la eternidad, hacer morir los deseos terrenales, no mentir, ser compasivos, perdonadores, amorosos, agradecidos y vivir con paz interior.  
+> It allows us to set our mind on eternity, put to death earthly desires, not lie, be compassionate, forgiving, loving, grateful and live with inner peace.  

@@ -1,26 +1,28 @@
 ---
 tags:
-  - fe
-  - apologética
+  - faith
+  - apologetics
 ---
 
-Enlace al video:
+# Ricky Gervais — The Bible Will Be Forgotten
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kdlp7rUq124?si=gteehS7v09zJZgdW" title="Reproductor de video de YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Link to the video:
 
-En este video, un hombre pregunta cómo respondería Frank Turek a una declaración hecha por el comediante británico Ricky Gervais:  
-*"Si quemamos todos los libros de ciencia y todos los textos religiosos, en un par de miles de años los libros de ciencia volverán, pero la religión será olvidada".*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kdlp7rUq124?si=gteehS7v09zJZgdW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Turek responde que lo contrario ya ha sucedido. Muchas prácticas científicas del pasado que eran erróneas han desaparecido (es decir, ya no las usamos), pero la Biblia sigue aquí, después de miles de años.
+In this video, a man asks how Frank Turek would respond to a statement made by British comedian Ricky Gervais:
+*"If we burn all science books and all religious texts, in a couple thousand years the science books will come back, but religion will be forgotten."*
 
-> [!quote]  
-> Creo que la ciencia sigue siendo reemplazada por nuevas teorías y esos libros antiguos ya no importan, mientras que la Biblia sigue siendo relevante, a pesar de que fue escrita desde hace 3,400 años hasta poco después del tiempo de Jesús.  
+Turek responds that the opposite has already happened. Many scientific practices from the past that were wrong have disappeared (i.e., we no longer use them), but the Bible is still here after thousands of years.
+
+> [!quote]
+> I think science continues to be replaced by new theories and those old books no longer matter, while the Bible remains relevant, despite being written from 3,400 years ago until shortly after Jesus' time.
 >
 > — Frank Turek
 
-Además, Turek afirma que, aunque nadie en esta época haya visto a Jesús resucitar de entre los muertos, eso no significa que no haya sucedido. Ninguno de nosotros ha visto a Aristóteles o Platón, pero eso no significa que no hayan existido.
+Furthermore, Turek states that although no one in this era has seen Jesus rise from the dead, that doesn't mean it didn't happen. None of us have seen Aristotle or Plato, but that doesn't mean they didn't exist.
 
-> [!quote]  
-> La historia es, en gran medida, el resultado del testimonio.  
+> [!quote]
+> History is, largely, the result of testimony.
 >
 > — Frank Turek

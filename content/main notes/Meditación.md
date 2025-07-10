@@ -1,31 +1,31 @@
 ---
 tags:
-  - fe
-  - disciplina
-  - devoción
+  - faith
+  - discipline
+  - devotion
 ---
 
-# Qué es
+# What it is
 
-La meditación significa reflexionar profundamente de manera regular sobre algo. En este caso, se trata de reflexionar profundamente sobre la Palabra de Dios.
+Meditation means regularly reflecting deeply on something. In this case, it is about deeply reflecting on the Word of God.
 
-# Por qué
+# Why
 
-Esta práctica nos ayuda a adquirir más sabiduría piadosa, fortalecer nuestra fe y alegrar nuestra alma. También profundiza nuestro conocimiento en su Palabra.
+This practice helps us gain more godly wisdom, strengthen our faith, and delight our soul. It also deepens our knowledge of His Word.
 
-# Cómo
+# How
 
-Puedes meditar orando para obtener entendimiento de la Palabra y repitiéndola una y otra vez, de día y de noche.
+You can meditate by praying for understanding of the Word and repeating it over and over, day and night.
 
-Pasajes ideales para meditar:
+Ideal passages for meditation:
 
-- Los 10 mandamientos
-- El Padre Nuestro
-- Las bienaventuranzas
-- Las parábolas de Jesús
-- Los salmos
-- Los aforismos de Santiago
+- The 10 Commandments
+- The Lord's Prayer
+- The Beatitudes
+- The parables of Jesus
+- The Psalms
+- The aphorisms of James
 
-# Referencias
+# References
 
 [[Disciplines of a Godly man]]

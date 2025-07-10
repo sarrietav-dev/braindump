@@ -1,261 +1,260 @@
 ---
 tags:
-  - fe
-  - disciplina
-  - vida-cristiana
+  - faith
+  - discipline
+  - christian-life
 ---
 
-# Devoción
+# Devotion
 
-## Meditación
+## Meditation
 
-Personalizar e interiorizar un segmento de la Palabra de Dios. Esto se divide en dos partes:
+Personalize and internalize a segment of God's Word. This is divided into two parts:
 
-1. **Escuchar:** Debemos orar para que su Palabra atraviese nuestra mente y llegue a nuestro corazón.
-2. **Murmurar:** Seleccionar pasajes que repetimos una y otra vez. Esto involucra el corazón, los oídos y la boca, maximizando nuestra devoción.
+1. **Listening:** We must pray for His Word to go through our mind and reach our heart.
+2. **Murmuring:** Select passages that we repeat over and over. This involves the heart, ears, and mouth, maximizing our devotion.
 
-La meditación tiene beneficios como el avivamiento del alma, la sabiduría y una mayor fe.
+Meditation has benefits such as revival of the soul, wisdom, and greater faith.
 
-Algunos pasajes ideales para la meditación son:
+Some ideal passages for meditation are:
 
-- Los 10 mandamientos.
-- El Padre Nuestro.
-- Las bienaventuranzas.
-- Las parábolas de Jesús.
-- Los salmos.
-- Los aforismos de Santiago.
+- The 10 Commandments.
+- The Lord's Prayer.
+- The Beatitudes.
+- The parables of Jesus.
+- The Psalms.
+- The aphorisms of James.
 
-La meditación debe ser regular, de día y de noche. Puede hacerse en cualquier momento: mientras trabajamos, cocinamos o viajamos.
+Meditation should be regular, day and night. It can be done at any time: while working, cooking, or traveling.
 
-## Confesión
-
-> [!quote]
-> El que encubre sus pecados no prosperará,  
-> pero el que los confiesa y se aparta alcanzará misericordia.  
->
-> — Proverbios 28:13
-
-Primero, debemos confesar quiénes somos realmente: pecadores. Esto nos ayuda a evitar la trampa de pensar que hemos superado nuestra condición, lo cual es en sí mismo un pecado.
-
-Segundo, debemos confesar cada pecado específicamente, llamándolos por su nombre, y luego agradecer a Dios por su perdón a través de la sangre de Cristo.
-
-> [!tip]  
-> Haz una lista de tus pecados; esto puede ayudar a materializar esta realidad personal.
-
-Debemos agradecer a Dios por poder descargar nuestros pecados ante Él, como si habláramos con un amigo cercano.
+## Confession
 
 > [!quote]
-> Debemos presentarle lo que realmente hay en nosotros, no lo que debería haber en nosotros.  
+> He who conceals his sins does not prosper,
+> but whoever confesses and renounces them finds mercy.
 >
-> — C. S. Lewis, *Cartas a Malcolm: Principalmente sobre la oración*
+> — Proverbs 28:13
 
-## Adoración
+First, we must confess who we really are: sinners. This helps us avoid the trap of thinking we have overcome our condition, which is itself a sin.
 
-### Reverencia
+Second, we must confess each sin specifically, calling them by name, and then thank God for His forgiveness through the blood of Christ.
 
-Tener temor de nuestra condición pecaminosa frente a la santidad de Dios.
+> [!tip]
+> Make a list of your sins; this can help materialize this personal reality.
 
-Debemos concentrarnos y estar completamente comprometidos con nuestro tiempo devocional.
-
-Debemos tener un espíritu humilde cuyo objetivo sea adorar al Señor.
+We should thank God for being able to unload our sins before Him, as if talking to a close friend.
 
 > [!quote]
-> Digno eres, Señor y Dios nuestro,  
-> de recibir la gloria, la honra y el poder,  
-> porque tú creaste todas las cosas;  
-> por tu voluntad existen y fueron creadas.  
+> We must present to Him what is really in us, not what ought to be in us.
 >
-> — Apocalipsis 4:11
+> — C. S. Lewis, *Letters to Malcolm: Chiefly on Prayer*
 
-### Contemplación
+## Worship
 
-Estamos llamados a contemplar a Dios.
+### Reverence
 
-Ver su creación y cómo su gloria se manifiesta a través de sus obras: los árboles, los cielos, el mar, los animales, las leyes de la física, la química, los bebés humanos.
+To have fear of our sinful condition before the holiness of God.
+
+We must focus and be fully committed to our devotional time.
+
+We must have a humble spirit whose goal is to worship the Lord.
 
 > [!quote]
-> Los cielos cuentan la gloria de Dios,  
-> el firmamento proclama la obra de sus manos.  
-> Un día comunica su mensaje al otro día,  
-> una noche a la otra noche se lo hace saber.  
+> Worthy are you, our Lord and God,
+> to receive glory and honor and power,
+> for you created all things;
+> by your will they exist and were created.
 >
-> — Salmo 19:1-2
+> — Revelation 4:11
 
-Al tomar un minuto para contemplar todo esto, podemos caer de rodillas en adoración.
+### Contemplation
 
-También podemos meditar en sus atributos: existencia propia, eternidad, infinitud, omnipresencia, gracia, santidad, etc.
+We are called to contemplate God.
 
-Contemplemos su gloria en la Escritura: la transfiguración, la encarnación, la crucifixión, la resurrección, el cruce del Mar Rojo por los hebreos o el gran avivamiento en Nínive después de que Jonás salió del gran pez.
-
-Sumérgete en las historias, míralas desde la perspectiva de los personajes y asómbrate de la gracia salvadora y la justicia del Señor.
-
-### Alabanza
-
-Esto es: acción de gracias y adoración en palabra y canto.
-
-Podemos cantar, orar o leer la Palabra de Dios en voz alta para Él.
-
-Podemos usar los Salmos, himnos del Nuevo Testamento, música moderna o canciones de adoración.
-
-### Sumisión
-
-Toda adoración conduce a la sumisión: presentar nuestro cuerpo a Cristo y rendir cada parte de nosotros.
-
-- Nuestra personalidad.
-- Nuestras ambiciones.
-- Nuestras relaciones.
-- Todas nuestras esperanzas.
-
-El autor afirma que la devoción personal no puede reducirse a estos principios en un orden estricto. A veces solo meditaremos y contemplaremos; otras veces, adoraremos y haremos peticiones.
-
-¡Pero nada de esto sucederá sin disciplina!
-
-# Oración
-
-Este capítulo se centra en la **oración de petición**. Sus aspectos clave son:
-
-### Oración en el Espíritu
-
-Orar en el Espíritu significa dejar que el Espíritu Santo nos guíe, nos ayude y nos fortalezca en la oración.
-
-Él nos dice por qué orar, nos alinea con la voluntad de Dios y nos da convicción de que lo que pedimos está en sintonía con los deseos y motivos de Dios.
-
-Un ejemplo es seguir orando por un familiar incrédulo. Si sentimos la carga de orar por ellos, probablemente sea la voluntad de Dios que crean. George Müller oró durante más de 50 años por dos hombres para que se convirtieran. Uno se convirtió en vida de Müller, el otro después de su muerte.
-
-El Espíritu también nos da dirección, energía y deseo de orar cuando nos sentimos cansados, débiles o desanimados.
-
-> [!tip]  
-> Recuérdate a ti mismo siempre orar en el Espíritu. Está abierto a cualquier petición que Él ponga en tu corazón.
-
-### Oración continua
-
-La Biblia nos llama a *"orar sin cesar"* (1 Tes. 5:17). La iglesia primitiva también estaba dedicada a la oración:
+See His creation and how His glory is manifested through His works: the trees, the skies, the sea, the animals, the laws of physics, chemistry, human babies.
 
 > [!quote]
-> Todos ellos, en un mismo espíritu,  
-> se dedicaban constantemente a la oración,  
-> junto con las mujeres, y con María, la madre de Jesús, y con sus hermanos.  
+> The heavens declare the glory of God,
+> the skies proclaim the work of his hands.
+> Day after day they pour forth speech;
+> night after night they reveal knowledge.
 >
-> — Hechos 1:14
+> — Psalm 19:1-2
 
-Si bien es imposible estar en oración verbal constante, lo clave es **la postura del corazón**.
+Taking a minute to contemplate all this, we can fall to our knees in worship.
 
-John Wesley decía que su corazón siempre estaba elevado hacia Dios, asegurándose de que nunca se interrumpiera su comunión con Él.
+We can also meditate on His attributes: self-existence, eternity, infinity, omnipresence, grace, holiness, etc.
 
-### Oración persistente
+Let us contemplate His glory in Scripture: the transfiguration, the incarnation, the crucifixion, the resurrection, the crossing of the Red Sea by the Hebrews, or the great revival in Nineveh after Jonah came out of the great fish.
 
-Nunca debemos desanimarnos en nuestras oraciones. Jesús enfatizó la perseverancia en la oración.
+Immerse yourself in the stories, see them from the perspective of the characters, and marvel at the saving grace and justice of the Lord.
+
+### Praise
+
+This is: thanksgiving and worship in word and song.
+
+We can sing, pray, or read God's Word aloud to Him.
+
+We can use the Psalms, New Testament hymns, modern music, or worship songs.
+
+### Submission
+
+All worship leads to submission: presenting our body to Christ and surrendering every part of ourselves.
+
+- Our personality.
+- Our ambitions.
+- Our relationships.
+- All our hopes.
+
+The author states that personal devotion cannot be reduced to these principles in a strict order. Sometimes we will only meditate and contemplate; other times, we will worship and make requests.
+
+But none of this will happen without discipline!
+
+# Prayer
+
+This chapter focuses on **petitionary prayer**. Its key aspects are:
+
+### Praying in the Spirit
+
+Praying in the Spirit means letting the Holy Spirit guide, help, and strengthen us in prayer.
+
+He tells us why to pray, aligns us with God's will, and gives us conviction that what we ask is in tune with God's desires and motives.
+
+An example is to keep praying for an unbelieving family member. If we feel the burden to pray for them, it is probably God's will that they believe. George Müller prayed for more than 50 years for two men to be converted. One converted during Müller's life, the other after his death.
+
+The Spirit also gives us direction, energy, and desire to pray when we feel tired, weak, or discouraged.
+
+> [!tip]
+> Remind yourself always to pray in the Spirit. Be open to any request He puts on your heart.
+
+### Continual Prayer
+
+The Bible calls us to *"pray without ceasing"* (1 Thess. 5:17). The early church was also devoted to prayer:
 
 > [!quote]
-> Pedid, y se os dará; buscad, y hallaréis;  
-> llamad, y se os abrirá.  
+> They all joined together constantly in prayer,
+> along with the women and Mary the mother of Jesus, and with his brothers.
 >
-> — Mateo 7:7
+> — Acts 1:14
 
-Los verbos están en forma imperativa, lo que significa que Jesús nos está dando un mandato.
+While it is impossible to be in constant verbal prayer, the key is **the posture of the heart**.
 
-> [!info]  
-> - *Oración continua:* Mantener una actitud de oración en todo momento.  
-> - *Oración persistente:* Nunca rendirse, como la viuda que insistía ante el juez en Lucas 18:1-5.
+John Wesley said that his heart was always lifted to God, making sure his communion with Him was never interrupted.
 
-# Integridad
+### Persistent Prayer
 
-El mundo vive una crisis de integridad.
-
-Los estudios muestran cifras alarmantes:
-
-- 91% de las personas admiten mentir regularmente.
-- 7% consideraría matar a alguien por 10 mil millones de dólares.
-- 95% de los estudiantes han hecho trampa en un examen.
-
-Lo peor es que estas cifras no cambian mucho entre los cristianos.
+We must never be discouraged in our prayers. Jesus emphasized perseverance in prayer.
 
 > [!quote]
-> Su garganta es un sepulcro abierto;  
-> con su lengua engañan.  
+> Ask, and it will be given to you; seek, and you will find;
+> knock, and it will be opened to you.
 >
-> — Romanos 3:13
+> — Matthew 7:7
 
-Dios no tolera la falta de integridad en Su iglesia. La historia de Ananías y Safira en Hechos 5:1-11 lo demuestra.
+The verbs are in the imperative form, meaning Jesus is giving us a command.
 
-La integridad atrae a las personas a Cristo porque **el mundo desea ser libre de la deshonestidad**.
+> [!info]
+> - *Continual prayer:* Maintaining an attitude of prayer at all times.
+> - *Persistent prayer:* Never giving up, like the widow who insisted before the judge in Luke 18:1-5.
 
-## ¿Cómo luce la integridad?
+# Integrity
 
-La integridad es total, es coherencia en cada aspecto de la vida. El Salmo 15 describe a la persona íntegra:
+The world is experiencing a crisis of integrity.
+
+Studies show alarming figures:
+
+- 91% of people admit to lying regularly.
+- 7% would consider killing someone for 10 billion dollars.
+- 95% of students have cheated on an exam.
+
+The worst part is that these figures do not change much among Christians.
 
 > [!quote]
-> Señor, ¿quién habitará en tu tabernáculo?  
-> ¿Quién morará en tu monte santo?  
-> El que anda en integridad y hace justicia,  
-> y habla verdad en su corazón.  
-> — Salmo 15:1-2
-
-## Beneficios de la integridad
-
-- **Carácter:** La integridad desarrolla el carácter.
-- **Conciencia:** Mantiene una conciencia limpia.
-- **Intimidad:** Nos acerca a Dios.
-- **Elevación:** La honestidad conduce a más honestidad.
-- **Evangelismo:** Atrae a otros a Cristo.
-
-La integridad es **honestidad habitual**. Debemos sembrar este hábito para mantener el alto estándar de verdad que el Señor nos ha llamado a tener.
-
-# La lengua
-
-En su epístola, Santiago habla sobre la lengua:
-
-> [!quote]  
-> **3** Cuando ponemos frenos en la boca de los caballos para que nos obedezcan, podemos controlar todo su cuerpo.  
+> Their throat is an open grave;
+> with their tongues they practice deceit.
 >
-> **4** Fíjense también en los barcos: aunque son tan grandes e impulsados por fuertes vientos, son dirigidos por un timón muy pequeño a donde el piloto quiere ir.  
+> — Romans 3:13
+
+God does not tolerate a lack of integrity in His church. The story of Ananias and Sapphira in Acts 5:1-11 demonstrates this.
+
+Integrity attracts people to Christ because **the world longs to be free from dishonesty**.
+
+## What does integrity look like?
+
+Integrity is total, it is consistency in every aspect of life. Psalm 15 describes the person of integrity:
+
+> [!quote]
+> Lord, who may dwell in your sacred tent?
+> Who may live on your holy mountain?
+> The one whose walk is blameless, who does what is righteous,
+> who speaks the truth from their heart.
+> — Psalm 15:1-2
+
+## Benefits of integrity
+
+- **Character:** Integrity develops character.
+- **Conscience:** Maintains a clean conscience.
+- **Intimacy:** Draws us closer to God.
+- **Elevation:** Honesty leads to more honesty.
+- **Evangelism:** Attracts others to Christ.
+
+Integrity is **habitual honesty**. We must sow this habit to maintain the high standard of truth the Lord has called us to.
+
+# The Tongue
+
+In his epistle, James speaks about the tongue:
+
+> [!quote]
+> **3** When we put bits into the mouths of horses to make them obey us, we can turn the whole animal.
 >
-> **5** Así también, la lengua es una parte pequeña del cuerpo, pero se jacta de grandes cosas. ¡Consideren qué gran bosque se incendia con tan solo una pequeña chispa!  
+> **4** Or take ships as an example. Although they are so large and are driven by strong winds, they are steered by a very small rudder wherever the pilot wants to go.
 >
-> **6** La lengua también es un fuego, un mundo de maldad entre los miembros del cuerpo. Corrompe todo el cuerpo, inflama el curso de la vida y es encendida por el infierno mismo.  
+> **5** Likewise, the tongue is a small part of the body, but it makes great boasts. Consider what a great forest is set on fire by a small spark!
 >
-> — Santiago 3:3-6
+> **6** The tongue also is a fire, a world of evil among the parts of the body. It corrupts the whole body, sets the whole course of one's life on fire, and is itself set on fire by hell.
+>
+> — James 3:3-6
 
-La lengua puede ser pequeña, pero tiene un gran poder. La historia muestra cómo las palabras pueden mover a millones de personas: Hitler usó su discurso para traer destrucción, mientras que Churchill lo usó para traer esperanza y victoria.
+The tongue may be small, but it has great power. History shows how words can move millions of people: Hitler used his speech to bring destruction, while Churchill used it to bring hope and victory.
 
-Santiago compara la lengua con un fuego. Una pequeña chispa puede incendiar ciudades enteras, así como las palabras descuidadas o dañinas pueden arruinar vidas. Si usamos nuestras palabras para herir a otros, seremos juzgados por el daño que causamos.
+James compares the tongue to a fire. A small spark can set entire cities ablaze, just as careless or harmful words can ruin lives. If we use our words to hurt others, we will be judged for the harm we cause.
 
-Me gustó el ejemplo de la araña viuda negra. Ella inyecta ácido en su presa, derritiendo su interior mientras el exterior parece intacto.
+I liked the example of the black widow spider. She injects acid into her prey, melting its insides while the outside appears intact.
 
-De la misma manera, podemos dañar los corazones de las personas con palabras como culpa, humillación y opiniones hirientes. Por fuera, pueden parecer bien, pero por dentro están profundamente heridas.
+In the same way, we can damage people's hearts with words like guilt, humiliation, and hurtful opinions. On the outside, they may seem fine, but inside they are deeply wounded.
 
-Este tipo de palabras dañinas pueden manifestarse de muchas maneras, como:
+This kind of harmful words can manifest in many ways, such as:
 
-- Chismes  
-- Insultos  
-- Halagos que no son sinceros  
-- Críticas con la intención de destruir  
-- Hacer que las personas se sientan pequeñas o sin importancia  
+- Gossip
+- Insults
+- Insincere flattery
+- Criticism with the intent to destroy
+- Making people feel small or unimportant
 
-Algunas personas creen que tienen derecho a humillar a otros usando sus debilidades, ya sea en público o en privado. Pero la verdad es que la mayoría de las personas ya conocen sus debilidades y quieren mejorar. Avergonzarlas no ayuda.
+Some people believe they have the right to humiliate others using their weaknesses, whether in public or in private. But the truth is that most people already know their weaknesses and want to improve. Shaming them does not help.
 
-A veces, las personas menosprecian a otros solo para sentirse mejor consigo mismas. Otros chismean simplemente porque no tienen nada importante que decir.
+Sometimes, people belittle others just to feel better about themselves. Others gossip simply because they have nothing important to say.
 
-Santiago advierte que no importa cuántas veces vayamos a la iglesia, oremos o leamos la Biblia, si no controlamos nuestras palabras, nuestra fe es vana.  
-*"Porque de la abundancia del corazón habla la boca"* (Lucas 6:45).
+James warns that no matter how many times we go to church, pray, or read the Bible, if we do not control our words, our faith is worthless.
+*"For out of the abundance of the heart the mouth speaks"* (Luke 6:45).
 
-Esto no significa que un cristiano que ocasionalmente dice una palabra indebida tenga una fe sin valor. Más bien, se trata de aquellos que constantemente hablan sin control, hiriendo a otros, difundiendo mentiras o chismeando.
+This does not mean that a Christian who occasionally says an improper word has worthless faith. Rather, it refers to those who constantly speak without control, hurting others, spreading lies, or gossiping.
 
-Necesitamos tanto la ayuda de Dios como nuestro esfuerzo personal para controlar nuestra lengua. Nuestras palabras pueden ser destructivas, pero también pueden ser una bendición. Con nuestra lengua, podemos:
+We need both God's help and our own effort to control our tongue. Our words can be destructive, but they can also be a blessing. With our tongue, we can:
 
-- Compartir el Evangelio  
-- Animar y ayudar a otros  
-- Traer sanidad  
-- Alabar a Dios  
+- Share the Gospel
+- Encourage and help others
+- Bring healing
+- Praise God
 
-Debemos pedir a Dios que purifique nuestras palabras, así como purificó los labios de Isaías en Isaías 6:5. Necesitamos orar regularmente por sabiduría en la manera en que hablamos.
+We must ask God to purify our words, just as He purified Isaiah's lips in Isaiah 6:5. We need to pray regularly for wisdom in how we speak.
 
-Finalmente, debemos entrenarnos para:
+Finally, we must train ourselves to:
 
-- Siempre hablar la verdad con amor.  
-- Evitar el chisme.  
-- Alejarnos de los halagos falsos.  
-- Dejar de hacer bromas vulgares, burlarnos de otros o usar el sarcasmo para herir.  
-- Memorizar versículos bíblicos que nos enseñen a usar nuestras palabras sabiamente.  
+- Always speak the truth in love.
+- Avoid gossip.
+- Stay away from false flattery.
+- Stop making vulgar jokes, mocking others, or using sarcasm to hurt.
+- Memorize Bible verses that teach us to use our words wisely.
 
-> **"Quien guarda su lengua, guarda su alma."** — Charles Spurgeon.  
+> **"He who guards his tongue guards his soul."** — Charles Spurgeon.

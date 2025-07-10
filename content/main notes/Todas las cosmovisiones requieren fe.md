@@ -1,12 +1,12 @@
 ---
 tags:
-  - apologética
-  - fe
+  - apologetics
+  - faith
 ---
-Todas las [[Cosmovisiones religiosas]] requieren un grado de fe, ya que somos seres limitados y no poseemos el conocimiento absoluto para probar con certeza la existencia de Dios. Vivimos en un mundo de probabilidades, por lo que cualquier afirmación sobre Dios podría ser falsa.
+All [[Religious worldviews]] require a degree of faith, since we are limited beings and do not possess absolute knowledge to prove with certainty the existence of God. We live in a world of probabilities, so any claim about God could be false.
 
-Cada punto de vista debe presentar evidencias que respalden sus creencias. Cuantas más evidencias existan, menos fe se necesita para creer.
+Each point of view must present evidence that supports its beliefs. The more evidence there is, the less faith is needed to believe.
 
-# Referencias
+# References
 
-[[No tengo suficiente fe para ser ateo]]
+[[I Don't Have Enough Faith to Be an Atheist]]

@@ -1,20 +1,20 @@
 ---
 tags:
-  - apologética
-  - fe
+  - apologetics
+  - faith
 ---
-Hay personas que, sin importar cuánta evidencia se les dé, ¡simplemente no querrán creer!  
+There are people who, no matter how much evidence you give them, simply will not want to believe!  
 
-Aquí entran en juego factores emocionales y de voluntad. No quieren creer porque aceptar la verdad implicaría cambiar su estilo de vida, pensamientos, amistades, valores, prioridades y ceder el control. Saben que el cristianismo no es solo recibir perdón, sino también negarse a sí mismos cada día.  
+Here, emotional and willful factors come into play. They do not want to believe because accepting the truth would mean changing their lifestyle, thoughts, friendships, values, priorities, and giving up control. They know that Christianity is not just about receiving forgiveness, but also about denying oneself every day.  
 
-Por otro lado, también hay cristianos que creen sin cuestionar porque **quieren** creer. Pero lo mismo ocurre con los ateos: muchos adoptan su postura sin evaluar las evidencias, dando un gran salto de fe en su ateísmo porque **quieren** que sea verdad. Tal vez sienten que su vida será más fácil y divertida bajo esa creencia.  
+On the other hand, there are also Christians who believe without questioning because they **want** to believe. But the same happens with atheists: many adopt their stance without evaluating the evidence, taking a great leap of faith in their atheism because they **want** it to be true. Maybe they feel their life will be easier and more fun under that belief.  
 
-Para ambos casos, el mismo principio aplica: **el hecho de que quieras creer algo no lo hace verdad.**  
+For both cases, the same principle applies: **the fact that you want to believe something does not make it true.**  
 
-También están los **agnósticos**, quienes prefieren mantenerse en una posición neutral, justificándolo con la idea de ser “de mente abierta”. Sin embargo, hay una gran diferencia entre tener una mente abierta y tener una mente vacía.  
+There are also **agnostics**, who prefer to remain in a neutral position, justifying it with the idea of being "open-minded." However, there is a big difference between having an open mind and having an empty mind.  
 
-La verdadera apertura mental implica reconocer la verdad cuando la encontramos. Si hay suficiente evidencia, los agnósticos no están tomando una posición neutral, sino evitando tomar una postura, lo que equivale a una mente vacía. 
+True open-mindedness means recognizing the truth when we find it. If there is enough evidence, agnostics are not taking a neutral position, but avoiding taking a stance, which is equivalent to an empty mind. 
 
-# Referencias
+# References
 
-[[No tengo suficiente fe para ser ateo]]
+[[I Don't Have Enough Faith to Be an Atheist]]

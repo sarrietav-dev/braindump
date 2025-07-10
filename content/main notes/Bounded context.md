@@ -3,17 +3,17 @@ tags:
   - software
   - ddd
 ---
-Un bounded context (o contexto delimitado) son límites donde un [[Lenguaje Ubicuo]] o un [[Modelo]] es coherente y aplicable.
+A bounded context is a boundary where a [[Ubiquitous Language]] or a [[Model]] is coherent and applicable.
 
-Este es un patrón estratégico que ayuda a reducir la complejidad de un proyecto al reducir el alcance de los conceptos del lenguaje y eliminar conflictos en terminología.
+This is a strategic pattern that helps reduce project complexity by reducing the scope of language concepts and eliminating terminology conflicts.
 
-# **Ejemplo de Conflicto de Terminología**
+# **Example of Terminology Conflict**
 
-- En una **tienda en línea**, el concepto de **Orden** significa cosas diferentes para **Ventas** y **Logística**:
-    - **Ventas:** Una orden es una compra con productos, precio y método de pago.
-    - **Logística:** Una orden es un pedido con dirección de envío, estado y transportista.
+- In an **online store**, the concept of **Order** means different things to **Sales** and **Logistics**:
+    - **Sales:** An order is a purchase with products, price, and payment method.
+    - **Logistics:** An order is a request with shipping address, status, and carrier.
 
 
-# Referencias
+# References
 
 [[Learning Domain Driven Design]]

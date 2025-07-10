@@ -1,18 +1,17 @@
 ---
 tags:
-  - apologética
-  - moralidad
-  - fe
+  - apologetics
+  - morality
+  - faith
 ---
-No tiene sentido que las personas discutan quién está mal si no tuvieran claro qué está bien o mal. Normalmente, las personas conocen unas reglas implícitas sobre qué está bien o qué está mal, y la mayoría no discute este estándar, simplemente dan excusas de por qué no cumplieron ese estándar.
 
-Esto antes se llamaba la Ley Natural porque era una ley que las personas sabían por naturaleza. Y a diferencia de las otras leyes como la gravedad que afecta a todos los seres y objetos y todos están obligados a cumplirla, la Ley Natural solo afecta a los seres humanos y tienen la libertad si obedecerla o no.
+It makes no sense for people to argue over who is wrong if they don’t first understand what is right or wrong. Usually, people know implicit rules about what is right or wrong, and most don’t question these standards—they simply make excuses for why they didn’t meet them.
 
-Las grandes civilizaciones de la historia no tienes diferencias significativas acerca del código moral. No vamos a encontrar una sociedad donde ser cobarde, mentiroso o infiel sea algo bueno.
+This used to be called Natural Law because it is a law people know by nature. And unlike other laws, such as gravity (which applies to all beings and objects, mandatory for all), Natural Law applies only to humans, who are free to obey it or not.
 
-Las personas que dicen que no existe el bien y el mal se retractan apenas que alguien hace algo malo hacia ellos. Si no existe el bien y el mal, ¿cuál es la diferencia entre mentir o ser sincero, aprovecharte de alguien o ser justo?
+The great civilizations of history did not differ significantly on moral codes. You won’t find a society where cowardice, lying, or unfaithfulness is considered good.
 
-Todos nosotros desobedecemos esta ley (¡puede que diariamente!). Y buscamos excusas para quitarnos la responsabilidad. Esto mismo es una prueba que creemos en esta ley. Si no fuera así, ¿por qué no soportamos cuando se nos acusa de romperla?
+People who say good and evil do not exist immediately object when someone does something wrong to them. If good and evil truly didn’t exist, what’s the difference between lying and telling the truth, taking advantage of someone and being fair?
 
----
+We all disobey this law (perhaps daily!). And we look for excuses to avoid responsibility. That itself is proof that we believe in this law. If we didn’t, why would we be offended when accused of breaking it?
 

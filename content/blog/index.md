@@ -1,4 +1,4 @@
 ---
 title: Blog
-description: Escritos largos de cierto tema o notas no-atómicas.
+description: Long-form writings on specific topics or non-atomic notes.
 ---

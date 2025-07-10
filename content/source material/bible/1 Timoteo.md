@@ -1,28 +1,28 @@
 ---
 tags:
-  - biblia
-  - fe
+  - bible
+  - faith
 ---
 
-# 1 Timoteo 2
+# 1 Timothy 2
 
-> [!tip]- Que nuestras oraciones sean grandes  
+> [!tip]- Let our prayers be big  
 >
-> Que nuestras oraciones sean grandes y evangelísticas, para que todas las personas puedan ser salvas, porque esto refleja el corazón de nuestro Señor.  
+> Let our prayers be big and evangelistic, so that all people may be saved, because this reflects the heart of our Lord.  
 >
-> Porque Él es el único y verdadero Dios, la única esperanza del mundo.  
+> Because He is the one and true God, the only hope of the world.  
 >
-> La oración es nuestra máxima prioridad, oremos por todas las personas.  
+> Prayer is our highest priority, let us pray for all people.  
 
-# 1 Timoteo 6
+# 1 Timothy 6
 
-> [!tip]- La buena batalla de la fe  
-> La vida cristiana no es fácil.  
+> [!tip]- The good fight of faith  
+> The Christian life is not easy.  
 >
-> Debemos pelear la buena batalla de la fe. Ese es el camino a la salvación eterna.  
+> We must fight the good fight of faith. That is the path to eternal salvation.  
 >
-> Como Jesús, quien pasó por muchas dificultades hasta Su crucifixión. La buena batalla es seguir a Jesús y guardar Sus mandamientos hasta que Él regrese.  
+> Like Jesus, who went through many difficulties until His crucifixion. The good fight is following Jesus and keeping His commandments until He returns.  
 >
-> Afortunadamente, tenemos a nuestro Señor, a quien buscamos para obtener fuerza y sustento en medio de la batalla, incluso cuando fallamos.  
+> Fortunately, we have our Lord, whom we seek for strength and sustenance in the midst of battle, even when we fail.  
 >
-> Él nos guarda, nos preserva y nos sostiene hasta el final.  
+> He guards us, preserves us, and sustains us until the end.  

@@ -1,16 +1,16 @@
 ---
 tags:
-  - apologética
-  - fe
+  - apologetics
+  - faith
 ---
-Las principales cosmovisiones religiosas se pueden resumir en tres:  
+The main religious worldviews can be summarized in three:  
 
-- **Teísmo**: Cree en un Dios personal que creó todo, pero que es distinto de su creación. Ejemplo: un pintor (Dios) y su pintura (la creación).  
-- **Panteísmo**: Dios es impersonal y es todo lo que existe: el universo, la Tierra, los árboles, las estrellas, tú, yo… todo es Dios. Ejemplo: Dios es la pintura misma.  
-- **Ateísmo**: No cree en ningún Dios. Solo existe la pintura y nadie la pintó; siempre ha estado ahí.  
+- **Theism**: Believes in a personal God who created everything, but who is distinct from His creation. Example: a painter (God) and his painting (creation).  
+- **Pantheism**: God is impersonal and is everything that exists: the universe, the Earth, the trees, the stars, you, me... everything is God. Example: God is the painting itself.  
+- **Atheism**: Does not believe in any God. Only the painting exists and no one painted it; it has always been there.  
 
-También están los **agnósticos**, quienes no están seguros o simplemente no quieren tomar una posición.
+There are also **agnostics**, who are not sure or simply do not want to take a position.
 
-# Referencias
+# References
 
-[[No tengo suficiente fe para ser ateo]]
+[[I Don't Have Enough Faith to Be an Atheist]]

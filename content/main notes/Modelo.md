@@ -3,12 +3,12 @@ tags:
   - software
   - ddd
 ---
-Un modelo es una representación simplificada de algo, cuyo propósito es solucionar un problema. Esencialmente, un modelo es una [[Abstracción]].
+A model is a simplified representation of something whose purpose is to solve a problem. Essentially, a model is an [[Abstraction]].
 
-Los modelos no deben dar la pintura completa del dominio en el que ese modelo se desenvuelve. Eso es como tener un mapa que tenga ciudades, cartografía, vías de tránsito, sistemas hidráulicos, lugares de interés, etc.
+Models should not give the complete picture of the domain in which that model operates. That would be like having a map that includes cities, cartography, transit routes, water systems, points of interest, etc.
 
-Un modelo debe ser útil y debe tener un propósito. 
+A model must be useful and have a purpose.
 
-# Referencias
+# References
 
 [[Learning Domain Driven Design]]

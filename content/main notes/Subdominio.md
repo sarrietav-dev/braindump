@@ -3,18 +3,18 @@ tags:
   - software
   - ddd
 ---
-Un subdominio es una parte de un dominio que, junto con otros subdominios, ayuda a la empresa a alcanzar sus objetivos y metas. Existen tres tipos de subdominios.
+A subdomain is a part of a domain that, together with other subdomains, helps the company achieve its objectives and goals. There are three types of subdomains.
 
-- [[Subdominio principal]]
-- [[Subdominio genérico]]
-- [[Subdominio de apoyo]]
+- [[Core subdomain]]
+- [[Generic subdomain]]
+- [[Supporting subdomain]]
 
-Ejemplos de subdominios puede ser:
+Examples of subdomains can be:
 
-- **Gestión de conocimiento** → Guardar y buscar información.
-- **Liquidación y compensación** → Hacer transacciones financieras.
-- **Finanzas y contabilidad** → Hacer seguimiento del dinero de la compañía.
+- **Knowledge management** → Storing and searching information.
+- **Clearing and settlement** → Performing financial transactions.
+- **Finance and accounting** → Tracking the company's money.
 
-# Referencias
+# References
 
 [[Learning Domain Driven Design]]

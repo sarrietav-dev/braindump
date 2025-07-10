@@ -1,33 +1,33 @@
 ---
-title: ¡Bienvenido!
-description: “Explorando tecnología, fe e impacto significativo.”
+title: Welcome!
+description: “Exploring technology, faith, and meaningful impact.”
 ---
 
 <div style="font-family: 'Georgia', serif; font-style: italic; font-size: 1.5rem; text-align: center; color: var(--secondary); padding: 20px; margin-bottom: 20px;">
-"Explorando tecnología, fe e impacto significativo."
+"Exploring technology, faith, and meaningful impact."
 </div>
 
 <div class="intro">
   <div class="intro__words">
-    <p>Hola, soy Sebastián Arrieta, un desarrollador de software colombiano apasionado por crear sistemas que generen un impacto significativo en la vida de las personas. Disfruto aprender nuevas tecnologías y fomentar la colaboración dentro de los equipos de desarrollo para ofrecer soluciones efectivas.</p>
-    <p>Fuera de la programación, me gusta pasar tiempo leyendo mi Biblia y haciendo voluntariado en mi iglesia local, donde encuentro inspiración y propósito más allá del trabajo.</p>
-    <p>Actualmente, estoy enfocado en mejorar mis habilidades de escritura a través de un blog donde comparto ideas sobre programación y diseño de sistemas. También estoy emocionado por la aventura de iniciar mi propia empresa.</p>
+    <p>Hi, I'm Sebastián Arrieta, a Colombian software developer passionate about creating systems that make a meaningful impact on people's lives. I enjoy learning new technologies and fostering collaboration within development teams to deliver effective solutions.</p>
+    <p>Outside of programming, I like spending time reading my Bible and volunteering at my local church, where I find inspiration and purpose beyond work.</p>
+    <p>Currently, I'm focused on improving my writing skills through a blog where I share ideas about programming and system design. I'm also excited about the adventure of starting my own company.</p>
   </div>
   <div class="intro__img">
     <img src="./assets/me.png" />
   </div>
 </div>
 
-## Proyectos
+## Projects
 
-Estos son algunos proyectos de los que estoy orgulloso:
+These are some projects I'm proud of:
 
-- [CampusCal](https://github.com/sarrietav-dev/campuscal): Desarrollé un sistema integral de reservas para la Universidad de Cartagena, optimizando la gestión de espacios universitarios. Mejoré la experiencia del usuario reduciendo los tiempos de reserva en un 50% mediante un diseño intuitivo y flujos de trabajo eficientes. Construido con **Laravel**, **Vue.js** y **TailwindCSS**.
-- [Horizon](https://github.com/sarrietav-dev/horizon): Creé una solución de software robusta para la gestión de incidencias en la administración de propiedad horizontal. Me enfoqué en la escalabilidad y en interfaces fáciles de usar para simplificar los procesos de administración de propiedades. Desarrollado con **React.js** y **Spring Boot**.
-- [Shoppingify](https://github.com/sarrietav-dev/shoppingify): Diseñé y desarrollé una aplicación web para gestionar listas de compras y proporcionar análisis avanzados para rastrear hábitos de compra. Aplicado con un enfoque sólido en los principios de **Domain-Driven Design (DDD)** para garantizar escalabilidad y mantenibilidad.
-- [Product Feedback](https://github.com/sarrietav-dev/shoppingify): Una plataforma donde los usuarios pueden dar su opinión sobre los productos de una empresa. ¡Este proyecto fue desarrollado con Ruby on Rails!
-- [Finance](https://github.com/sarrietav-dev/finance): Una plataforma donde puedes gestionar tus finanzas personales. Registra transacciones, haz seguimiento a tu presupuesto, agrega fondos de ahorro, etc. ¡Este proyecto fue desarrollado con Laravel!
+- [CampusCal](https://github.com/sarrietav-dev/campuscal): I developed a comprehensive reservation system for the University of Cartagena, optimizing the management of university spaces. I improved user experience by reducing booking times by 50% through intuitive design and efficient workflows. Built with **Laravel**, **Vue.js**, and **TailwindCSS**.
+- [Horizon](https://github.com/sarrietav-dev/horizon): I created a robust software solution for incident management in property administration. I focused on scalability and user-friendly interfaces to simplify property management processes. Developed with **React.js** and **Spring Boot**.
+- [Shoppingify](https://github.com/sarrietav-dev/shoppingify): I designed and developed a web application to manage shopping lists and provide advanced analytics to track shopping habits. Built with a strong focus on **Domain-Driven Design (DDD)** principles to ensure scalability and maintainability.
+- [Product Feedback](https://github.com/sarrietav-dev/shoppingify): A platform where users can give feedback on a company's products. This project was developed with Ruby on Rails!
+- [Finance](https://github.com/sarrietav-dev/finance): A platform where you can manage your personal finances. Record transactions, track your budget, add savings funds, etc. This project was developed with Laravel!
 
-## Resume
+## Résumé
 
-[[resume|Aquí puedes ver mi hoja de vida]]
+[[resume|You can view my résumé here]]

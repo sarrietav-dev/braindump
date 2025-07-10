@@ -3,16 +3,16 @@ tags:
   - software
   - ddd
 ---
-## Subdominio principal (Core subdomain)
+## Core subdomain
 
-- Es lo que la empresa hace diferente a la competencia.
-- No puede replicarse fácilmente.
-- No puede ser subcontratado.
-- Altamente complejo.
-- Altamente volátil.
-- Se asignan los mejores ingenieros para desarrollarlo.
-- No se limita solo al software.
+- It is what the company does differently from the competition.
+- It cannot be easily replicated.
+- It cannot be outsourced.
+- Highly complex.
+- Highly volatile.
+- The best engineers are assigned to develop it.
+- Not limited to software only.
 
-# Referencias
+# References
 
 [[Learning Domain Driven Design]]

@@ -3,20 +3,20 @@ tags:
   - software
   - ddd
 ---
-El éxito de un software depende de qué tan efectiva es la **intercambio de conocimiento** entre los interesados.
+The success of software depends on how effective the **exchange of knowledge** is among stakeholders.
 
-El software debe **imitar el conocimiento**: cómo los expertos del dominio piensan sobre el problema, porque en ellos está el conocimiento del dominio.
+Software should **imitate knowledge**: how domain experts think about the problem, because they hold the domain knowledge.
 
-## Comunicación
+## Communication
 
-La comunicación es **crucial** para un proyecto de software, pero hoy en día se ve en muchos proyectos el “juego del teléfono roto”.
+Communication is **crucial** for a software project, but nowadays in many projects we see the "telephone game".
 
-El experto habla con el analista, creando el documento de requerimientos. Luego el arquitecto recibe el documento y genera el diseño. Finalmente, los desarrolladores hacen el código.
+The expert talks to the analyst, creating the requirements document. Then the architect receives the document and generates the design. Finally, the developers write the code.
 
-En cada paso de **traducción**, hay información que se pierde.
+At each step of **translation**, information is lost.
 
-La solución para este problema es mantener un [[Lenguaje Ubicuo]]
+The solution to this problem is to maintain a [[Ubiquitous Language]]
 
-# Referencias
+# References
 
 [[Learning Domain Driven Design]]

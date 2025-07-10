@@ -1,3 +1,3 @@
 ---
-description: aprendizaje de ingenieria de software y programacion en general.
+description: Lessons on software engineering and programming in general.
 ---

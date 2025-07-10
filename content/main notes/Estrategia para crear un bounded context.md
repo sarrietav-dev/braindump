@@ -3,13 +3,13 @@ tags:
   - software
   - ddd
 ---
-Para poder delimitar los [[Bounded context]] de tu proyecto, ten en cuenta los siguientes puntos:
+To be able to delimit the [[Bounded context]] of your project, keep the following points in mind:
 
-- La delimitación depende del problema a solucionar
-	- Un proyecto pequeño puede sobrevivir con un solo bounded context.
-	- Un proyecto grande se beneficiaría de tener varios bounded contexts más pequeños y especializados.
-- No dividir funcionalidades estrechamente relacionadas.
-- Los conceptos que cambian juntos deben mantenerse juntos.
-# Referencias
+- The delimitation depends on the problem to be solved
+    - A small project can survive with a single bounded context.
+    - A large project would benefit from having several smaller, specialized bounded contexts.
+- Do not split closely related functionalities.
+- Concepts that change together should be kept together.
+# References
 
 [[Learning Domain Driven Design]]

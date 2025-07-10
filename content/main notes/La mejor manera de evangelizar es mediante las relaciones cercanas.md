@@ -1,11 +1,11 @@
 ---
 tags:
-  - fe
-  - evangelismo
+  - faith
+  - evangelism
 description:
 ---
-No es necesario hacer grandes campañas evangelísticas para que la buena noticia sea plantada efectivamente. ¡En realidad, dar nuestro testimonio a personas cercanas a nuestra vida es mucho más efectivo!
+It is not necessary to hold large evangelistic campaigns for the good news to be effectively planted. In fact, sharing our testimony with people close to our lives is much more effective!
 
-Según el Instituto Americano de Crecimiento Eclesiástico, el 75% de las personas llegaron a la fe mediante de la influencia de amigos o familiares.
+According to the American Institute of Church Growth, 75% of people came to faith through the influence of friends or family.
 
-Una sola alma humana es de inmenso valor para Dios, por ende esto nos llama a cultivar relaciones fuertes y verdaderas, para que por medio de esos lazos y usando nuestra vida como testimonio, Cristo pueda llegar a sus corazones.
+A single human soul is of immense value to God, so this calls us to cultivate strong and true relationships, so that through those bonds and using our lives as testimony, Christ can reach their hearts.

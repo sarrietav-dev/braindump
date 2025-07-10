@@ -1,10 +1,10 @@
 ---
 draft: "true"
 ---
-Hablar sobre el encuentro con Hablador en el progreso del Peregrino en el capítulo 5.
+Talk about the encounter with Talkative in Pilgrim's Progress, chapter 5.
 
-# Cosas que me llamaron la atención
+# Things that caught my attention
 
-- Carácteristicas de "Hablador".
-- Cómo el personaje "Hablador" se puede reflejar en la vida de un cristiano. (mucha sabiduría, poca práctica).
-- Cómo combatir esto.
+- Characteristics of "Talkative".
+- How the character "Talkative" can be reflected in the life of a Christian (a lot of wisdom, little practice).
+- How to combat this.

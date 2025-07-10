@@ -3,132 +3,131 @@ tags:
   - software
   - devops
 ---
-Kubernetes (k8s) es una tecnología que ayuda al despliegue, escalabilidad y gestión de aplicaciones distribuida de manera eficiente.
 
-> [!question] Cómo ayuda a la escalabilidad y a la disponibilidad exactamente?
+# Kubernetes
 
-Es usado por grandes compañías como Netflix, Spotify, entre otras.
+Kubernetes (k8s) is a technology that helps efficiently deploy, scale, and manage distributed applications.
 
-Es como un orquestador:
-- Si un músico deja de tocar, lo reemplaza por otro.
-- Si la audiencia aumenta, el orquestador aumenta el número de músicos.
+> [!question] How exactly does it help with scalability and availability?
 
-> [!question] Explicar exactamente qué es un orquestador.
+It is used by large companies such as Netflix, Spotify, among others.
 
-> [!question] Cuáles alternativas hay para k8s?
+It acts like an orchestrator:
+- If one musician stops playing, it replaces them with another.
+- If the audience grows, the orchestrator increases the number of musicians.
 
-> [!question] Cuáles son las ventajas y desventajas de usar k8s en un proyecto?
+> [!question] What exactly is an orchestrator?
+> [!question] What alternatives are there to k8s?
+> [!question] What are the pros and cons of using k8s in a project?
+> [!question] When to use and when not to use k8s?
 
-> [!question] Cuándo usar y no usar k8s?
+# Local Installation
 
-# Instalación en local
+## Installing kubectl
+`kubectl` is a tool for running commands against k8s clusters. [Installation guide](https://kubernetes.io/docs/tasks/tools/#kubectl).
 
-## Instalar kubectl
-Kubectl es una herramienta para ejecutar comandos en clústeres de k8s. [Link de como instalar](https://kubernetes.io/docs/tasks/tools/#kubectl).
+## Installing Minikube
+Minikube is a local k8s instance that lets you learn and develop easily. [Installation guide](https://minikube.sigs.k8s.io/docs/start/?arch=%2Flinux%2Fx86-64%2Fstable%2Fbinary+download).
 
-## Instalar minikube
-Minikube es una instancia local de k8s que nos permite aprender y desarrollar de forma fácil en k8s. [Link de como instalar](https://minikube.sigs.k8s.io/docs/start/?arch=%2Flinux%2Fx86-64%2Fstable%2Fbinary+download).
+# Starting the Cluster
 
-# Iniciar el cluster
-
-Para poder crear un clúster y configurarlo en kubectl, hay que ejecutar este comando.
-
-```
+To create a cluster and configure it for kubectl, run:
+```bash
 minikube start --driver=docker
 ```
+This creates a cluster named `minikube` and a `default` namespace.
 
-Esto creará un clúster llamado `minikube` y un namespace llamado `default`
+> [!todo] Expand on **drivers**.
 
-> [!todo] Expandir en **drivers**
-
-Podemos revisar los nodos usando `kubectl get nodes` y, ya que estamos usando Docker, podemos revisar el contenedor que se está ejecutando usando `docker ps`.
+Check nodes with `kubectl get nodes`, and since Minikube runs in Docker, view the container with `docker ps`.
 
 ## Add-ons
 
-Minikube nos proporciona diferentes add-ons que podemos instalar en nuestro clúster. Para comprobar cuales son podemos ejecutar `minikube addons list`.
-
-Hay dos add-ons importantes que se tienen que instalar que son `registry` para habilitar el registro local y `metrics-server` para habilitar el servidor de métricas. Para esto, usamos los siguientes comandos:
-
+Minikube provides various add-ons. List them with:
+```
+minikube addons list
+```
+Install key add-ons:
 ```
 minikube addons enable registry
 minikube addons enable metrics-server
 ```
 
-Un comando útil es `eval $(minikube docker-env)` que nos permite usar Docker para ver qué componentes están instalados en minikube (como por ejemplo las imágenes).
+Use:
+```
+eval $(minikube docker-env)
+```
+to point Docker commands at Minikube’s Docker daemon.
 
-El comando `kubectl config get-contexts` nos permite saber en qué clúster estamos ejecutando los comando (por ejemplo, en la máquina local o en una remota). Para cambiar de contexto podemos usar el comando `kubectl config set-context NOMBRE_CONTEXTO`
+Switch contexts if needed:
+```
+kubectl config get-contexts
+kubectl config set-context <CONTEXT_NAME>
+```
 
-> [!todo] Expandir en **contextos** de Docker
+> [!todo] Expand on Docker **contexts**.
 
-Para ejecutar un contenedor de ejemplo, podemos usar:
-
+Run a sample container:
 ```
 kubectl run hello-cloud --image=gcr.io/google-samples/hello-app:2.0 --restart=Never --port=8080
 ```
 
-Una utilidad que podemos usar a la hora de usar k8s con minikube es el dashboard web:
-
+Launch the Minikube dashboard:
 ```
 minikube dashboard
 ```
 
-# Partes principales
+# Core Components
 
-## Clústeres
+## Clusters
 
-Un clúster es un conjunto de nodos, los cuales ejecutan aplicaciones en contenedores gestionados por un *Control Plane*.
+A cluster is a set of nodes running containerized applications managed by a *Control Plane*.
 
-> [!tip] Crear uno o dos nodos maestros por clúster y múltiples nodos workers para garantizar alta disponibilidad, capacidad de ejecución y operación.
+> [!tip] Create one or two master nodes per cluster and multiple worker nodes for high availability and workload distribution.
 
 ## Namespaces
 
-Los *namespaces* nos ayudan a nombrar o categorizar los recursos de un cluster de forma lógica. Por ejemplo podemos tener un namespace por tipo de aplicación como back-end o front-end, o por equipo como *payments* o *profiles*.
+*Namespaces* provide logical partitioning of cluster resources (e.g., separate namespaces for backend, frontend, payments, profiles).
 
-## Nodos
+## Nodes
 
-Existen dos tipos de nodos: maestros y workers.
+Two node types: masters and workers.
 
-### Maestros
-
-- Gestionan el clúster.
-- Se aseguran que todo esté funcionando en armonía
-- Son como la central de operaciones.
+### Master Nodes
+- Manage cluster state.
+- Ensure harmony across the cluster.
+- Act as the central operations layer.
 
 #### API Server
-Esta es la interfaz principal del cluster. Se asegura que todas las solicitudes (tanto externas como internas) sean procesadas correctamente.
+The primary API interface for the cluster, processing all internal and external requests.
 
 #### etcd
-Base de datos llave-valor que almacena el estado del cluster. Asegura que el cluster siempre tenga un registro actualizado de su estado.
+A key-value store that holds the cluster state.
 
 #### Scheduler
-Asigna los pods a los nodos workers segun los recursos disponibles.
+Assigns pods to worker nodes based on resource availability.
 
-#### Controller manager
-Supervisa el estado de los recursos y asegura que coincidan con el estado deseado. Si un pod falla, este componente se asegura de que se cree uno nuevo.
+#### Controller Manager
+Monitors resource state and ensures it matches the desired state. Recreates pods when they fail.
 
-### Workers
-- Ejecutan las aplicaciones
-- Hacen el trabajo pesado
-- Usan Docker
+### Worker Nodes
+- Run applications.
+- Perform the work.
+- Use Docker.
 
 #### Kubelet
-Se comunica con el nodo maestro para recibir instrucciones y reportar el estado del worker.
+Communicates with the master node to receive instructions and report status.
 
 #### kube-proxy
-Se encarga de las reglas de red y balanceo de carga.
+Handles network rules and load balancing.
 
 ## Pods
 
-Es la unidad más básica y mínima de ejecución en k8s. Contiene uno o más contenedores. Si un nodo falla, los pods se redistribuyen para mantener el servicio.
+The smallest deployable units in k8s, containing one or more containers. Pods get redistributed on node failure.
 
-Cada pod tiene una IP única dentro del clúster.
+Each pod has a unique IP within the cluster.
 
-## Servicios
+## Services
 
-Son componentes instalables en un clúster, los cuales facilitan la comunicación entre diferentes partes de la aplicación y el exterior.
-
-Definen un conjunto de pods y una política de acceso. 
-
-Un ejemplo de servicio sería redirigir tráfico del front a un grupo de pods del back.
-
-De los servicios más usados son ClusterIP, NodePort, LoadBalancer y ExternalName.
+Cluster components that enable communication between application parts and external networks.
+Define a set of pods and an access policy (e.g., ClusterIP, NodePort, LoadBalancer, ExternalName).

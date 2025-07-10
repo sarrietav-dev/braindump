@@ -1,22 +1,21 @@
 ---
 tags:
-  - fe
-  - disciplina
-  - devoción
+  - faith
+  - discipline
+  - devotion
 ---
 
-La confesión es el acto de decirle a Dios, en oración, el pecado que hemos cometido. Esto ocurre antes del [[Arrepentimiento]].
+Confession is the act of telling God, in prayer, the sin we have committed. This occurs before [[Repentance]].
 
-Debemos confesar nuestros pecados porque Dios no se alegra en la persona que no lo hace ([[probablemente debido al orgullo]]). Además, encontramos gracia cuando confesamos.
+We must confess our sins because God does not delight in the person who does not do so (probably due to pride). Furthermore, we find grace when we confess.
 
 > [!quote]
-> El que encubre sus pecados no prosperará,  
-> pero el que los confiesa y se aparta alcanzará misericordia.  
->
-> — Proverbios 28:13
+> He who conceals his sins does not prosper,  
+> but whoever confesses and forsakes them finds mercy.  
+> — Proverbs 28:13
 
-Para confesar, primero debemos reconocer ante Dios que somos pecadores, y luego mencionar cada pecado específicamente.
+To confess, we must first acknowledge before God that we are sinners, and then mention each sin specifically.
 
-# Referencias
+# References
 
 [[Disciplines of a Godly man]]

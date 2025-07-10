@@ -3,14 +3,14 @@ tags:
   - software
   - ddd
 ---
-## Subdominios genéricos (Generic subdomains)
+## Generic subdomains
 
-- Lo que todas las empresas hacen de la misma manera.
-- Soluciones listas para usar.
-- Difícil de implementar.
-- Puede convertirse en un negocio secundario.
-- Idealmente, no tan volátil.
+- What all companies do in the same way.
+- Ready-made solutions.
+- Difficult to implement.
+- Can become a secondary business.
+- Ideally, not so volatile.
 
-# Referencias
+# References
 
 [[Learning Domain Driven Design]]

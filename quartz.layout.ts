@@ -19,7 +19,7 @@ export const sharedPageComponents: SharedLayout = {
         category: "Announcements",
         // from data-category-id
         categoryId: "DIC_kwDONO2PU84Cndyn",
-        lang: "es",
+        lang: "en",
         themeUrl: "https://sarrietav.dev/static/giscus",
       },
     }),
@@ -58,7 +58,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Links()),
     Component.DesktopOnly(
       Component.RecentNotes({
-        title: "Ideas recientes",
+        title: "Recent ideas",
         limit: 4,
         filter: (f) =>
           f.slug!.startsWith("main-notes/") &&
@@ -69,7 +69,7 @@ export const defaultContentPageLayout: PageLayout = {
     ),
     Component.DesktopOnly(
       Component.RecentNotes({
-        title: "Temas que he estado aprendiendo",
+        title: "Topics I've been learning",
         limit: 2,
         filter: (f) =>
           f.slug!.startsWith("source-material/") &&

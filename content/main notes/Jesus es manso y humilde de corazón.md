@@ -1,14 +1,14 @@
 ---
 tags:
-  - fe
-  - cristología
+  - faith
+  - christology
 ---
->  Tomen Mi yugo sobre ustedes y aprendan de Mí, que Yo soy manso y humilde de corazón, y hallarán descanso para sus almas — Mateo 11:29
+> Take My yoke upon you and learn from Me, for I am gentle and humble in heart, and you will find rest for your souls — Matthew 11:29
 
-Jesús define su corazón como manso y humilde. ¡No lo define de ninguna otra manera! Él no dice que él es demandante y severo, o exaltado y glorioso, ni siquiera alegre y generoso.
+Jesus defines His heart as gentle and humble. He does not define it in any other way! He does not say He is demanding and severe, or exalted and glorious, not even joyful and generous.
 
-Él es _[[La mansedumbre de Jesús|manso]] y [[La humildad de Jesús|humilde]]_.
+He is _[[The Meekness of Jesus|gentle]] and [[The Humility of Jesus|humble]]_.
 
-# Referencias
+# References
 
 [[Gentle and Lowly]]

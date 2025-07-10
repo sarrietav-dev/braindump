@@ -1,62 +1,64 @@
 ---
 tags:
-  - fe
-  - sermones
+  - faith
+  - sermons
 ---
 
-Enlace al sermón:
+# The Door Game
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vABkvIieRi4?si=Qs2ynKdbsmevmkRg" title="Reproductor de video de YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Link to the sermon:
 
-Comenzamos la vida lamentando lo que hicimos, pero la terminamos lamentando lo que no hicimos.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vABkvIieRi4?si=Qs2ynKdbsmevmkRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-No tenemos que espiritualizar cada decisión que tomamos en la vida.
+We start life regretting what we did, but we end it regretting what we didn't do.
 
-> [!quote]  
-> **8** “Conozco tus obras. He aquí, he puesto delante de ti una puerta abierta, la cual nadie puede cerrar…” (RVR1960)  
+We don't need to spiritualize every decision we make in life.
+
+> [!quote]
+> **8** "I know your works. Behold, I have set before you an open door, which no one is able to shut..." (ESV)
 >
-> — Apocalipsis 3:8
+> — Revelation 3:8
 
-A menudo tratamos de hacer que Dios funcione como un oráculo o un horóscopo para que nos diga qué hacer, generalmente pensando en nuestros propios deseos.
+We often try to make God function like an oracle or horoscope to tell us what to do, usually thinking about our own desires.
 
-La verdadera razón es que queremos evitar tomar decisiones importantes en la vida. Y si esa decisión sale mal, en lugar de asumir la responsabilidad, podemos culpar a Dios. No queremos lidiar con la ansiedad de decidir.
+The real reason is that we want to avoid making important life decisions. And if that decision goes wrong, instead of taking responsibility, we can blame God. We don't want to deal with the anxiety of deciding.
 
-### ¡Tomar decisiones moldea el carácter!  
+### Making decisions shapes character!
 
-Debemos tomar decisiones para crecer, ¡incluso si nos equivocamos!
+We must make decisions to grow, even if we make mistakes!
 
-La voluntad principal de Dios se trata de **quién nos convertimos**, no del camino específico que tomamos para llegar allí.
+God's primary will is about **who we become**, not the specific path we take to get there.
 
-Podemos quedar paralizados por los "¿Y si...?" lo que puede llevarnos a la depresión, la ansiedad y la ingratitud.
+We can become paralyzed by "What if...?" which can lead to depression, anxiety, and ingratitude.
 
-Si tomamos la facilidad como criterio de lo que consideramos fe, entonces cuando lleguen tiempos difíciles, lucharemos con la duda. **Una puerta abierta no significa una vida fácil**.
+If we take ease as the criterion for what we consider faith, then when difficult times come, we will struggle with doubt. **An open door doesn't mean an easy life**.
 
-La madurez espiritual es la capacidad de **enfrentar problemas sin perder la paz**.
+Spiritual maturity is the ability to **face problems without losing peace**.
 
-Dios rara vez abre las puertas más grandes. En la Biblia tenemos ejemplos como Moisés, que no entró en la tierra prometida, o David, que no pudo construir el templo.
+God rarely opens the biggest doors. In the Bible we have examples like Moses, who didn't enter the promised land, or David, who couldn't build the temple.
 
-Uno de los mayores regalos de Dios son las **oraciones sin respuesta**.
+One of God's greatest gifts are **unanswered prayers**.
 
-> [!quote]  
-> **16** “Dentro de poco, ya no me verán, y dentro de otro poco, me verán otra vez.”  
+> [!quote]
+> **16** "A little while, and you will see me no longer; and again a little while, and you will see me."
 >
-> **17** Algunos de sus discípulos se preguntaban unos a otros:  
-> _«¿Qué quiere decir con eso de: “Dentro de poco, ya no me verán, y dentro de otro poco, me verán otra vez”? ¿Y con eso de: “Porque voy al Padre”?»_  
+> **17** So some of his disciples said to one another:
+> *"What is this that he says to us, 'A little while, and you will not see me, and again a little while, and you will see me'; and, 'because I am going to the Father'?"*
 >
-> **18** Así que se decían:  
-> _«¿Qué significa eso de “dentro de poco”? No entendemos lo que está diciendo.»_  
+> **18** So they were saying:
+> *"What does he mean by 'a little while'? We do not know what he is talking about."*
 >
-> **19** Jesús, dándose cuenta de que querían hacerle preguntas, les dijo:  
-> _«¿Os estáis preguntando acerca de lo que dije: “Dentro de poco, ya no me verán, y dentro de otro poco, me verán otra vez”?»_  
+> **19** Jesus knew that they wanted to ask him, so he said to them:
+> *"Is this what you are asking yourselves, what I meant by saying, 'A little while and you will not see me, and again a little while and you will see me'?"*
 >
-> **20** _«Ciertamente os aseguro que lloraréis de dolor, mientras el mundo se regocijará. Vosotros estaréis tristes, pero vuestra tristeza se convertirá en gozo.»_  
+> **20** *"Truly, truly, I say to you, you will weep and lament, but the world will rejoice. You will be sorrowful, but your sorrow will turn into joy."*
 >
-> **21** _«La mujer que está dando a luz siente angustia porque ha llegado su hora; pero cuando nace el niño, se olvida de su angustia por la alegría de haber traído al mundo un nuevo ser.»_  
+> **21** *"When a woman is giving birth, she has sorrow because her hour has come, but when she has delivered the baby, she no longer remembers the anguish, for joy that a human being has been born into the world."*
 >
-> **22** _«Así también vosotros, ahora estáis tristes, pero yo os volveré a ver, y se alegrará vuestro corazón, y nadie os quitará esa alegría.»_  
+> **22** *"So also you have sorrow now, but I will see you again, and your hearts will rejoice, and no one will take your joy from you."*
 >
-> **23** _«En aquel día ya no me preguntaréis nada. Ciertamente os aseguro que mi Padre os dará todo lo que le pidáis en mi nombre.»_  
+> **23** *"In that day you will ask nothing of me. Truly, truly, I say to you, whatever you ask of the Father in my name, he will give it to you."*
 >
-> **24** _«Hasta ahora no habéis pedido nada en mi nombre. Pedid y recibiréis, para que vuestra alegría sea completa.»_  
+> **24** *"Until now you have asked nothing in my name. Ask, and you will receive, that your joy may be full."*
 >
-> — Juan 16:16-24
+> — John 16:16-24

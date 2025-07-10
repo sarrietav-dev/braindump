@@ -1,5 +1,5 @@
 ---
-title: Hoja de vida
+title: Résumé
 ---
 # Sebastián Arrieta Villarreal
 
@@ -7,81 +7,81 @@ title: Hoja de vida
 ✉️ [sarrietav@protonmail.com](mailto:sarrietav@protonmail.com)  
 🌐 [https://sarrietav.dev](https://sarrietav.dev)  
 
-**Redes sociales:**  
+**Social Media:**  
 [GitHub](https://github.com/sarrietav-dev) • [LinkedIn](https://linkedin.com/in/sarrietav) • [X](https://x.com/sarrietav)  
 
 ---
 
-## 🎓 Educación
+## 🎓 Education
 
 **University of Cartagena**  
-Ingeniería de Sistemas  
+Systems Engineering  
 📍 [https://unicartagena.edu.co](https://unicartagena.edu.co)  
-_Abril 2019 - Diciembre 2024_  
-**Promedio:** 4.5 / 5  
+_April 2019 - December 2024_  
+**GPA:** 4.5 / 5  
 
-**Cursos Relevantes:**
-- Programación Orientada a Objetos
-- Desarrollo de Aplicaciones Web
-- Ingeniería de Software I y II
-- Diseño de Bases de Datos
-- Ciberseguridad
-- Algoritmos y Estructuras de Datos
-- Diseño de Arquitectura de Software
-- Inteligencia Artificial
+**Relevant Courses:**
+- Object-Oriented Programming
+- Web Application Development
+- Software Engineering I & II
+- Database Design
+- Cybersecurity
+- Algorithms and Data Structures
+- Software Architecture Design
+- Artificial Intelligence
 
 ---
 
-## 💼 Experiencia
+## 💼 Experience
 
 **Pragma**  
-_Practicante de ingeniería_  
+_Engineering Intern_  
 📍 [https://pragma.co](https://pragma.co)  
-_Febrero 2024 - Agosto 2024_
+_February 2024 - August 2024_
 
-- Implementé, mantuve y optimicé funciones para una plataforma con más de 1000 usuarios activos mensuales.
-- Reduje los tiempos de carga de solicitudes en un 98% (de 10 segundos a 200 milisegundos), mejorando la experiencia del usuario.
-- Mejoré los tiempos de compilación en un 95% (de 10 minutos a 30 segundos), optimizando el despliegue de la aplicación.
-- Desarrollé, mantuve y migré funciones de AWS Lambda a AWS SAM.
-- Gestioné flujos de CI/CD con Azure Pipelines.
-- Diseñé un flujo de entrega de notificaciones con AWS Lambda, API Gateway, SNS y Firebase Cloud Messaging.
+- Implemented, maintained, and optimized features for a platform with over 1,000 monthly active users.
+- Reduced request load times by 98% (from 10 seconds to 200 milliseconds), improving user experience.
+- Improved build times by 95% (from 10 minutes to 30 seconds), optimizing application deployment.
+- Developed, maintained, and migrated AWS Lambda functions to AWS SAM.
+- Managed CI/CD workflows with Azure Pipelines.
+- Designed a notification delivery flow with AWS Lambda, API Gateway, SNS, and Firebase Cloud Messaging.
 
 ---
 
-## 🚀 Proyectos
+## 🚀 Projects
 
 ### [Horizon](https://github.com/sarrietav-dev/horizon)  
-**Tecnologías:** Spring Boot, React.js  
-> Software para la gestión de problemas en propiedades horizontales.
+**Technologies:** Spring Boot, React.js  
+> Software for incident management in property administration.
 
 ---
 
 ### [CampusCal](https://github.com/sarrietav-dev/campuscal)  
-**Tecnologías:** Laravel, Vue.js  
-> Aplicación para la gestión de reservas de espacios universitarios en la Universidad de Cartagena.
+**Technologies:** Laravel, Vue.js  
+> Application for managing university space reservations at the University of Cartagena.
 
 ---
 
-## 🛠️ Habilidades
+## 🛠️ Skills
 
-**Lenguajes de programación:**  
+**Programming Languages:**  
 Go, Python, Java, TypeScript
 
 **Frameworks:**  
 Laravel, ASP.NET, Angular, React Native, Flutter, Next.js, Spring Boot
 
-**Herramientas:**  
+**Tools:**  
 Docker, AWS, Azure Pipelines, Terraform
 
-**Bases de Datos:**  
+**Databases:**  
 MongoDB, PostgreSQL, MySQL
 
-**Metodologías:**  
-Domain-Driven Design (DDD), Test-Driven Development (TDD), APIs RESTful
+**Methodologies:**  
+Domain-Driven Design (DDD), Test-Driven Development (TDD), RESTful APIs
 
 ---
 
-## 🌍 Idiomas
+## 🌍 Languages
 
-- **Español:** Lengua madre  
-- **Inglés:** Nivel conversacional  
+- **Spanish:** Native  
+- **English:** Conversational

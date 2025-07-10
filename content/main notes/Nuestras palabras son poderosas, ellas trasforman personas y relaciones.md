@@ -1,23 +1,23 @@
 ---
 tags:
-  - disciplina
-  - fe
-  - carácter
+  - discipline
+  - faith
+  - character
 ---
 
-Las palabras pueden tener un gran impacto en los demás. Pueden edificar o destruir.
+Words can have a great impact on others. They can build up or destroy.
 
-Por ejemplo:
-- El chisme puede generar ansiedad y dañar la reputación de una persona.
-- Rechazar a alguien por sus pecados puede hacer que se sienta aún más hundido.
-- Los halagos falsos dañan tu integridad.
+For example:
+- Gossip can generate anxiety and damage a person's reputation.
+- Rejecting someone because of their sins can make them feel even more overwhelmed.
+- False flattery harms your integrity.
 
-# Apoyo bíblico
+# Biblical support
 
-Santiago 3:5-6  
-**5** ¡Cuán grande bosque enciende un pequeño fuego!  
-**6** Y la lengua es un fuego, un mundo de maldad.
+James 3:5-6  
+**5** How great a forest is set ablaze by such a small fire!  
+**6** And the tongue is a fire, a world of unrighteousness.
 
-# Referencias
+# References
 
 [[Disciplines of a Godly man]]

@@ -8,23 +8,22 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
 
   return (
     <article class="popover-hint">
-      <h1>¡Vaya! Esta página no existe... por ahora.</h1>
+      <h1>Oops! This page doesn't exist... yet.</h1>
       <p>
-        Parece que esta página no existe (todavía). Tal vez no he escrito sobre este tema, o hay un
-        error en la URL.
+        It looks like this page doesn't exist (yet). Maybe I haven't written about this topic, or there's an error in the URL.
       </p>
-      <p>🔍 ¿Qué sigue?</p>
+      <p>🔍 What's next?</p>
       <ul>
-        <li>Verifica la URL para asegurarte de que no haya errores.</li>
+        <li>Check the URL to make sure there are no mistakes.</li>
         <li>
-          <a href={baseDir}>Regresa a la página principal</a> y explora otros temas.
+          <a href={baseDir}>Return to the homepage</a> and explore other topics.
         </li>
         <li>
-          Si crees que algo debería estar aquí,{" "}
-          <a href="mailto:blog@sarrietav.dev">házmelo saber.</a>
+          If you think something should be here, {" "}
+          <a href="mailto:blog@sarrietav.dev">let me know.</a>
         </li>
       </ul>
-      <p>¡Feliz exploración! 🚀</p>
+      <p>Happy exploring! 🚀</p>
     </article>
   )
 }

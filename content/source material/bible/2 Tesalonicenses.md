@@ -1,12 +1,12 @@
 ---
 tags:
-  - biblia
-  - fe
+  - bible
+  - faith
 ---
 
-# 2 Tesalonicenses 2
+# 2 Thessalonians 2
 
-> [!tip]- No depende de nuestro desempeño  
-> Nuestra salvación no depende de nuestro desempeño para agradar a Dios, sino de Su regalo inmerecido: Su gracia.  
+> [!tip]- It doesn't depend on our performance  
+> Our salvation does not depend on our performance to please God, but on His undeserved gift: His grace.  
 >
-> Podemos tener una confianza humilde en que Su obra es suficiente, y dejar que esa verdad nos fortalezca, nos llene de energía, nos anime y nos haga perseverar.  
+> We can have humble confidence that His work is sufficient, and let that truth strengthen us, energize us, encourage us, and make us persevere.  
