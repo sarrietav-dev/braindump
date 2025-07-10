@@ -10,7 +10,7 @@ import { defaultImage } from "./quartz/util/og"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🌲 Sebas",
+    pageTitle: '<img src="/static/icon.svg" alt="Knowledge Garden Icon" style="height:1em;vertical-align:middle;" /> Sebas',
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -19,7 +19,7 @@ const config: QuartzConfig = {
       websiteId: "60a1ee55-e220-410d-aa67-3fb8280b5601",
     },
     locale: "en-US",
-    baseUrl: "sarrietav.dev",
+    baseUrl: "brain.sarrietav.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

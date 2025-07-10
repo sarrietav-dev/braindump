@@ -1,33 +1,50 @@
 ---
-title: Welcome!
-description: “Exploring technology, faith, and meaningful impact.”
+title: Knowledge Garden
+description: A living, evolving collection of notes—ideas in motion, references, and reflections.
 ---
 
-<div style="font-family: 'Georgia', serif; font-style: italic; font-size: 1.5rem; text-align: center; color: var(--secondary); padding: 20px; margin-bottom: 20px;">
-"Exploring technology, faith, and meaningful impact."
+
+Hey there! 👋 Welcome to my digital garden—a cozy corner of the internet where I plant, prune, and connect the ideas I’m learning about. This isn’t a polished blog or a static wiki. It’s a living archive, always sprouting new thoughts and sometimes a few weeds.
+
+> “Write to think. Share to remember. Connect to understand.”
+
+## Why this exists
+
+I built this space to store and share the core ideas I stumble upon while learning about all sorts of things—faith, technology, books, and more. It helps me remember, reflect, and sometimes spark a conversation. If you find something useful here, that’s a happy bonus!
+
+## How to explore
+
+- 🌱 **[[faith]]** — Notes and questions about theology, spirituality, and life’s big mysteries. (Look for the occasional animated GIF for a little fun!)
+- 📚 **[[Reference Material]]** — Summaries and takeaways from books, articles, talks, and other resources I’ve learned from.
+- 🧠 **[[Main Notes]]** — My own thoughts, syntheses, and half-baked ideas. This is where the messiest thinking happens.
+
+You can also:
+- Browse by [[tags|topic tags]] to see clusters of related ideas.
+- Use the search bar to jump straight to what interests you.
+
+<div style="text-align: center; margin: 2em 0;">
+  <img src="./assets/me.png" alt="Thinking in progress" style="max-width: 120px; border-radius: 50%; opacity: 0.7;" />
+  <p style="font-size: 1.1em; color: var(--secondary);">(Imagine a fun animation here showing ideas connecting!)</p>
 </div>
 
-<div class="intro">
-  <div class="intro__words">
-    <p>Hi, I'm Sebastián Arrieta, a Colombian software developer passionate about creating systems that make a meaningful impact on people's lives. I enjoy learning new technologies and fostering collaboration within development teams to deliver effective solutions.</p>
-    <p>Outside of programming, I like spending time reading my Bible and volunteering at my local church, where I find inspiration and purpose beyond work.</p>
-    <p>Currently, I'm focused on improving my writing skills through a blog where I share ideas about programming and system design. I'm also excited about the adventure of starting my own company.</p>
-  </div>
-  <div class="intro__img">
-    <img src="./assets/me.png" />
-  </div>
-</div>
+## Read me with kindness
 
-## Projects
+These notes are snapshots of my thinking at a moment in time. Some are finished, many are not. You might find contradictions, open questions, or ideas that change as I learn more. That’s all part of the process!
 
-These are some projects I'm proud of:
+If you spot something interesting, confusing, or just want to say hi, feel free to reach out:
 
-- [CampusCal](https://github.com/sarrietav-dev/campuscal): I developed a comprehensive reservation system for the University of Cartagena, optimizing the management of university spaces. I improved user experience by reducing booking times by 50% through intuitive design and efficient workflows. Built with **Laravel**, **Vue.js**, and **TailwindCSS**.
-- [Horizon](https://github.com/sarrietav-dev/horizon): I created a robust software solution for incident management in property administration. I focused on scalability and user-friendly interfaces to simplify property management processes. Developed with **React.js** and **Spring Boot**.
-- [Shoppingify](https://github.com/sarrietav-dev/shoppingify): I designed and developed a web application to manage shopping lists and provide advanced analytics to track shopping habits. Built with a strong focus on **Domain-Driven Design (DDD)** principles to ensure scalability and maintainability.
-- [Product Feedback](https://github.com/sarrietav-dev/shoppingify): A platform where users can give feedback on a company's products. This project was developed with Ruby on Rails!
-- [Finance](https://github.com/sarrietav-dev/finance): A platform where you can manage your personal finances. Record transactions, track your budget, add savings funds, etc. This project was developed with Laravel!
+- 📧 [sarrietav+brain@protonmail.com](mailto:sarrietav+brain@protonmail.com)
 
-## Résumé
+---
 
-[[resume|You can view my résumé here]]
+> [!warning] Disclaimer
+> This digital garden is always growing and changing. Notes may be incomplete, out of date, or reflect evolving perspectives. Everything here is for personal learning and reflection—read at your own risk!
+
+---
+
+<!--
+Suggestions for more visual cues:
+- Add a looping plant growth animation or a subtle background GIF in the header.
+- Use small animated icons next to section headers (e.g., a sprouting seedling for "faith").
+- Place a whimsical GIF at the bottom of the page to reward deep scrollers.
+-->

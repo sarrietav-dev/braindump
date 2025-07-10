@@ -20,7 +20,7 @@ export const sharedPageComponents: SharedLayout = {
         // from data-category-id
         categoryId: "DIC_kwDONO2PU84Cndyn",
         lang: "en",
-        themeUrl: "https://sarrietav.dev/static/giscus",
+        themeUrl: "https://brain.sarrietav.dev/static/giscus",
       },
     }),
   ],
