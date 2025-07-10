@@ -18,6 +18,7 @@ I built this space to store and share the core ideas I stumble upon while learni
 - 🧠 **[[Main Notes]]** — My own thoughts, syntheses, and half-baked ideas. This is where the messiest thinking happens.
 
 You can also:
+
 - Browse by [[tags|topic tags]] to see clusters of related ideas.
 - Use the search bar to jump straight to what interests you.
 
