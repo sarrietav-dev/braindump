@@ -1,5 +1,6 @@
 {
   "cssTheme": "Minimal",
   "theme": "system",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "translucency": true
 }
