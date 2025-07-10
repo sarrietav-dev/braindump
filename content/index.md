@@ -13,7 +13,7 @@ I built this space to store and share the core ideas I stumble upon while learni
 
 ## How to explore
 
-- 🌱 **[[faith|Faith]]** — Notes and questions about theology, spirituality, and life’s big mysteries.
+- 🌱 **[[faith|Faith]]** — Notes and questions about theology, christianity, and life’s big mysteries.
 - 📚 **[[source material/index|Reference Material]]** — Summaries and takeaways from books, articles, talks, and other resources I’ve learned from.
 - 🧠 **[[main notes/index|Main notes]]** — My own thoughts, syntheses, and half-baked ideas. This is where the messiest thinking happens.
 
