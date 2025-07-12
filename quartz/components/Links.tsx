@@ -43,12 +43,6 @@ export default ((userOpts?: Partial<Options>) => {
           </li>
           <li>
             <h3 style={{ marginTop: 0, marginBottom: 0 }}>
-              <a href="/blog">Blog</a>
-            </h3>
-            <i>More elaborate articles that connect ideas and delve into a topic.</i>
-          </li>
-          <li>
-            <h3 style={{ marginTop: 0, marginBottom: 0 }}>
               <a href="/source-material">Reference Material</a>
             </h3>
             <i>Notes based on books, articles, and other learning resources.</i>
