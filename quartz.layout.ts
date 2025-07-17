@@ -29,7 +29,7 @@ export const sharedPageComponents: SharedLayout = {
       GitHub: "https://github.com/sarrietav-dev",
       Twitter: "https://twitter.com/sarrietav",
       LinkedIn: "https://www.linkedin.com/in/sarrietav/",
-      Email: "mailto:sebas@sarrietav.dev",
+      Email: "mailto:brain+sarrietav@protonmail.com",
     },
   }),
 }
@@ -37,7 +37,10 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
+    Component.ConditionalRender({
+      component: Component.Breadcrumbs(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
@@ -103,9 +106,16 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.ReaderMode(),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
+      ],
+    }),
   ],
   right: [],
 }
