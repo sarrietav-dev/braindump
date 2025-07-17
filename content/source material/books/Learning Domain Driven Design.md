@@ -4,7 +4,6 @@ tags:
   - architecture
   - ddd
 ---
-
 Link to the book: [Learning Domain-Driven Design](https://amzn.to/3FeI16o)
 
 # Domains

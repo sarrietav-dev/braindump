@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"main notes\"",
+  "search": "path:\"main notes\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -32,7 +32,7 @@
       "query": "path:\"source material\"  ",
       "color": {
         "a": 1,
-        "rgb": 16514816
+        "rgb": 16716032
       }
     }
   ],
@@ -46,6 +46,6 @@
   "repelStrength": 12.0833333333333,
   "linkStrength": 1,
   "linkDistance": 258,
-  "scale": 0.6577169471499412,
+  "scale": 0.9635146031265118,
   "close": false
 }

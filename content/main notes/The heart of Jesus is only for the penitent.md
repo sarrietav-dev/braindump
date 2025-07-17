@@ -3,7 +3,7 @@ tags:
   - faith
   - christology
 ---
-Jesus reserves his [[Jesus is gentle and humble of heart|gentle and humble]] heart for those who repent.
+Jesus reserves his [[Jesus is gentle and humble of heart]] heart for those who repent.
 
 Before Jesus described his heart, He rebuked those cities that did not repent, showing his heart of justice:
 
