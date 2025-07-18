@@ -3,7 +3,9 @@ tags:
   - software
   - ddd
 ---
-A subdomain is a part of a domain that, together with other subdomains, helps the company achieve its objectives and goals. There are three types of subdomains.
+A subdomain is a subdivision of the business domain, each solving part of the overall problem.
+
+There are three types of subdomains.
 
 - [[Core subdomain]]
 - [[Generic subdomain]]

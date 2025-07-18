@@ -3,6 +3,8 @@ tags:
   - software
   - ddd
 ---
+A supporting subdomain provides necessary functionality to the business, but does not drive its core competitive edge.
+
 ## Supporting subdomains
 
 - They are not critical.

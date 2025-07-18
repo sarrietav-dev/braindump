@@ -3,9 +3,13 @@ tags:
   - software
   - ddd
 ---
-A domain is the area of activity of the company, the service it provides to its clients. A company can have several domains.
+A domain is the area of knowledge, activity, or business that an organization engages in—and that software systems aim to model. It’s the problem space that developers and domain experts work to understand and represent.
 
-A domain has many [[Subdomain|subdomains]]
+A single organization may contain multiple domains.
+
+# Related
+- [[Subdomain]]
+- [[Bounded context]]
 
 # References
 

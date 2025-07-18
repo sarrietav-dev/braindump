@@ -9,7 +9,7 @@ Software should **imitate knowledge**: how domain experts think about the proble
 
 ## Communication
 
-Communication is **crucial** for a software project, but nowadays in many projects we see the "telephone game".
+Communication is **crucial** for a software project, but nowadays in many projects we often encounter the "telephone game".
 
 The expert talks to the analyst, creating the requirements document. Then the architect receives the document and generates the design. Finally, the developers write the code.
 

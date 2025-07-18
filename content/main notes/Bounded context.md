@@ -3,9 +3,11 @@ tags:
   - software
   - ddd
 ---
-A bounded context is a boundary where a [[Ubiquitous Language]] or a [[Model]] is coherent and applicable.
+A bounded context is a boundary where a [[Ubiquitous Language]] or a [[Domain Model]] is coherent and applicable.
 
 This is a strategic pattern that helps reduce project complexity by reducing the scope of language concepts and eliminating terminology conflicts.
+
+The bounded context should align with team boundaries, deployment units, and modeling efforts.
 
 # **Example of Terminology Conflict**
 
