@@ -1,15 +1,20 @@
 ---
 tags:
   - faith
+  - apologetics
 ---
-God gives us the freedom to believe or not to believe. This freedom is what allows us to be moral beings and decide our eternal destiny.  
+## Free Will and Belief
+God allows us to choose whether or not to believe. This freedom makes faith meaningful and preserves our moral agency and responsibility.
 
-God has given us enough capacity and evidence to know and accept Him, but He has also left enough ambiguity so that those who do not want to believe do not feel forced to do so.  
+## Divine Ambiguity and Evidence
+God provides enough evidence to make belief reasonable, but also enough ambiguity to preserve free choice. If He revealed Himself in overwhelming power, belief would be coerced—not chosen.
 
-If God revealed Himself directly in all His greatness, His presence would be so overwhelming that it would eliminate any possibility of choosing freely.  
+## Love Must Be Freely Given
+God desires love, but love must be voluntary. That is the purpose of life: to freely choose to love and trust Him.
 
-He wants us to love Him, but love must be given freely, not out of obligation. And that is the purpose of life: to make that choice.
+# Related
+- [[Free will]]
+- [[God's hiddenness]]
 
 # References
-
 [[I Don't Have Enough Faith to Be an Atheist]]
