@@ -17,8 +17,11 @@ It acts like an orchestrator:
 - If the audience grows, the orchestrator increases the number of musicians.
 
 > [!question] What exactly is an orchestrator?
+
 > [!question] What alternatives are there to k8s?
+
 > [!question] What are the pros and cons of using k8s in a project?
+
 > [!question] When to use and when not to use k8s?
 
 # Local Installation

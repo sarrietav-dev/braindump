@@ -1,17 +1,12 @@
-# Gentle and Lowly
-
 ---
 tags:
   - faith
 ---
-
 Link to the book: [Gentle and Lowly](https://amzn.to/3DqXCiv)
 
 Jesus described His own heart: gentle and lowly.
 
-
 > [!question] Does this description exclude other attributes like His justice? #TODO
-
 
 In both the Old and New Testaments, the heart is the center of our entire being. It is our life and **who we are**.
 

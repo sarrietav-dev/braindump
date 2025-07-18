@@ -3,12 +3,9 @@ tags:
   - sermons
   - faith
 ---
-
-# From Trouble to Triumph, Part 3A
-
 Link to the sermon:
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6Va8TIpvNvaLyJQa4ZgxlM?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zm6vMkN5EcQ?si=RJexLP30ZDQi11iY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Trials serve to reveal the legitimacy or illegitimacy of our faith. They determine whether a person trusts and loves God in difficult times or not. This is the main theme James seeks to address in his epistle.
 
@@ -82,4 +79,4 @@ And He will give it to us generously, freely, abundantly, and without conditions
 
 # References
 
-[[Santiago]]
+[[James]]
