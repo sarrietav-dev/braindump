@@ -41,4 +41,82 @@ configuration:
         tertiary: "#748c85"
         highlight: "rgba(75, 107, 95, 0.15)"
         textHighlight: "#8fb3a3"
-plugins: []
+plugins:
+  - source: "@quartz-community/note-properties"
+    enabled: true
+    order: 5
+    options:
+      includeAll: false
+      includedProperties:
+        - description
+        - tags
+        - aliases
+      excludedProperties: []
+      hidePropertiesView: true
+      delimiters: "---"
+      language: yaml
+    layout:
+      position: beforeBody
+      priority: 15
+  - source: "@quartz-community/created-modified-date"
+    enabled: true
+    order: 10
+    options:
+      defaultDateType: modified
+      priority:
+        - frontmatter
+        - git
+        - filesystem
+  - source: "@quartz-community/syntax-highlighting"
+    enabled: true
+    order: 20
+    options:
+      theme:
+        light: github-light
+        dark: github-dark
+      keepBackground: false
+  - source: "@quartz-community/obsidian-flavored-markdown"
+    enabled: true
+    order: 30
+    options:
+      enableInHtmlEmbed: false
+  - source: "@quartz-community/github-flavored-markdown"
+    enabled: true
+    order: 40
+  - source: "@quartz-community/table-of-contents"
+    enabled: true
+    order: 50
+    layout:
+      position: right
+      priority: 30
+      display: desktop-only
+  - source: "@quartz-community/crawl-links"
+    enabled: true
+    order: 60
+    options:
+      markdownLinkResolution: shortest
+  - source: "@quartz-community/description"
+    enabled: true
+    order: 70
+  - source: "@quartz-community/latex"
+    enabled: true
+    order: 80
+    options:
+      renderEngine: katex
+  - source: "@quartz-community/remove-draft"
+    enabled: true
+  - source: "@quartz-community/alias-redirects"
+    enabled: true
+  - source: "@quartz-community/content-index"
+    enabled: true
+    options:
+      enableSiteMap: true
+      enableRSS: true
+  - source: "@quartz-community/favicon"
+    enabled: true
+  - source: "@quartz-community/content-page"
+    enabled: true
+  - source: "@quartz-community/folder-page"
+    enabled: true
+  - source: "@quartz-community/tag-page"
+    enabled: true
