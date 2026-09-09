@@ -208,7 +208,7 @@ plugins:
       priority: 40
       display: desktop-only
   - source: "@quartz-community/recent-notes"
-    enabled: true
+    enabled: false
     options:
       title: "Recent notes"
       limit: 6
