@@ -258,3 +258,9 @@ layout:
         - "@quartz-community/recent-notes"
       positions:
         right: []
+    "404":
+      template: default
+      positions:
+        beforeBody: []
+        left: []
+        right: []
