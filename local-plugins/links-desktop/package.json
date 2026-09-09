@@ -1,0 +1,37 @@
+{
+  "name": "links-desktop",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node ../build.mjs links-desktop"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./components": {
+      "types": "./dist/components/index.d.ts",
+      "import": "./dist/components/index.js"
+    }
+  },
+  "peerDependencies": {
+    "@quartz-community/types": "*",
+    "preact": "*"
+  },
+  "quartz": {
+    "name": "links-desktop",
+    "displayName": "Links (desktop)",
+    "description": "Custom nav block, desktop placement.",
+    "version": "1.0.0",
+    "category": "component",
+    "components": {
+      "Links": {
+        "name": "Links",
+        "displayName": "Links",
+        "description": "Custom nav block linking to main-notes, tags/faith, tags/software, and source-material."
+      }
+    }
+  }
+}

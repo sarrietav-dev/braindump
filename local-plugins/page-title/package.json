@@ -1,0 +1,38 @@
+{
+  "name": "page-title",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node ../build.mjs page-title"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./components": {
+      "types": "./dist/components/index.d.ts",
+      "import": "./dist/components/index.js"
+    }
+  },
+  "peerDependencies": {
+    "@quartz-community/types": "*",
+    "@quartz-community/utils": "*",
+    "preact": "*"
+  },
+  "quartz": {
+    "name": "page-title",
+    "displayName": "Custom Page Title",
+    "description": "Site logo and title, linking home.",
+    "version": "1.0.0",
+    "category": "component",
+    "components": {
+      "PageTitle": {
+        "name": "PageTitle",
+        "displayName": "PageTitle",
+        "description": "Renders the site logo and title as a home link."
+      }
+    }
+  }
+}

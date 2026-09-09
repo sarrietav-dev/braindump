@@ -1,0 +1,37 @@
+{
+  "name": "links-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node ../build.mjs links-mobile"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./components": {
+      "types": "./dist/components/index.d.ts",
+      "import": "./dist/components/index.js"
+    }
+  },
+  "peerDependencies": {
+    "@quartz-community/types": "*",
+    "preact": "*"
+  },
+  "quartz": {
+    "name": "links-mobile",
+    "displayName": "Links (mobile)",
+    "description": "Custom nav block, mobile placement.",
+    "version": "1.0.0",
+    "category": "component",
+    "components": {
+      "Links": {
+        "name": "Links",
+        "displayName": "Links",
+        "description": "Custom nav block linking to main-notes, tags/faith, tags/software, and source-material."
+      }
+    }
+  }
+}

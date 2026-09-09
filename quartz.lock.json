@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "links-desktop": {
+      "source": "./local-plugins/links-desktop",
+      "resolved": "/home/sebas/Work/braindump/local-plugins/links-desktop",
+      "commit": "local",
+      "installedAt": "2026-09-08T23:17:59.554Z"
+    },
+    "links-mobile": {
+      "source": "./local-plugins/links-mobile",
+      "resolved": "/home/sebas/Work/braindump/local-plugins/links-mobile",
+      "commit": "local",
+      "installedAt": "2026-09-08T23:17:59.554Z"
+    },
+    "page-title": {
+      "source": "./local-plugins/page-title",
+      "resolved": "/home/sebas/Work/braindump/local-plugins/page-title",
+      "commit": "local",
+      "installedAt": "2026-09-08T23:17:59.554Z"
+    }
+  }
+}
