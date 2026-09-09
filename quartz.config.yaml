@@ -114,6 +114,8 @@ plugins:
       enableRSS: true
   - source: "@quartz-community/favicon"
     enabled: true
+  - source: github:quartz-community/og-image
+    enabled: true
   - source: "@quartz-community/content-page"
     enabled: true
   - source: "@quartz-community/folder-page"
