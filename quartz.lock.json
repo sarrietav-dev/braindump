@@ -14,9 +14,10 @@
       "installedAt": "2026-09-08T23:17:59.554Z"
     },
     "og-image": {
-      "source": "github:quartz-community/og-image",
+      "source": "github:quartz-community/og-image#v0.1.2",
       "resolved": "https://github.com/quartz-community/og-image.git",
       "commit": "e4363e3e3c15d6792c9c0f7f40dbabf018864de5",
+      "ref": "v0.1.2",
       "installedAt": "2026-09-09T04:20:07.283Z"
     },
     "page-title": {
