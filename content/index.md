@@ -1,4 +1,5 @@
 ---
+modified: 2025-07-17T12:29:01-05:00
 title: Knowledge Garden
 description: A living, evolving collection of notes—ideas in motion, references, and reflections.
 ---

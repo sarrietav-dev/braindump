@@ -1,4 +1,5 @@
 ---
+modified: 2025-07-17T12:29:01-05:00
 draft: "true"
 ---
 Talk about the encounter with Talkative in Pilgrim's Progress, chapter 5.

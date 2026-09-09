@@ -1,3 +1,6 @@
+---
+modified: 2025-10-23T19:21:31-05:00
+---
 # Orientation
 
 > Merely copying the past will not be enough if you aspire to future greatness.

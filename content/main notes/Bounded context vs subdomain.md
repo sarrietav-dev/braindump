@@ -1,4 +1,5 @@
 ---
+modified: 2025-07-18T01:15:46-05:00
 tags:
   - ddd
   - software

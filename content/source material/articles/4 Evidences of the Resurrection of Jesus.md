@@ -1,4 +1,5 @@
 ---
+modified: 2025-07-17T12:29:01-05:00
 description: "This article presents four key evidences of Jesus' resurrection: his death and burial, the empty tomb, the apostles' conviction, and Paul's conversion. Through detailed analysis, it argues one of the fundamental pillars of Christianity."
 
 tags:
